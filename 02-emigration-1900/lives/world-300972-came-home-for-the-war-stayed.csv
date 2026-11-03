@@ -1,0 +1,20 @@
+age,year,place,job,income,expenses,aid,savings_after,health_after,skills_after,support_after,actions,events
+18,1900,italy,italy,5.7,15.1,0,30.6,76.5,26.2,45.8,Carry on,bad_harvest
+19,1901,italy,italy,12.9,14.6,0,29.0,74.9,30.4,46.5,Spend part of work time learning,training
+20,1902,italy,italy,18.1,14.6,0,32.5,73.3,31.5,47.1,Carry on,
+21,1903,italy,italy,6.5,14.0,0,25.0,71.8,32.6,47.8,Carry on,bad_harvest
+22,1904,italy,italy,11.7,15.6,0,21.1,70.2,36.4,48.4,Spend part of work time learning,training
+23,1905,italy,italy,15.8,26.7,0,10.1,68.7,37.5,49.0,Go into business with a partner,partnership (duration=4.0)
+24,1906,italy,italy,15.4,16.6,0,8.8,67.2,41.1,49.5,Spend part of work time learning,training
+25,1907,italy,italy,12.5,14.7,0,6.6,65.6,44.5,50.0,Spend part of work time learning,training
+26,1908,italy,italy,23.5,40.3,0,0,62.5,45.4,43.5,Move to a more skilled role,"promotion (stage=1.0); partnership_failure; earthquake (resources_loss=14.2); shortfall (deficit=10.3, health_loss=1.9)"
+27,1909,italy,italy,18.4,16.5,0,1.9,61.2,46.2,44.4,Carry on,
+28,1910,italy,italy,17.1,16.8,0,2.2,59.9,47.1,45.2,Carry on,
+29,1911,italy,italy,20.0,13.5,0,8.7,58.7,47.9,45.9,Carry on,
+30,1912,italy,italy,18.2,16.0,0,10.9,57.4,51.0,46.6,Spend part of work time learning,training
+31,1913,italy,italy,16.3,13.6,0,13.6,56.1,51.8,47.3,Carry on,
+32,1914,italy,italy,26.0,15.3,0,24.4,54.9,52.5,47.9,Carry on,
+33,1915,italy,italy,6,14.8,0,15.6,54.7,54.6,48.5,Spend part of work time learning; Serve in the army,training; drafted
+34,1916,italy,italy,6,14.2,0,7.4,54.6,54.6,49.1,Serve in the army,
+35,1917,italy,italy,6,13.6,0,0,54.4,54.6,49.6,Serve in the army,"shortfall (deficit=0.2, health_loss=0.0)"
+36,1918,italy,italy,6,12.9,0,0,52.9,54.6,50.1,Serve in the army,"shortfall (deficit=6.9, health_loss=1.2)"

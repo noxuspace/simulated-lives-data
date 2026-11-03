@@ -1,0 +1,189 @@
+{
+  "id": "emigration1900",
+  "version": "0.3",
+  "start_year": 1900,
+  "detail_end": 1924,
+  "max_age": 100,
+  "description": "A young man in a village in Calabria, southern Italy, in 1900. Stay, go to New York, or go to the mines and railroads of the American West. Detailed context 1900-1924 (Immigration Act of 1924 ends the era); later years are simplified. Personal story, not a model of the whole population.",
+  "units": "Money in units, not dollars or lire. 20 units = basic costs of one ordinary year at home prices; each place has its own cost of living. Savings are not capped.",
+  "profile": {
+    "age": 18,
+    "sex": "male",
+    "family": "parents and siblings in the village",
+    "stats": {
+      "health": 78,
+      "resources": 40,
+      "skills": 25,
+      "support": 45,
+      "risk": 60,
+      "discipline": 65
+    }
+  },
+  "background_danger": 1.5,
+  "events": {
+    "contact": 0.1,
+    "conflict": 0.035,
+    "family_need": 0.035,
+    "illness": 0.065,
+    "serious_illness": 0.012,
+    "partnership_failure": 0.08
+  },
+  "places": {
+    "italy": {
+      "label": "Stay in the village",
+      "annual_cost": 14,
+      "family_support": 6,
+      "illness_multiplier": 1.0
+    },
+    "new_york": {
+      "label": "New York",
+      "annual_cost": 24,
+      "family_support": 0,
+      "illness_multiplier": 1.35
+    },
+    "west": {
+      "label": "The American West",
+      "annual_cost": 20,
+      "family_support": 0,
+      "illness_multiplier": 1.0
+    }
+  },
+  "paths": {
+    "italy": {
+      "label": "Farm laborer in the village",
+      "place": "italy",
+      "entry_cost": 0,
+      "support_change": 0,
+      "income_low": 10,
+      "income_high": 22,
+      "wear": 1.4,
+      "accident_chance": 0.015,
+      "bad_harvest_chance": 0.12
+    },
+    "new_york": {
+      "label": "Laborer in New York",
+      "place": "new_york",
+      "entry_cost": 22,
+      "support_change": -12,
+      "contact_bonus": 0.05,
+      "income_low": 27,
+      "income_high": 42,
+      "wear": 1.5,
+      "accident_chance": 0.025,
+      "job_loss_chance": 0.12
+    },
+    "west": {
+      "label": "Mines and railroads in the West",
+      "place": "west",
+      "entry_cost": 30,
+      "support_change": -20,
+      "contact_bonus": 0.0,
+      "income_low": 27,
+      "income_high": 44,
+      "wear": 2.2,
+      "accident_chance": 0.045,
+      "job_loss_chance": 0.1,
+      "land_chance": 0.06,
+      "land_cost": 30
+    }
+  },
+  "farmer": {
+    "label": "Homestead farmer in the West",
+    "income_low": 12,
+    "income_high": 48,
+    "wear": 1.6,
+    "accident_chance": 0.02,
+    "drought_chance": 0.15
+  },
+  "arrival": {
+    "rejection_chance": 0.02
+  },
+  "return": {
+    "ticket": 18,
+    "homesick_support": 38,
+    "savings_goal": 70,
+    "goal_chance": 0.047,
+    "failure_years": 3,
+    "failure_chance": 0.14,
+    "max_age": 50,
+    "support_gain": 15
+  },
+  "shared_shocks": {
+    "panic_1907": {
+      "years": [
+        1907,
+        1908
+      ],
+      "us_job_loss_multiplier": 2.0
+    },
+    "messina_1908": {
+      "year": 1908,
+      "italy_death_chance": 0.01,
+      "italy_loss_low": 5,
+      "italy_loss_high": 20
+    },
+    "war_italy": {
+      "years": [
+        1915,
+        1916,
+        1917,
+        1918
+      ],
+      "max_age": 39,
+      "call_up_chance": 0.85,
+      "death_per_year": 0.033,
+      "wound_per_year": 0.053
+    },
+    "flu_1918": {
+      "year": 1918,
+      "illness_multiplier": 3.0,
+      "death_chance": 0.008
+    },
+    "depression": {
+      "years": [
+        1930,
+        1931,
+        1932,
+        1933
+      ],
+      "us_job_loss_multiplier": 2.5,
+      "italy_income_multiplier": 0.85
+    }
+  },
+  "parameter_status": "Every coefficient is the author's assumption. Sources support the historical context and give anchors to compare against (for example the share of migrants who returned), not these probabilities.",
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Ellis_Island",
+      "supports": "Ellis Island opened on 1 January 1892; about 2% of arrivals were deported"
+    },
+    {
+      "url": "https://www.nps.gov/elis/learn/historyculture/ellis-island-chronology.htm",
+      "supports": "1907 peak year (1.2 million examined); 1914-1918 war decline; 1924 National Origins Act"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Italian_Americans",
+      "supports": "1880-1914: 13 million Italians emigrated, 4 million to the US, 3 million of them in 1900-1914, mostly from southern Italy; 'birds of passage'; 16.5 million Americans report Italian ancestry (2020)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Italian_diaspora",
+      "supports": "1861-1985: about 35% of Italian emigrants returned to Italy"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/1908_Messina_earthquake",
+      "supports": "28 December 1908, Sicily and Calabria, around 120,000 dead"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Military_history_of_Italy_during_World_War_I",
+      "supports": "General mobilization 22 May 1915; about half a million Italian soldiers died"
+    },
+    {
+      "url": "https://www.nps.gov/home/learn/historyculture/abouthomesteadactlaw.htm",
+      "supports": "Homestead Act: age 21+ or head of household, immigrants who declared intent to become citizens could claim 160 acres"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/World_War_I_casualties",
+      "supports": "Italy: 5,615,000 mobilized; 650,000 killed and died; 947,000 wounded"
+    }
+  ],
+  "calibration": "v0.3 (03.11.2026): calibrated with analysis/calibrate.py to historical anchors, not to a storyline. Targets: about 35% of emigrants returned (Italian diaspora 1861-1985); about 2% deported at Ellis Island; Italy WWI: 650,000 dead and 947,000 wounded of 5,615,000 mobilized (11.6% and 16.9%). v0.1 -> v0.2: returns lowered, New York wages raised; v0.2 -> v0.3: return chances, war death and wound rates fitted."
+}

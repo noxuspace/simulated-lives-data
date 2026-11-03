@@ -1,0 +1,67 @@
+age,year,place,job,income,expenses,aid,savings_after,health_after,skills_after,support_after,actions,events
+18,1900,italy,italy,10.4,15.9,0,34.6,76.5,29.2,45.8,Spend part of work time learning,training
+19,1901,italy,italy,19.7,13.4,0,40.9,74.9,30.4,46.5,Carry on,
+20,1902,italy,italy,16.1,14.9,0,42.1,73.3,34.3,47.1,Spend part of work time learning,declined_contact; training
+21,1903,italy,italy,17.2,12.8,0,46.4,71.8,38.1,47.8,Spend part of work time learning,training
+22,1904,italy,italy,15.5,13.6,0,48.3,70.2,41.7,48.4,Spend part of work time learning,training
+23,1905,italy,italy,14.2,15.0,0,47.5,68.7,42.6,49.0,Carry on,
+24,1906,italy,italy,22.0,16.0,0,53.5,67.4,45.9,49.5,Move to a more skilled role; Spend part of work time learning,promotion (stage=1.0); training
+25,1907,italy,italy,28.8,13.2,0,69.1,66.2,47.5,57.0,Accept help from an experienced acquaintance,mentor
+26,1908,italy,italy,13.9,18.0,0,65.0,64.9,49.0,57.2,Carry on,earthquake (resources_loss=5.2)
+27,1909,italy,italy,16.7,13.0,0,68.7,63.6,52.6,57.3,Spend part of work time learning,training
+28,1910,italy,italy,23.8,15.8,0,76.7,62.4,55.4,57.5,Spend part of work time learning,training
+29,1911,italy,italy,12.8,15.4,0,74.0,61.1,56.1,57.6,Carry on,bad_harvest
+30,1912,italy,italy,14.3,13.8,0,74.6,59.8,56.8,57.7,Carry on,
+31,1913,italy,italy,16.5,12.7,0,78.4,58.5,59.4,57.8,Spend part of work time learning,training
+32,1914,italy,italy,30.2,14.9,0,93.7,57.3,60.1,57.9,Carry on,
+33,1915,italy,italy,6,13.7,0,86.0,57.1,60.1,58.0,Serve in the army,drafted
+34,1916,italy,italy,6,16.0,0,76.0,57.0,60.1,58.1,Serve in the army,
+35,1917,italy,italy,6,20.0,0,62.1,50.1,61.9,65.2,Accept help from an experienced acquaintance; Spend part of work time learning; Serve in the army,"mentor; training; wounded (health_loss=13.7, health_cap=93.0); paid_care (recovery=4.0); social_care (recovery=3.0)"
+36,1918,italy,italy,6,13.2,0,54.8,49.9,61.9,65.0,Serve in the army,
+37,1919,italy,italy,25.0,14.1,0,65.7,48.5,63.0,64.7,Carry on,
+38,1920,italy,italy,24.6,13.3,0,77.0,47.1,63.6,64.5,Carry on,
+39,1921,italy,italy,8.2,15.2,0,70.0,45.6,64.2,64.3,Carry on,bad_harvest
+40,1922,italy,italy,10.0,15.9,0,64.1,44.1,66.4,64.0,Spend part of work time learning,training
+41,1923,italy,italy,14.5,13.6,0,65.0,42.8,66.9,63.8,Move to a more skilled role,promotion (stage=2.0)
+42,1924,italy,italy,20.4,13.5,0,71.9,41.4,67.5,63.7,Carry on,
+43,1925,italy,italy,24.7,14.4,0,82.2,40.0,68.0,63.5,Carry on,
+44,1926,italy,italy,20.4,16.5,0,86.2,38.5,68.5,63.3,Carry on,
+45,1927,italy,italy,0,12.7,13,86.5,51.0,68.5,63.1,Stop working to recover,declined_contact; rest (recovery=13.2); care_support (aid=13.0)
+46,1928,italy,italy,28.5,12.7,0,102.3,49.4,69.0,63.0,Carry on,
+47,1929,italy,italy,18.8,20.9,0,100.2,39.5,69.5,62.8,Carry on,serious_illness (health_loss=15.2); paid_care (recovery=4.0); social_care (recovery=3.0)
+48,1930,italy,italy,10.2,14.2,0,96.2,37.8,70.0,62.7,Carry on,
+49,1931,italy,italy,0,16.0,13,93.2,50.0,70.0,62.6,Stop working to recover,rest (recovery=13.2); care_support (aid=13.0)
+50,1932,italy,italy,19.4,13.9,0,98.7,48.2,70.5,62.4,Carry on,
+51,1933,italy,italy,14.2,16.7,0,96.2,46.4,72.7,69.3,Accept help from an experienced acquaintance; Spend part of work time learning,mentor; training
+52,1934,italy,italy,19.2,16.1,0,99.3,44.4,73.5,68.8,Carry on,
+53,1935,italy,italy,7.5,16.0,0,90.7,42.5,74.3,68.4,Carry on,bad_harvest
+54,1936,italy,italy,15.7,15.6,0,90.9,40.4,74.7,68.0,Carry on,
+55,1937,italy,italy,16.5,15.4,0,91.9,38.3,75.1,67.6,Carry on,
+56,1938,italy,italy,0,15.9,13,89.0,50.5,75.1,67.2,Stop working to recover,rest (recovery=13.5); care_support (aid=13.0)
+57,1939,italy,italy,20.5,22.7,0,86.8,45.1,75.5,66.8,Carry on,illness (health_loss=10.2); paid_care (recovery=4.0); social_care (recovery=3.0)
+58,1940,italy,italy,26.7,12.9,0,100.6,42.8,76.2,73.5,Accept help from an experienced acquaintance,mentor
+59,1941,italy,italy,20.0,15.7,0,104.9,40.5,76.9,72.8,Carry on,
+60,1942,italy,italy,18.4,13.8,0,109.6,38.1,77.5,72.2,Carry on,
+61,1943,italy,italy,0,13.3,13,109.3,50.3,77.5,71.6,Stop working to recover,rest (recovery=13.8); care_support (aid=13.0)
+62,1944,italy,italy,24.9,16.2,0,118.0,47.9,77.9,61.0,Carry on,conflict
+63,1945,italy,italy,14.1,14.3,0,117.7,45.3,78.2,60.9,Carry on,bad_harvest
+64,1946,italy,italy,12.7,15.8,0,114.6,42.7,78.6,60.9,Carry on,bad_harvest
+65,1947,italy,italy,8.9,16.3,0,107.1,40.1,78.9,50.9,Carry on,conflict; bad_harvest
+66,1948,italy,italy,16.5,15.4,0,108.2,37.4,79.3,51.3,Carry on,
+67,1949,italy,italy,0,13.3,13,107.9,47.9,79.3,51.7,Stop working to recover,rest (recovery=12.4); care_support (aid=13.0)
+68,1950,italy,italy,14.2,14.1,0,107.9,45.1,79.6,52.2,Carry on,
+69,1951,italy,italy,11.6,13.0,0,106.4,42.3,79.9,52.5,Carry on,
+70,1952,italy,italy,13.8,14.9,0,105.3,39.4,80.2,52.9,Carry on,
+71,1953,italy,italy,11.5,14.5,0,102.4,36.4,80.6,53.3,Carry on,
+72,1954,italy,italy,0,13.4,13,102.0,46.8,80.6,53.6,Stop working to recover,declined_contact; rest (recovery=12.6); care_support (aid=13.0)
+73,1955,italy,italy,18.2,15.0,0,105.1,43.7,80.9,53.9,Carry on,
+74,1956,italy,italy,9.6,14.7,0,100.1,40.6,81.2,54.2,Carry on,
+75,1957,italy,italy,10.9,14.9,0,96.1,37.4,81.5,54.5,Carry on,
+76,1958,italy,italy,0,15.3,13,93.8,47.6,81.5,54.8,Stop working to recover,rest (recovery=12.7); care_support (aid=13.0)
+77,1959,italy,italy,17.8,15.5,0,96.1,44.3,81.8,55.1,Carry on,
+78,1960,italy,italy,17.1,13.6,0,99.6,41.0,82.1,55.3,Carry on,
+79,1961,italy,italy,9.0,13.6,0,95.0,37.6,82.4,55.5,Carry on,
+80,1962,italy,italy,0,21.9,13,86.1,41.5,82.4,55.8,Stop working to recover,rest (recovery=12.7); care_support (aid=13.0); illness (health_loss=13.2); paid_care (recovery=4.0); social_care (recovery=3.0)
+81,1963,italy,italy,15.9,13.5,0,88.4,37.9,82.6,56.0,Carry on,
+82,1964,italy,italy,0,13.2,13,88.3,47.9,82.6,56.2,Stop working to recover,rest (recovery=12.7); care_support (aid=13.0)
+83,1965,italy,italy,17.1,15.9,0,89.4,44.3,82.9,56.4,Carry on,

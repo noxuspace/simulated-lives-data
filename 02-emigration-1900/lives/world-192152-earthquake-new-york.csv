@@ -1,0 +1,78 @@
+age,year,place,job,income,expenses,aid,savings_after,health_after,skills_after,support_after,actions,events
+18,1900,new_york,new_york,45.0,28.2,0,34.8,76.3,26.2,33.1,Carry on,
+19,1901,new_york,new_york,31.8,21.8,0,44.8,74.7,30.4,33.2,Spend part of work time learning,training
+20,1902,new_york,new_york,26.2,23.1,0,47.9,73.0,31.5,33.3,Carry on,
+21,1903,new_york,new_york,36.9,26.9,0,57.8,71.4,32.6,33.4,Carry on,
+22,1904,new_york,new_york,27.0,32.5,0,52.3,55.1,36.4,33.5,Spend part of work time learning,training; illness (health_loss=18.6); paid_care (recovery=4.0)
+23,1905,new_york,new_york,39.5,38.2,0,53.5,53.5,37.5,33.5,Go into business with a partner,partnership (duration=4.0)
+24,1906,new_york,new_york,9.0,24.6,0,37.9,51.8,38.5,33.6,Carry on,job_loss
+25,1907,new_york,new_york,43.0,22.1,0,58.9,50.2,39.4,33.7,Carry on,
+26,1908,new_york,new_york,12.3,22.0,0,49.2,48.5,40.4,23.7,Carry on,conflict; job_loss
+27,1909,new_york,new_york,24.3,26.4,0,47.1,46.9,41.4,24.3,Carry on,
+28,1910,new_york,new_york,37.9,29.2,0,55.9,25.5,42.3,24.8,Carry on,serious_illness (health_loss=23.7); paid_care (recovery=4.0)
+29,1911,new_york,new_york,0,22.4,0,33.4,36.5,42.3,32.3,Accept help from an experienced acquaintance; Move to a more skilled role; Stop working to recover,mentor; promotion (stage=1.0); rest (recovery=11.2)
+30,1912,new_york,new_york,0,30.9,0,2.5,34.4,42.3,32.5,Stop working to recover,rest (recovery=11.2); illness (health_loss=17.1); paid_care (recovery=4.0)
+31,1913,new_york,new_york,0,27.0,0,0,42.5,42.3,32.6,Stop working to recover,"rest (recovery=11.2); shortfall (deficit=24.4, health_loss=3.0)"
+32,1914,new_york,new_york,30.7,21.7,0,9.0,41.1,43.2,32.7,Carry on,
+33,1915,new_york,new_york,29.2,28.1,0,10.1,39.8,44.1,32.8,Carry on,
+34,1916,new_york,new_york,29.8,27.2,0,12.7,37.8,45.0,32.9,Take extra risk for more income,push
+35,1917,new_york,new_york,0,27.7,0,0,46.2,45.0,33.0,Stop working to recover,"rest (recovery=11.2); shortfall (deficit=15.0, health_loss=2.7)"
+36,1918,new_york,new_york,46.1,25.1,0,21.1,44.8,45.9,33.1,Carry on,
+37,1919,new_york,new_york,40.1,31.0,0,30.2,28.1,46.8,33.2,Carry on,"injury (health_loss=19.2, health_cap=88.0); paid_care (recovery=4.0)"
+38,1920,new_york,new_york,0,25.6,0,4.7,39.0,46.8,33.3,Stop working to recover,rest (recovery=11.2)
+39,1921,new_york,new_york,27.4,31.3,0,0.7,26.7,47.6,33.4,Take extra risk for more income,push; illness (health_loss=14.2); paid_care (recovery=4.0)
+40,1922,new_york,new_york,0,26.1,0,0,33.9,47.6,23.5,Stop working to recover,"conflict; rest (recovery=10.6); shortfall (deficit=25.4, health_loss=3.0)"
+41,1923,new_york,new_york,0,24.7,0,0,41.0,47.6,24.1,Stop working to recover,"rest (recovery=10.6); shortfall (deficit=24.7, health_loss=3.0)"
+42,1924,new_york,new_york,38.1,28.1,0,9.9,13.8,48.5,24.6,Take extra risk for more income,push; serious_illness (health_loss=28.9); paid_care (recovery=4.0)
+43,1925,new_york,new_york,0,23.7,0,0,21.4,48.5,25.1,Stop working to recover,"rest (recovery=10.7); shortfall (deficit=13.8, health_loss=2.5)"
+44,1926,new_york,new_york,0,25.6,0,0,28.4,48.5,25.6,Stop working to recover,"rest (recovery=10.7); shortfall (deficit=25.6, health_loss=3.0)"
+45,1927,new_york,new_york,0,22.1,0,0,35.5,48.5,26.1,Stop working to recover,"rest (recovery=10.7); shortfall (deficit=22.1, health_loss=3.0)"
+46,1928,new_york,new_york,0,22.7,0,0,42.5,48.5,26.5,Stop working to recover,"rest (recovery=10.8); shortfall (deficit=22.7, health_loss=3.0)"
+47,1929,new_york,new_york,31.9,29.0,0,2.9,25.4,49.3,27.0,Take extra risk for more income,"push; injury (health_loss=18.5, health_cap=76.0); paid_care (recovery=4.0)"
+48,1930,new_york,new_york,0,28.6,0,0,32.3,49.3,27.4,Stop working to recover,"rest (recovery=10.8); shortfall (deficit=25.8, health_loss=3.0)"
+49,1931,new_york,new_york,0,27.1,0,0,39.2,49.3,27.7,Stop working to recover,"rest (recovery=10.8); shortfall (deficit=27.1, health_loss=3.0)"
+50,1932,new_york,new_york,9.2,22.4,0,0,34.7,50.1,28.1,Carry on,"job_loss; shortfall (deficit=13.2, health_loss=2.4)"
+51,1933,new_york,new_york,0,22.5,0,0,41.6,50.1,28.5,Stop working to recover,"rest (recovery=10.9); shortfall (deficit=22.5, health_loss=3.0)"
+52,1934,new_york,new_york,25.1,23.7,0,1.4,39.3,50.9,28.8,Carry on,declined_contact
+53,1935,new_york,new_york,23.8,25.5,0,0,36.9,51.7,29.1,Carry on,"shortfall (deficit=0.3, health_loss=0.1)"
+54,1936,new_york,new_york,0,25.7,0,0,43.6,51.7,29.4,Stop working to recover,"rest (recovery=11.0); shortfall (deficit=25.7, health_loss=3.0)"
+55,1937,new_york,new_york,42.1,34.2,0,7.9,8.1,52.5,29.7,Carry on,"injury (health_loss=14.5, health_cap=69.0); illness (health_loss=22.6); paid_care (recovery=4.0)"
+56,1938,new_york,new_york,0,22.3,0,0,15.2,52.5,29.9,Stop working to recover,"rest (recovery=11.0); shortfall (deficit=14.4, health_loss=2.6)"
+57,1939,new_york,new_york,0,22.8,0,0,1.3,52.5,30.2,Stop working to recover,"declined_contact; rest (recovery=11.0); illness (health_loss=20.5); shortfall (deficit=22.8, health_loss=3.0)"
+58,1940,new_york,new_york,0,23.5,0,0,7.9,52.5,30.4,Stop working to recover,"rest (recovery=11.0); shortfall (deficit=23.5, health_loss=3.0)"
+59,1941,new_york,new_york,0,28.5,0,0,14.5,52.5,30.7,Stop working to recover,"rest (recovery=11.0); shortfall (deficit=28.5, health_loss=3.0)"
+60,1942,new_york,new_york,0,26.5,0,0,6.7,52.5,30.9,Stop working to recover,"rest (recovery=11.1); illness (health_loss=14.4); shortfall (deficit=26.5, health_loss=3.0)"
+61,1943,new_york,new_york,0,21.6,0,0,13.1,52.5,31.1,Stop working to recover,"rest (recovery=11.1); shortfall (deficit=21.6, health_loss=3.0)"
+62,1944,new_york,new_york,0,27.0,0,0,19.6,52.5,31.3,Stop working to recover,"rest (recovery=11.1); shortfall (deficit=27.0, health_loss=3.0)"
+63,1945,new_york,new_york,0,23.0,0,0,26.0,52.5,31.5,Stop working to recover,"declined_contact; rest (recovery=11.1); shortfall (deficit=23.0, health_loss=3.0)"
+64,1946,new_york,new_york,0,23.9,0,0,32.4,52.5,31.6,Stop working to recover,"rest (recovery=11.1); shortfall (deficit=23.9, health_loss=3.0)"
+65,1947,new_york,new_york,0,27.6,0,0,38.7,52.5,31.8,Stop working to recover,"rest (recovery=11.1); shortfall (deficit=27.6, health_loss=3.0)"
+66,1948,new_york,new_york,0,28.8,0,0,45.0,52.5,32.0,Stop working to recover,"rest (recovery=11.1); shortfall (deficit=28.8, health_loss=3.0)"
+67,1949,new_york,new_york,21.2,27.3,0,0,40.8,53.2,32.1,Carry on,"shortfall (deficit=6.1, health_loss=1.1)"
+68,1950,new_york,new_york,17.5,27.6,0,0,35.8,54.6,29.3,Accept help from an experienced acquaintance,"mentor; conflict; shortfall (deficit=10.1, health_loss=1.8)"
+69,1951,new_york,new_york,0,24.2,0,0,41.7,54.6,29.5,Stop working to recover,"rest (recovery=11.0); shortfall (deficit=24.2, health_loss=3.0)"
+70,1952,new_york,new_york,26.7,26.2,0,0.4,38.5,55.9,29.8,Carry on,
+71,1953,new_york,new_york,0,27.9,0,0,32.0,55.9,30.1,Stop working to recover,"rest (recovery=11.0); illness (health_loss=12.3); shortfall (deficit=27.4, health_loss=3.0)"
+72,1954,new_york,new_york,0,21.8,0,0,37.8,55.9,30.3,Stop working to recover,"rest (recovery=11.0); shortfall (deficit=21.8, health_loss=3.0)"
+73,1955,new_york,new_york,0,28.3,0,0,43.6,55.9,30.6,Stop working to recover,"rest (recovery=11.0); shortfall (deficit=28.3, health_loss=3.0)"
+74,1956,new_york,new_york,36.9,34.8,0,2.1,23.4,56.6,30.8,Take extra risk for more income,"push; injury (health_loss=20.1, health_cap=62.0); paid_care (recovery=4.0)"
+75,1957,new_york,new_york,0,25.0,0,0,1.5,56.6,31.0,Stop working to recover,"rest (recovery=11.1); serious_illness (health_loss=27.6); shortfall (deficit=22.9, health_loss=3.0)"
+76,1958,new_york,new_york,0,23.4,0,0,7.2,56.6,31.2,Stop working to recover,"rest (recovery=11.1); shortfall (deficit=23.4, health_loss=3.0)"
+77,1959,new_york,new_york,0,23.4,0,0,12.8,56.6,31.4,Stop working to recover,"rest (recovery=11.1); shortfall (deficit=23.4, health_loss=3.0)"
+78,1960,new_york,new_york,0,24.8,0,0,18.4,56.6,31.6,Stop working to recover,"rest (recovery=11.1); shortfall (deficit=24.8, health_loss=3.0)"
+79,1961,new_york,new_york,0,21.9,0,0,23.3,56.6,21.7,Stop working to recover,"conflict; rest (recovery=10.4); shortfall (deficit=21.9, health_loss=3.0)"
+80,1962,new_york,new_york,0,26.9,0,0,28.2,56.6,22.4,Stop working to recover,"rest (recovery=10.5); shortfall (deficit=26.9, health_loss=3.0)"
+81,1963,new_york,new_york,0,22.9,0,0,33.0,56.6,23.0,Stop working to recover,"rest (recovery=10.5); shortfall (deficit=22.9, health_loss=3.0)"
+82,1964,new_york,new_york,0,25.6,0,0,37.9,56.6,23.6,Stop working to recover,"rest (recovery=10.6); shortfall (deficit=25.6, health_loss=3.0)"
+83,1965,new_york,new_york,0,26.7,0,0,42.7,56.6,24.2,Stop working to recover,"rest (recovery=10.6); shortfall (deficit=26.7, health_loss=3.0)"
+84,1966,new_york,new_york,36.7,25.0,0,11.7,38.0,57.3,24.7,Take extra risk for more income,push
+85,1967,new_york,new_york,0,27.5,0,0,25.4,57.3,25.3,Stop working to recover,"rest (recovery=10.7); illness (health_loss=17.6); shortfall (deficit=15.8, health_loss=2.8)"
+86,1968,new_york,new_york,0,21.8,0,0,30.1,57.3,25.7,Stop working to recover,"rest (recovery=10.7); shortfall (deficit=21.8, health_loss=3.0)"
+87,1969,new_york,new_york,0,21.7,0,0,34.9,57.3,26.2,Stop working to recover,"rest (recovery=10.7); shortfall (deficit=21.7, health_loss=3.0)"
+88,1970,new_york,new_york,0,25.4,0,0,39.6,57.3,26.6,Stop working to recover,"rest (recovery=10.8); shortfall (deficit=25.4, health_loss=3.0)"
+89,1971,new_york,new_york,24.7,27.5,0,0,34.8,58.5,34.1,Accept help from an experienced acquaintance,"mentor; shortfall (deficit=2.8, health_loss=0.5)"
+90,1972,new_york,new_york,0,28.4,0,0,11.0,58.5,34.1,Stop working to recover,"rest (recovery=11.3); serious_illness (health_loss=28.9); shortfall (deficit=28.4, health_loss=3.0)"
+91,1973,new_york,new_york,0,28.2,0,0,16.0,58.5,34.2,Stop working to recover,"rest (recovery=11.3); shortfall (deficit=28.2, health_loss=3.0)"
+92,1974,new_york,new_york,0,22.9,0,0,21.0,58.5,34.2,Stop working to recover,"rest (recovery=11.3); shortfall (deficit=22.9, health_loss=3.0)"
+93,1975,new_york,new_york,0,26.0,0,0,26.0,58.5,34.2,Stop working to recover,"declined_contact; rest (recovery=11.3); shortfall (deficit=26.0, health_loss=3.0)"
+94,1976,new_york,new_york,0,23.0,0,0,30.9,58.5,34.3,Stop working to recover,"rest (recovery=11.3); shortfall (deficit=23.0, health_loss=3.0)"

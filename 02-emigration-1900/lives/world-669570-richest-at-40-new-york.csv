@@ -1,0 +1,67 @@
+age,year,place,job,income,expenses,aid,savings_after,health_after,skills_after,support_after,actions,events
+18,1900,new_york,new_york,33.2,27.2,0,24.0,76.3,29.2,33.1,Spend part of work time learning,training
+19,1901,new_york,new_york,43.5,22.9,0,44.6,74.7,30.4,33.2,Carry on,
+20,1902,new_york,new_york,41.8,25.5,0,60.8,73.0,34.3,33.3,Spend part of work time learning,declined_contact; training
+21,1903,new_york,new_york,33.0,22.0,0,71.8,71.4,38.1,33.4,Spend part of work time learning,training
+22,1904,new_york,new_york,42.1,23.4,0,90.6,69.8,41.7,33.5,Spend part of work time learning,training
+23,1905,new_york,new_york,41.1,25.7,0,106.0,68.1,43.3,40.5,Accept help from an experienced acquaintance,mentor
+24,1906,new_york,new_york,40.3,39.4,0,106.9,66.8,47.3,40.3,Move to a more skilled role; Spend part of work time learning; Go into business with a partner,promotion (stage=1.0); training; partnership (duration=4.0)
+25,1907,new_york,new_york,58.4,22.7,0,142.6,65.4,48.8,40.0,Carry on,
+26,1908,new_york,new_york,57.2,21.9,0,177.8,64.0,49.7,39.7,Carry on,
+27,1909,new_york,new_york,46.2,22.3,0,201.7,62.7,52.6,39.5,Spend part of work time learning,training
+28,1910,new_york,new_york,53.7,27.1,0,228.3,61.4,55.4,39.3,Spend part of work time learning,training
+29,1911,new_york,new_york,43.7,26.4,0,245.6,60.0,56.1,39.1,Carry on,
+30,1912,new_york,new_york,62.7,23.6,0,284.7,58.6,56.9,38.9,Carry on,
+31,1913,new_york,new_york,37.9,21.9,0,300.7,57.3,59.4,38.7,Spend part of work time learning,training
+32,1914,new_york,new_york,50.8,25.5,0,326.0,56.0,60.1,38.5,Carry on,
+33,1915,new_york,new_york,45.6,23.6,0,348.0,54.6,60.7,38.3,Carry on,
+34,1916,new_york,new_york,48.6,27.4,0,369.2,53.2,61.4,38.1,Carry on,
+35,1917,new_york,new_york,39.6,35.9,0,372.9,51.9,64.2,45.0,Accept help from an experienced acquaintance; Spend part of work time learning; Go into business with a partner,mentor; training; partnership (duration=4.0)
+36,1918,new_york,new_york,64.0,22.7,0,414.2,50.5,65.2,44.5,Carry on,
+37,1919,new_york,new_york,73.0,24.2,0,463.1,49.3,66.2,44.0,Move to a more skilled role,promotion (stage=2.0)
+38,1920,new_york,new_york,51.4,22.8,0,491.7,48.1,66.8,43.6,Carry on,
+39,1921,new_york,new_york,42.6,26.1,0,508.2,46.9,67.3,43.1,Carry on,
+40,1922,new_york,new_york,34.0,27.2,0,515.0,45.5,69.3,42.7,Spend part of work time learning,training
+41,1923,new_york,new_york,38.1,23.2,0,529.9,44.1,69.8,42.3,Carry on,
+42,1924,new_york,new_york,50.3,23.1,0,557.1,42.7,70.3,42.0,Carry on,
+43,1925,new_york,new_york,42.3,24.6,0,574.7,41.2,70.8,41.6,Carry on,
+44,1926,new_york,new_york,36.4,28.2,0,582.9,39.7,71.3,41.3,Carry on,declined_contact
+45,1927,new_york,new_york,46.5,21.7,0,607.6,38.1,71.7,41.0,Carry on,
+46,1928,new_york,new_york,0,21.7,0,585.9,49.0,71.7,40.7,Stop working to recover,rest (recovery=11.7)
+47,1929,new_york,new_york,66.4,43.6,0,608.7,36.1,72.2,40.4,Go into business with a partner,declined_contact; partnership (duration=4.0); serious_illness (health_loss=15.2); paid_care (recovery=4.0)
+48,1930,new_york,new_york,0,24.3,0,584.4,46.9,72.2,40.1,Stop working to recover,rest (recovery=11.7)
+49,1931,new_york,new_york,18.4,27.5,0,575.3,45.1,74.0,39.9,Spend part of work time learning,training; job_loss
+50,1932,new_york,new_york,55.3,23.8,0,606.9,43.2,74.4,39.6,Carry on,
+51,1933,new_york,new_york,31.1,28.6,0,609.5,41.3,75.1,46.4,Accept help from an experienced acquaintance,mentor
+52,1934,new_york,new_york,45.0,27.6,0,626.9,39.3,75.8,45.8,Carry on,
+53,1935,new_york,new_york,46.7,27.5,0,646.1,37.3,76.5,45.3,Carry on,
+54,1936,new_york,new_york,0,26.7,0,619.4,48.0,76.5,44.8,Stop working to recover,rest (recovery=12.0)
+55,1937,new_york,new_york,74.2,38.5,0,655.1,45.9,76.9,44.3,Go into business with a partner,partnership (duration=4.0)
+56,1938,new_york,new_york,68.0,27.2,0,695.9,43.7,77.3,43.8,Carry on,
+57,1939,new_york,new_york,47.0,34.7,0,708.2,35.2,77.6,43.4,Carry on,illness (health_loss=10.2); paid_care (recovery=4.0)
+58,1940,new_york,new_york,0,22.2,0,686.0,45.6,77.6,43.0,Stop working to recover,declined_contact; rest (recovery=11.9)
+59,1941,new_york,new_york,47.1,26.9,0,706.3,43.3,78.0,42.6,Carry on,
+60,1942,new_york,new_york,54.1,23.6,0,736.7,40.8,78.4,42.2,Carry on,
+61,1943,new_york,new_york,39.3,22.8,0,753.3,38.4,78.7,41.8,Carry on,
+62,1944,new_york,new_york,0,27.8,0,725.5,47.8,78.7,31.5,Stop working to recover,conflict; rest (recovery=11.1)
+63,1945,new_york,new_york,39.5,24.6,0,740.4,45.2,79.0,31.7,Carry on,
+64,1946,new_york,new_york,55.2,27.1,0,768.5,42.6,79.6,38.8,Accept help from an experienced acquaintance,mentor
+65,1947,new_york,new_york,25.8,28.0,0,766.3,39.9,80.2,28.6,Carry on,conflict
+66,1948,new_york,new_york,22.4,26.3,0,762.4,37.1,80.8,29.0,Carry on,
+67,1949,new_york,new_york,0,22.9,0,739.6,46.2,80.8,29.3,Stop working to recover,rest (recovery=11.0)
+68,1950,new_york,new_york,34.8,24.2,0,750.1,43.3,81.1,29.5,Carry on,
+69,1951,new_york,new_york,30.9,22.4,0,758.7,40.4,81.4,29.8,Carry on,
+70,1952,new_york,new_york,24.9,25.6,0,758.1,37.4,81.7,30.1,Carry on,
+71,1953,new_york,new_york,0,30.8,0,727.2,39.2,81.7,30.3,Stop working to recover,declined_contact; rest (recovery=11.0); illness (health_loss=11.1); paid_care (recovery=4.0)
+72,1954,new_york,new_york,9.3,23.0,0,713.6,36.2,82.0,30.6,Carry on,job_loss
+73,1955,new_york,new_york,0,25.8,0,687.8,45.0,82.0,30.8,Stop working to recover,rest (recovery=11.1)
+74,1956,new_york,new_york,27.6,25.1,0,690.3,41.8,82.3,31.0,Carry on,
+75,1957,new_york,new_york,23.3,25.5,0,688.1,38.5,82.6,31.2,Carry on,
+76,1958,new_york,new_york,0,26.2,0,662.0,47.2,82.6,31.4,Stop working to recover,rest (recovery=11.1)
+77,1959,new_york,new_york,32.9,26.6,0,668.3,43.9,82.9,31.6,Carry on,
+78,1960,new_york,new_york,27.9,29.3,0,666.9,24.1,83.1,31.7,Carry on,illness (health_loss=20.4); paid_care (recovery=4.0)
+79,1961,new_york,new_york,0,23.3,0,643.6,32.6,83.1,31.9,Stop working to recover,rest (recovery=11.1)
+80,1962,new_york,new_york,0,33.3,0,610.3,31.9,83.1,32.1,Stop working to recover,rest (recovery=11.1); illness (health_loss=13.2); paid_care (recovery=4.0)
+81,1963,new_york,new_york,0,23.2,0,587.1,40.4,83.1,32.2,Stop working to recover,rest (recovery=11.1)
+82,1964,new_york,new_york,24.9,22.6,0,589.4,36.8,83.4,32.3,Carry on,
+83,1965,new_york,new_york,0,27.3,0,562.2,45.1,83.4,32.5,Stop working to recover,rest (recovery=11.2)

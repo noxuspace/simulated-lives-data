@@ -1,0 +1,79 @@
+age,year,place,job,income,expenses,aid,savings_after,health_after,skills_after,support_after,actions,events
+18,1900,west,west,34.6,26.9,0,17.7,53.6,29.2,25.5,Spend part of work time learning; Take extra risk for more income,"training; push; injury (health_loss=25.0, health_cap=93.0); paid_care (recovery=4.0)"
+19,1901,west,west,7.7,23.4,0,2.0,51.2,30.4,26.0,Carry on,job_loss
+20,1902,west,west,39.9,20.0,0,21.9,47.8,31.5,26.4,Take extra risk for more income,push
+21,1903,west,west,29.0,26.6,0,24.4,35.1,32.6,26.9,Take extra risk for more income,push; illness (health_loss=13.3); paid_care (recovery=4.0)
+22,1904,west,west,0,23.1,0,1.2,45.7,32.6,27.3,Stop working to recover,rest (recovery=10.8)
+23,1905,west,west,26.0,19.6,0,7.6,43.4,33.7,27.6,Carry on,
+24,1906,west,west,44.4,21.4,0,30.7,39.9,34.7,28.0,Take extra risk for more income,push
+25,1907,west,west,29.9,21.6,0,39.0,37.6,35.8,28.4,Carry on,
+26,1908,west,west,0,19.4,0,19.6,48.3,35.8,28.7,Stop working to recover,rest (recovery=10.9)
+27,1909,west,west,34.2,20.0,0,33.7,44.9,36.8,29.0,Take extra risk for more income,push
+28,1910,west,west,27.7,21.3,0,40.1,42.5,37.8,29.3,Carry on,
+29,1911,west,west,23.6,21.8,0,41.9,40.2,38.8,29.6,Carry on,
+30,1912,west,west,21.3,29.4,0,33.8,25.5,39.8,29.9,Carry on,illness (health_loss=16.4); paid_care (recovery=4.0)
+31,1913,west,west,0,19.5,0,14.3,36.3,39.8,30.1,Stop working to recover,rest (recovery=11.0)
+32,1914,west,west,0,21.0,0,0,46.0,39.8,30.4,Stop working to recover,"rest (recovery=11.0); shortfall (deficit=6.7, health_loss=1.2)"
+33,1915,west,west,26.8,20.3,0,6.5,43.7,40.7,30.6,Carry on,
+34,1916,west,west,26.5,20.7,0,12.2,41.3,41.7,30.8,Carry on,
+35,1917,west,west,41.6,29.4,0,24.4,20.9,43.4,38.0,Accept help from an experienced acquaintance; Take extra risk for more income,"mentor; push; injury (health_loss=21.0, health_cap=86.0); paid_care (recovery=4.0)"
+36,1918,west,west,0,21.4,0,3.0,32.2,43.4,37.9,Move to a more skilled role; Stop working to recover,promotion (stage=1.0); rest (recovery=11.5)
+37,1919,west,west,0,23.0,0,0,40.4,43.4,37.7,Stop working to recover,"rest (recovery=11.5); shortfall (deficit=20.0, health_loss=3.0)"
+38,1920,west,west,25.8,21.6,0,4.2,38.4,44.3,37.6,Carry on,
+39,1921,west,west,0,18.7,0,0,46.9,44.3,37.5,Stop working to recover,"rest (recovery=11.5); shortfall (deficit=14.5, health_loss=2.6)"
+40,1922,west,west,32.8,19.2,0,13.5,44.7,45.2,37.3,Carry on,
+41,1923,west,west,49.6,23.4,0,39.7,41.6,46.0,37.2,Take extra risk for more income,push
+42,1924,west,west,34.4,22.3,0,51.8,39.3,46.9,37.1,Carry on,
+43,1925,west,west,27.4,19.4,0,59.7,36.9,47.8,37.0,Carry on,declined_contact
+44,1926,west,west,0,18.9,0,40.8,47.1,47.8,26.9,Stop working to recover,conflict; rest (recovery=10.8)
+45,1927,west,west,52.1,19.8,0,73.2,44.6,48.6,27.3,Carry on,
+46,1928,west,west,30.4,29.0,0,74.5,35.6,49.4,27.7,Carry on,"injury (health_loss=10.5, health_cap=79.0); paid_care (recovery=4.0)"
+47,1929,west,west,0,19.1,0,55.4,45.6,49.4,28.1,Stop working to recover,declined_contact; rest (recovery=10.9)
+48,1930,west,west,9.2,21.0,0,43.6,43.0,50.2,28.4,Carry on,job_loss
+49,1931,west,west,26.0,19.6,0,50.1,40.3,51.0,28.7,Carry on,
+50,1932,west,west,34.5,23.5,0,61.2,37.6,51.8,29.1,Carry on,
+51,1933,west,west,0,23.1,0,38.1,47.3,51.8,26.3,Accept help from an experienced acquaintance; Stop working to recover,mentor; conflict; rest (recovery=10.8)
+52,1934,west,west,44.8,19.5,0,63.4,44.5,53.2,26.8,Carry on,
+53,1935,west,west,42.2,23.2,0,82.4,41.6,54.5,17.2,Carry on,conflict
+54,1936,west,west,36.2,18.4,0,100.2,38.6,55.3,18.1,Carry on,
+55,1937,west,west,0,22.3,0,77.9,47.6,55.3,18.9,Stop working to recover,rest (recovery=10.3)
+56,1938,west,west,36.4,19.5,0,94.9,44.6,56.0,19.7,Carry on,
+57,1939,west,west,50.9,31.1,0,114.7,41.5,56.7,20.5,Go into business with a partner,partnership (duration=4.0)
+58,1940,west,west,36.9,20.1,0,131.5,38.3,57.4,21.2,Carry on,
+59,1941,west,west,0,18.7,0,112.8,47.7,57.4,28.9,Accept help from an experienced acquaintance; Stop working to recover,mentor; rest (recovery=10.9)
+60,1942,west,west,51.7,19.6,0,144.9,44.5,58.6,29.2,Carry on,
+61,1943,west,west,40.8,19.5,0,166.2,41.1,59.8,29.5,Carry on,
+62,1944,west,west,35.9,28.4,0,173.7,25.2,60.4,29.8,Carry on,illness (health_loss=16.5); paid_care (recovery=4.0)
+63,1945,west,west,0,23.3,0,150.4,34.5,60.4,30.0,Stop working to recover,rest (recovery=11.0)
+64,1946,west,west,0,20.6,0,129.8,43.8,60.4,30.3,Stop working to recover,rest (recovery=11.0)
+65,1947,west,west,6.9,21.7,0,115.0,40.2,61.1,30.5,Carry on,job_loss
+66,1948,west,farmer,18.9,52.0,0,81.9,37.1,61.7,30.7,Claim land and start a farm,land
+67,1949,west,farmer,0,20.8,0,61.1,45.6,61.7,21.0,Stop working to recover,conflict; rest (recovery=10.4)
+68,1950,west,farmer,17.4,20.1,0,58.5,42.3,62.3,21.7,Carry on,
+69,1951,west,farmer,22.5,22.3,0,58.6,39.0,62.9,22.3,Carry on,
+70,1952,west,farmer,17.7,19.4,0,56.9,35.7,63.5,23.0,Carry on,
+71,1953,west,farmer,0,23.4,0,33.5,44.1,63.5,23.6,Stop working to recover,rest (recovery=10.6)
+72,1954,west,farmer,37.4,18.7,0,52.2,40.6,64.1,24.1,Carry on,declined_contact
+73,1955,west,farmer,10.0,18.6,0,43.6,37.1,64.7,24.7,Carry on,
+74,1956,west,farmer,0,22.2,0,21.4,45.5,64.7,25.2,Stop working to recover,rest (recovery=10.7)
+75,1957,west,farmer,13.6,23.6,0,11.4,41.2,65.2,25.7,Take extra risk for more income,push
+76,1958,west,farmer,27.5,21.3,0,17.6,37.9,65.8,26.2,Move to a more skilled role,promotion (stage=2.0)
+77,1959,west,farmer,0,21.0,0,0,45.6,65.8,26.6,Stop working to recover,"rest (recovery=10.8); shortfall (deficit=3.4, health_loss=0.6)"
+78,1960,west,farmer,16.2,18.4,0,0,41.7,66.3,27.0,Carry on,"shortfall (deficit=2.2, health_loss=0.4)"
+79,1961,west,farmer,16.9,20.5,0,0,37.5,66.9,27.4,Carry on,"shortfall (deficit=3.7, health_loss=0.7)"
+80,1962,west,farmer,0,22.2,0,0,42.7,66.9,27.8,Stop working to recover,"rest (recovery=10.9); shortfall (deficit=22.2, health_loss=3.0)"
+81,1963,west,farmer,9.4,20.9,0,0,37.0,67.4,28.2,Carry on,"shortfall (deficit=11.5, health_loss=2.1)"
+82,1964,west,farmer,0,18.5,0,0,42.2,67.4,28.5,Stop working to recover,"rest (recovery=10.9); shortfall (deficit=18.5, health_loss=3.0)"
+83,1965,west,farmer,9.5,21.8,0,0,36.2,67.9,28.8,Carry on,"shortfall (deficit=12.3, health_loss=2.2)"
+84,1966,west,farmer,0,21.4,0,0,27.2,67.9,29.1,Stop working to recover,"rest (recovery=10.9); illness (health_loss=14.1); shortfall (deficit=21.4, health_loss=3.0)"
+85,1967,west,farmer,0,19.2,0,0,32.3,67.9,29.4,Stop working to recover,"rest (recovery=11.0); shortfall (deficit=19.2, health_loss=3.0)"
+86,1968,west,farmer,0,22.9,0,0,37.3,67.9,29.7,Stop working to recover,"rest (recovery=11.0); shortfall (deficit=22.9, health_loss=3.0)"
+87,1969,west,farmer,0,19.9,0,0,42.3,67.9,30.0,Stop working to recover,"rest (recovery=11.0); shortfall (deficit=19.9, health_loss=3.0)"
+88,1970,west,farmer,23.1,22.9,0,0.1,38.3,68.4,30.2,Carry on,
+89,1971,west,farmer,0,21.4,0,0,43.2,68.4,30.5,Stop working to recover,"rest (recovery=11.0); shortfall (deficit=21.2, health_loss=3.0)"
+90,1972,west,farmer,32.1,21.0,0,11.0,39.1,68.9,30.7,Carry on,declined_contact
+91,1973,west,farmer,28.5,20.3,0,19.3,34.9,69.4,30.9,Carry on,
+92,1974,west,farmer,0,20.0,0,0,42.5,69.4,31.1,Stop working to recover,"rest (recovery=11.1); shortfall (deficit=0.7, health_loss=0.1)"
+93,1975,west,farmer,25.2,20.8,0,4.3,38.2,69.9,31.3,Carry on,
+94,1976,west,farmer,0,22.9,0,0,42.9,69.9,31.5,Stop working to recover,"declined_contact; rest (recovery=11.1); shortfall (deficit=18.6, health_loss=3.0)"
+95,1977,west,farmer,22.8,20.8,0,2.0,38.5,70.4,31.7,Carry on,

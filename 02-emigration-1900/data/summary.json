@@ -1,0 +1,32 @@
+{
+ "summary": [
+  {
+   "path": "italy",
+   "label": "Farm laborer in the village",
+   "runs": 1000000,
+   "end_age_p10": 34,
+   "end_age_p50": 66,
+   "end_age_p90": 81,
+   "unfinished": 0
+  },
+  {
+   "path": "new_york",
+   "label": "Laborer in New York",
+   "runs": 1000000,
+   "end_age_p10": 36,
+   "end_age_p50": 68,
+   "end_age_p90": 82,
+   "unfinished": 0
+  },
+  {
+   "path": "west",
+   "label": "Mines and railroads in the West",
+   "runs": 1000000,
+   "end_age_p10": 35,
+   "end_age_p50": 68,
+   "end_age_p90": 82,
+   "unfinished": 0
+  }
+ ],
+ "method": "Full lives to death or 100. Same profile and paired seeds (world N is shared by the three paths). Exact survival/event counts; 95% Wilson intervals measure sampling, not rule accuracy. State quantiles among survivors, rounded via histograms. Examples selected by savings at 40 only."
+}

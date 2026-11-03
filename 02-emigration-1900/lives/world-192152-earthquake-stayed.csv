@@ -1,0 +1,10 @@
+age,year,place,job,income,expenses,aid,savings_after,health_after,skills_after,support_after,actions,events
+18,1900,italy,italy,14.7,16.4,0,38.3,76.5,26.2,45.8,Carry on,
+19,1901,italy,italy,8.1,12.7,0,33.6,74.9,30.4,46.5,Spend part of work time learning,training; bad_harvest
+20,1902,italy,italy,17.0,13.5,0,37.1,73.3,31.5,47.1,Carry on,
+21,1903,italy,italy,14.8,15.7,0,36.2,71.8,32.6,47.8,Carry on,
+22,1904,italy,italy,16.0,15.4,0,36.7,70.2,36.4,48.4,Spend part of work time learning,training
+23,1905,italy,italy,13.1,15.3,0,34.5,68.7,37.5,49.0,Carry on,
+24,1906,italy,italy,28.6,26.3,0,36.8,67.2,38.5,49.5,Go into business with a partner,partnership (duration=4.0)
+25,1907,italy,italy,26.1,12.9,0,50.1,65.6,39.4,50.0,Carry on,
+26,1908,italy,italy,10.2,24.0,0,36.3,64.0,40.4,40.5,Carry on,conflict; bad_harvest; earthquake (resources_loss=11.1)

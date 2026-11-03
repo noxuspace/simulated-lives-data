@@ -1,0 +1,77 @@
+age,year,place,job,income,expenses,aid,savings_after,health_after,skills_after,support_after,actions,events
+18,1900,italy,italy,19.5,16.5,0,43.0,76.5,26.2,45.8,Carry on,
+19,1901,italy,italy,10.5,13.1,0,40.5,74.9,27.4,46.5,Carry on,
+20,1902,italy,italy,19.3,15.1,0,44.6,73.3,28.5,47.1,Carry on,
+21,1903,italy,italy,22.1,18.8,0,47.8,48.0,29.7,47.8,Carry on,serious_illness (health_loss=27.8); paid_care (recovery=4.0)
+22,1904,italy,italy,9.4,15.0,0,42.2,46.5,30.8,48.4,Carry on,
+23,1905,italy,italy,15.1,13.3,0,44.0,44.9,31.9,49.0,Carry on,
+24,1906,italy,italy,13.1,12.9,0,44.2,43.4,33.0,49.5,Carry on,
+25,1907,italy,italy,6.0,16.8,0,33.4,41.8,34.9,57.0,Accept help from an experienced acquaintance,mentor; bad_harvest
+26,1908,italy,italy,11.6,29.0,0,16.0,40.3,36.8,57.2,Carry on,earthquake (resources_loss=12.7)
+27,1909,italy,italy,6.4,19.4,0,3.0,25.2,38.6,57.3,Take extra risk for more income,push; bad_harvest; illness (health_loss=19.8); paid_care (recovery=4.0); social_care (recovery=3.0)
+28,1910,italy,italy,0,15.2,13,0.8,38.4,38.6,64.5,Accept help from an experienced acquaintance; Stop working to recover,mentor; rest (recovery=13.3); care_support (aid=13.0)
+29,1911,italy,italy,0,13.3,13,0.5,51.5,38.6,64.2,Stop working to recover,rest (recovery=13.3); care_support (aid=13.0)
+30,1912,italy,italy,20.1,14.2,0,6.4,50.0,40.4,64.0,Carry on,
+31,1913,italy,italy,19.9,14.8,0,11.5,47.7,41.4,63.8,Take extra risk for more income,push
+32,1914,italy,italy,15.2,13.6,0,13.2,45.5,44.7,63.6,Spend part of work time learning; Take extra risk for more income,training; push
+33,1915,italy,italy,6,15.6,0,3.5,45.3,44.7,63.5,Move to a more skilled role; Serve in the army,promotion (stage=1.0); drafted
+34,1916,italy,italy,6,13.0,3.4,0,45.2,44.7,63.3,Serve in the army,emergency_aid (aid=3.4)
+35,1917,italy,italy,6,16.6,0,0,43.1,47.1,63.1,Spend part of work time learning; Serve in the army,"training; shortfall (deficit=10.6, health_loss=1.9)"
+36,1918,italy,italy,6,15.0,0,0,41.3,47.1,63.0,Serve in the army,"shortfall (deficit=9.0, health_loss=1.6)"
+37,1919,italy,italy,22.5,13.6,0,8.9,39.3,48.0,62.8,Take extra risk for more income,push
+38,1920,italy,italy,17.8,16.0,0,10.6,37.9,48.8,62.7,Carry on,
+39,1921,italy,italy,0,14.6,13,9.0,50.7,48.8,62.5,Stop working to recover,declined_contact; rest (recovery=13.2); care_support (aid=13.0)
+40,1922,italy,italy,8.6,13.9,0,3.6,33.9,49.6,62.4,Carry on,bad_harvest; illness (health_loss=18.3); social_care (recovery=3.0)
+41,1923,italy,italy,0,15.3,13,1.4,46.5,49.6,62.3,Stop working to recover,rest (recovery=13.2); care_support (aid=13.0)
+42,1924,italy,italy,12.4,16.0,2.2,0,44.9,50.4,62.2,Carry on,emergency_aid (aid=2.2)
+43,1925,italy,italy,13.9,13.3,0,0.6,43.2,51.2,62.1,Carry on,
+44,1926,italy,italy,14.8,14.4,0,1.1,22.3,52.0,62.0,Take extra risk for more income,push; illness (health_loss=21.5); social_care (recovery=3.0)
+45,1927,italy,italy,0,15.7,14.6,0,34.7,52.0,61.9,Stop working to recover,rest (recovery=13.1); care_support (aid=13.0); emergency_aid (aid=1.6)
+46,1928,italy,italy,0,13.4,13,0,47.0,52.0,61.8,Stop working to recover,"rest (recovery=13.1); care_support (aid=13.0); shortfall (deficit=0.4, health_loss=0.1)"
+47,1929,italy,italy,15.0,13.7,0,1.3,45.1,52.8,61.7,Carry on,
+48,1930,italy,italy,12.5,15.1,1.3,0,43.1,53.5,61.6,Carry on,emergency_aid (aid=1.3)
+49,1931,italy,italy,10.9,14.0,0,0,39.9,54.3,61.5,Take extra risk for more income,"push; bad_harvest; shortfall (deficit=3.1, health_loss=0.6)"
+50,1932,italy,italy,10.1,13.1,0,0,37.3,55.0,61.4,Carry on,"shortfall (deficit=3.1, health_loss=0.5)"
+51,1933,italy,italy,0,13.3,13.3,0,49.4,55.0,61.4,Stop working to recover,rest (recovery=13.1); care_support (aid=13.0); emergency_aid (aid=0.3)
+52,1934,italy,italy,23.3,13.5,0,9.8,46.6,55.7,61.3,Take extra risk for more income,push
+53,1935,italy,italy,14.2,13.5,0,10.5,43.8,56.4,61.2,Take extra risk for more income,push
+54,1936,italy,italy,14.4,18.8,0,6.2,31.7,57.1,61.2,Take extra risk for more income,push; serious_illness (health_loss=16.2); paid_care (recovery=4.0); social_care (recovery=3.0)
+55,1937,italy,italy,0,14.3,13,4.9,43.5,57.1,61.1,Stop working to recover,rest (recovery=13.1); care_support (aid=13.0)
+56,1938,italy,italy,13.7,14.5,0,4.1,41.1,57.8,51.1,Carry on,conflict
+57,1939,italy,italy,12.9,13.3,0,3.7,38.1,58.5,51.5,Take extra risk for more income,push
+58,1940,italy,italy,0,13.7,13,3.0,49.1,58.5,51.9,Stop working to recover,rest (recovery=12.5); care_support (aid=13.0)
+59,1941,italy,italy,19.5,13.8,0,8.6,46.0,59.1,52.3,Take extra risk for more income,push
+60,1942,italy,italy,16.6,14.4,0,10.9,42.7,59.8,52.7,Take extra risk for more income,push
+61,1943,italy,italy,18.9,14.1,0,15.7,39.5,60.4,53.1,Take extra risk for more income,push
+62,1944,italy,italy,7.3,16.3,0,6.7,36.7,61.1,53.4,Carry on,bad_harvest
+63,1945,italy,italy,0,13.9,13,5.8,47.6,61.1,53.8,Stop working to recover,rest (recovery=12.6); care_support (aid=13.0)
+64,1946,italy,italy,14.1,13.1,0,6.8,44.8,61.7,54.1,Carry on,
+65,1947,italy,italy,9.0,14.0,0,1.8,41.3,62.3,54.4,Take extra risk for more income,push; bad_harvest
+66,1948,italy,italy,11.7,13.4,0,0.1,37.7,62.9,54.6,Take extra risk for more income,push
+67,1949,italy,italy,0,12.9,13,0.3,48.5,62.9,54.9,Stop working to recover,rest (recovery=12.7); care_support (aid=13.0)
+68,1950,italy,italy,16.0,16.3,0.1,0,26.8,63.5,55.2,Take extra risk for more income,push; illness (health_loss=21.0); social_care (recovery=3.0); emergency_aid (aid=0.1)
+69,1951,italy,italy,0,14.3,13,0,37.3,63.5,55.4,Stop working to recover,"rest (recovery=12.7); care_support (aid=13.0); shortfall (deficit=1.3, health_loss=0.2)"
+70,1952,italy,italy,0,14.2,13,0,47.7,63.5,55.6,Stop working to recover,"declined_contact; rest (recovery=12.7); care_support (aid=13.0); shortfall (deficit=1.2, health_loss=0.2)"
+71,1953,italy,italy,9.7,15.7,6.1,0,44.4,64.1,55.9,Carry on,emergency_aid (aid=6.1)
+72,1954,italy,italy,7.9,13.9,0,0,40.0,64.7,56.1,Carry on,"shortfall (deficit=6.1, health_loss=1.1)"
+73,1955,italy,italy,6.0,16.0,0,0,34.3,65.2,56.3,Take extra risk for more income,"push; bad_harvest; shortfall (deficit=10.0, health_loss=1.8)"
+74,1956,italy,italy,0,15.8,15.8,0,44.8,65.2,56.5,Move to a more skilled role; Stop working to recover,promotion (stage=2.0); rest (recovery=12.8); care_support (aid=13.0); emergency_aid (aid=2.8)
+75,1957,italy,italy,8.8,15.8,0,0,40.3,65.8,56.6,Carry on,"shortfall (deficit=6.9, health_loss=1.2)"
+76,1958,italy,italy,14.1,16.0,0,0,36.7,66.3,56.8,Carry on,"shortfall (deficit=2.0, health_loss=0.4)"
+77,1959,italy,italy,0,14.0,14.0,0,47.1,66.3,57.0,Stop working to recover,rest (recovery=12.8); care_support (aid=13.0); emergency_aid (aid=1.0)
+78,1960,italy,italy,7.9,16.1,0,0,42.2,66.9,57.1,Carry on,"bad_harvest; shortfall (deficit=8.2, health_loss=1.5)"
+79,1961,italy,italy,10.4,16.3,0,0,37.8,67.4,57.3,Carry on,"shortfall (deficit=5.8, health_loss=1.1)"
+80,1962,italy,italy,0,16.5,16.5,0,48.0,67.4,57.4,Stop working to recover,rest (recovery=12.8); care_support (aid=13.0); emergency_aid (aid=3.5)
+81,1963,italy,italy,22.0,15.8,0,6.2,44.0,67.9,57.5,Take extra risk for more income,push
+82,1964,italy,italy,19.8,15.6,0,10.5,40.1,68.4,57.6,Take extra risk for more income,push
+83,1965,italy,italy,7.4,13.8,0,4.1,36.4,68.9,57.8,Carry on,
+84,1966,italy,italy,0,16.4,13,0.7,46.4,68.9,57.9,Stop working to recover,rest (recovery=12.9); care_support (aid=13.0)
+85,1967,italy,italy,9.5,16.2,6.1,0,42.7,69.4,58.0,Carry on,emergency_aid (aid=6.1)
+86,1968,italy,italy,8.3,15.7,0,0,37.6,69.9,58.1,Carry on,"shortfall (deficit=7.4, health_loss=1.3)"
+87,1969,italy,italy,0,15.0,13,0,47.1,69.9,58.2,Stop working to recover,"rest (recovery=12.9); care_support (aid=13.0); shortfall (deficit=2.0, health_loss=0.4)"
+88,1970,italy,italy,15.0,16.2,1.2,0,42.8,70.4,58.3,Take extra risk for more income,push; emergency_aid (aid=1.2)
+89,1971,italy,italy,13.9,13.9,0,0.0,38.8,70.9,58.4,Carry on,
+90,1972,italy,italy,9.5,14.1,0,0,34.0,71.4,58.4,Carry on,"shortfall (deficit=4.5, health_loss=0.8)"
+91,1973,italy,italy,0,16.1,16.1,0,43.6,71.4,58.5,Stop working to recover,rest (recovery=12.9); care_support (aid=13.0); emergency_aid (aid=3.1)
+92,1974,italy,italy,13.1,16.0,0,0,39.0,71.8,58.6,Carry on,"shortfall (deficit=2.9, health_loss=0.5)"
+93,1975,italy,italy,9.3,15.2,0,0,33.3,72.3,58.7,Take extra risk for more income,"push; shortfall (deficit=5.9, health_loss=1.1)"
