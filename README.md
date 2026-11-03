@@ -14,4 +14,8 @@ All coefficients are the author's assumptions. The models are built for explanat
 
 | # | Episode | Lives |
 |---|---|---:|
-| 01 | [California 1849: dig for gold or sell shovels?](01-california-1849-gold-rush/) | 3,000,000 |
+| 01 | [California 1849: dig for gold or sell shovels?](01-california-1849-gold-rush/) · [video](https://youtu.be/jmjQsllSuKc) | 3,000,000 |
+
+## License
+
+Data and text in this repository are licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). You may share and adapt them for any purpose, including commercially, as long as you credit this repository and link to it. Full text: [`LICENSE`](LICENSE).

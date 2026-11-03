@@ -1,6 +1,6 @@
 # 01 · California 1849: Dig for gold or sell shovels?
 
-Video: **Dig for Gold or Sell Shovels? I Simulated 3 Million Lives** — <!-- TODO: YouTube link -->
+Video: [**Dig for Gold or Sell Shovels? I Simulated 3 Million Lives**](https://youtu.be/jmjQsllSuKc)
 
 This folder holds the rules and the aggregated results behind every number in the video. The simulation engine itself is private; the rules, the outputs and the full year-by-year logs of the lives shown in the video are here, so you can check the logic and the arithmetic.
 
@@ -72,3 +72,7 @@ Year-by-year logs are in [`lives/`](lives/). Columns: age, year, job, income, ex
 | `lives/*.csv` | Full logs of the six lives above |
 
 Intervals in `survival.csv` and `event_rates.csv` measure sampling noise only, not how realistic the rules are. Percentiles are rounded to the nearest unit (savings) or half-point (other traits).
+
+## License
+
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — see [`LICENSE`](../LICENSE). Please credit this repository when you reuse the data.
