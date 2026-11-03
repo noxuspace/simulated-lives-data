@@ -11,7 +11,7 @@ It's 1900. Giovanni is 18 and lives in a village in Calabria, southern Italy. He
 ## How the model works
 
 - **One person, three first choices.** Same six starting traits in every life: health 78, savings 40, skills 25, support 45, risk 60, discipline 65. Leaving costs a ticket (New York 22 units, the West 30) and most of the family's support.
-- **Money is in units.** 20 units = one year of modest living at village prices; New York costs more to live in.
+- **Money is in units.** 20 units = one year of modest living (the scale from episode 01). Each place has its own yearly cost: the village 14, the West 20, New York 24 (times a yearly price factor of the world). The `units` text inside `rules.json` says "at home prices"; the actual costs are these.
 - **One step = one year**, from 1900 until death or age 100: work, income, costs, health, skills, contacts, illness, injuries, job loss, bad harvests, droughts, partnerships, help from family.
 - **Real dated events shared by everyone in a world:** the 1907 financial panic, the 28 December 1908 earthquake in Sicily and Calabria, Italy's war 1915–1918 (call-up of men up to 39 who are in Italy), the 1918 flu and the Great Depression. Detailed context runs to 1924; later life is simplified.
 - **Leaving can be undone.** Emigrants may go home with savings or after years of failure; about 2% are turned back at Ellis Island.
