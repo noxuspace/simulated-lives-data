@@ -1,0 +1,16 @@
+path,cause,lives,runs,share
+prospector,work injury,38728,1000000,0.038728
+prospector,background risk of death (specific cause not modeled),896993,1000000,0.896993
+prospector,serious illness,39859,1000000,0.039859
+prospector,complications of poor health,12971,1000000,0.012971
+prospector,exhaustion after accumulated health losses,11449,1000000,0.011449
+worker,background risk of death (specific cause not modeled),917032,1000000,0.917032
+worker,work injury,25975,1000000,0.025975
+worker,complications of poor health,9308,1000000,0.009308
+worker,serious illness,40649,1000000,0.040649
+worker,exhaustion after accumulated health losses,7036,1000000,0.007036
+merchant,background risk of death (specific cause not modeled),931937,1000000,0.931937
+merchant,serious illness,40997,1000000,0.040997
+merchant,work injury,14092,1000000,0.014092
+merchant,complications of poor health,7712,1000000,0.007712
+merchant,exhaustion after accumulated health losses,5262,1000000,0.005262

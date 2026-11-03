@@ -1,0 +1,53 @@
+age,year,job,income,expenses,aid,savings_after,health_after,skills_after,support_after,actions,events
+18,1849,miner,4.4,26.7,0,5.6,75.5,26.2,44.9,carry on,
+19,1850,miner,19.0,19.7,0,5.0,72.9,27.4,44.7,carry on,
+20,1851,miner,107.1,25.3,0,86.7,52.8,28.5,44.5,take extra risk for more income,push; gold_strike (resources_gain=85.1); illness (health_loss=20.4); paid_care (recovery=4.0)
+21,1852,miner,20.4,24.0,0,83.1,50.2,32.6,44.4,spend part of work time learning,training
+22,1853,miner,20.6,25.7,0,78.0,47.7,33.7,44.2,carry on,
+23,1854,miner,8.7,26.7,0,60.0,45.1,34.7,44.1,carry on,
+24,1855,miner,5.7,23.9,0,41.9,42.6,35.8,44.0,carry on,
+25,1856,miner,19.7,24.0,0,37.6,40.0,36.8,43.8,carry on,
+26,1857,miner,19.2,24.6,0,32.3,37.5,37.8,51.6,cut back on work to support family,family_care
+27,1858,miner,0,20.7,7,18.6,49.7,37.8,51.5,stop working to recover,rest (recovery=12.4); care_support (aid=7.0)
+28,1859,miner,18.2,25.0,0,11.8,47.2,38.8,51.4,carry on,
+29,1860,miner,33.9,24.1,0,21.7,43.4,42.3,51.2,spend part of work time learning; take extra risk for more income,training; push
+30,1861,miner,23.8,22.3,0,23.2,41.4,43.3,51.0,move to a more skilled role,promotion (stage=1.0)
+31,1862,miner,38.7,25.4,0,36.5,38.3,44.2,50.9,take extra risk for more income,push
+32,1863,miner,0,23.9,7,19.6,50.6,44.2,50.8,stop working to recover,rest (recovery=12.4); care_support (aid=7.0)
+33,1864,miner,39.4,29.5,0,29.5,40.0,47.4,50.6,spend part of work time learning; take extra risk for more income,training; push; illness (health_loss=11.6); paid_care (recovery=4.0)
+34,1865,miner,21.7,24.0,0,27.2,37.9,48.3,50.5,carry on,
+35,1866,miner,0,18.5,7,15.7,50.7,48.3,58.3,move from hard labor to organizing mining work; cut back on work to support family; stop working to recover,adapted_role; family_care; rest (recovery=12.9); care_support (aid=7.0)
+36,1867,miner,23.4,19.0,0,20.1,49.3,49.1,58.1,take extra risk for more income,push
+37,1868,miner,25.4,18.1,0,27.5,48.3,52.1,58.0,spend part of work time learning,training
+38,1869,miner,32.9,24.5,0,35.9,47.2,52.9,57.9,carry on,
+39,1870,miner,22.2,17.1,0,41.0,46.1,53.6,57.7,carry on,
+40,1871,miner,29.7,20.9,0,49.8,44.9,54.3,57.5,carry on,
+41,1872,miner,18.9,19.7,0,49.1,43.6,55.1,57.4,carry on,
+42,1873,miner,27.4,19.8,0,56.7,42.3,55.8,57.2,carry on,
+43,1874,miner,18.0,20.8,0,53.9,41.0,56.5,57.1,carry on,
+44,1875,miner,26.9,22.8,0,58.1,39.6,57.2,57.0,carry on,
+45,1876,miner,18.5,19.0,0,57.5,38.1,57.9,56.8,carry on,
+46,1877,miner,0,19.0,7,45.5,50.7,57.9,64.7,cut back on work to support family; stop working to recover,family_care; rest (recovery=13.3); care_support (aid=7.0)
+47,1878,miner,24.9,22.4,0,48.0,49.1,60.4,64.5,spend part of work time learning,training
+48,1879,miner,23.0,24.3,0,46.7,47.5,62.8,64.3,spend part of work time learning,training
+49,1880,miner,17.3,24.4,0,39.6,35.0,65.1,64.2,spend part of work time learning,training; illness (health_loss=17.8); paid_care (recovery=4.0); social_care (recovery=3.0)
+50,1881,miner,0,24.8,7,21.8,47.3,65.1,64.0,move to a more skilled role; stop working to recover,promotion (stage=2.0); rest (recovery=13.3); care_support (aid=7.0)
+51,1882,miner,30.9,26.0,0,26.7,45.7,67.3,63.9,spend part of work time learning,training
+52,1883,miner,20.6,20.6,0,26.6,44.0,67.8,63.8,carry on,
+53,1884,miner,28.3,22.7,0,32.3,42.3,68.7,60.6,accept help from an experienced acquaintance,mentor; conflict
+54,1885,miner,33.4,23.9,0,41.8,40.5,69.6,60.5,carry on,
+55,1886,miner,29.3,20.2,0,51.0,38.7,70.5,60.3,carry on,
+56,1887,miner,0,32.1,7,25.9,32.5,70.5,60.1,stop working to recover,rest (recovery=13.0); care_support (aid=7.0); serious_illness (health_loss=24.9); paid_care (recovery=4.0); social_care (recovery=3.0)
+57,1888,miner,0,20.0,7,12.9,44.2,70.5,60.0,stop working to recover,rest (recovery=13.0); care_support (aid=7.0)
+58,1889,miner,38.1,24.4,0,26.6,41.9,71.0,59.9,take extra risk for more income,push
+59,1890,miner,33.8,18.2,0,42.2,39.9,71.4,59.7,carry on,
+60,1891,miner,30.4,18.3,0,54.2,37.8,72.3,66.5,accept help from an experienced acquaintance,mentor
+61,1892,miner,0,25.6,7,35.6,36.4,72.3,66.4,stop working to recover,rest (recovery=13.4); care_support (aid=7.0); illness (health_loss=20.3); paid_care (recovery=4.0); social_care (recovery=3.0)
+62,1893,miner,0,19.5,7,23.1,48.2,72.3,66.2,stop working to recover,rest (recovery=13.4); care_support (aid=7.0)
+63,1894,miner,26.8,20.0,0,30.0,45.9,72.7,66.1,carry on,
+64,1895,miner,28.1,19.7,0,38.4,43.6,73.1,66.0,carry on,
+65,1896,miner,21.9,25.6,0,34.7,41.2,73.6,65.8,carry on,
+66,1897,miner,13.8,20.1,0,28.4,38.8,74.0,65.7,carry on,
+67,1898,miner,19.3,24.2,0,23.6,30.8,74.4,65.5,carry on,illness (health_loss=12.5); paid_care (recovery=4.0); social_care (recovery=3.0)
+68,1899,miner,0,18.3,7,12.3,42.2,74.4,65.3,stop working to recover,rest (recovery=13.4); care_support (aid=7.0)
+69,1900,miner,23.7,27.2,0,8.8,26.7,74.8,65.2,take extra risk for more income,"push; injury (health_loss=19.6, health_cap=88.0); paid_care (recovery=4.0); social_care (recovery=3.0)"

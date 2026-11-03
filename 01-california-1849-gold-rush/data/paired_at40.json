@@ -1,0 +1,58 @@
+{
+ "n_alive40": {
+  "prospector": 897671,
+  "worker": 914928,
+  "merchant": 922607
+ },
+ "prospector": {
+  "zero_share": 0.09798801565384199,
+  "ge100_share": 0.232191972337304,
+  "ge200_share": 0.06821430123062903,
+  "ge300_share": 0.017168873674208034,
+  "max": 761.6101,
+  "median": 38.5436,
+  "end_age_median_bottom_quarter_res40": 70,
+  "end_age_median_top_quarter_res40": 70,
+  "end_age_median_zero_res40": 70
+ },
+ "worker": {
+  "zero_share": 0.038800867390658064,
+  "ge100_share": 0.45255145760103527,
+  "ge200_share": 0.1186202630152318,
+  "ge300_share": 0.002460302887221727,
+  "max": 387.4449,
+  "median": 89.5023,
+  "end_age_median_bottom_quarter_res40": 70.0,
+  "end_age_median_top_quarter_res40": 70.0,
+  "end_age_median_zero_res40": 70.0
+ },
+ "merchant": {
+  "zero_share": 0.0409058244734757,
+  "ge100_share": 0.5570855196199466,
+  "ge200_share": 0.21273846827522444,
+  "ge300_share": 0.03524035694504811,
+  "max": 581.9318,
+  "median": 115.383,
+  "end_age_median_bottom_quarter_res40": 70,
+  "end_age_median_top_quarter_res40": 71,
+  "end_age_median_zero_res40": 70.0
+ },
+ "paired": {
+  "n_worlds_all_alive40": 877803,
+  "richest_at40_share": {
+   "merchant": 0.4995813411437418,
+   "prospector": 0.15833962745627436,
+   "worker": 0.3327386668762809,
+   "tie": 0.009340364523702927
+  },
+  "prospector_richer_than_merchant": 0.24057789731864668,
+  "prospector_richer_than_worker": 0.26173070723157704,
+  "same_end_age_all_three": 0.9553772315656246,
+  "lived_longest_share": {
+   "tie": 0.9881590744164693,
+   "prospector": 0.002835488144834319,
+   "worker": 0.0024242341390949907,
+   "merchant": 0.006581203299601391
+  }
+ }
+}

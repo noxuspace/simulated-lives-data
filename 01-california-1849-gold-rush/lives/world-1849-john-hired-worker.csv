@@ -1,0 +1,66 @@
+age,year,job,income,expenses,aid,savings_after,health_after,skills_after,support_after,actions,events
+18,1849,hired worker,22.0,26.7,0,32.3,76.7,26.2,44.9,carry on,
+19,1850,hired worker,32.9,19.7,0,45.6,75.3,27.4,44.7,carry on,
+20,1851,hired worker,24.6,25.3,0,44.8,57.6,28.5,44.5,carry on,illness (health_loss=20.4); paid_care (recovery=4.0)
+21,1852,hired worker,24.1,24.0,0,44.8,56.2,32.6,44.4,spend part of work time learning,training
+22,1853,hired worker,23.6,25.7,0,42.8,54.9,33.7,44.2,carry on,
+23,1854,hired worker,9.9,26.7,0,25.9,53.5,34.7,44.1,carry on,job_loss
+24,1855,hired worker,25.5,23.9,0,27.6,52.2,35.8,44.0,carry on,
+25,1856,hired worker,26.2,24.0,0,29.8,50.8,36.8,43.8,carry on,
+26,1857,hired worker,19.0,24.6,0,24.2,49.5,37.8,51.6,cut back on work to support family,family_care
+27,1858,hired worker,25.3,20.7,0,28.8,48.1,41.4,51.5,spend part of work time learning,training
+28,1859,hired worker,27.5,25.0,0,31.3,46.8,42.3,51.4,carry on,
+29,1860,hired worker,19.6,24.1,0,26.9,45.6,45.7,51.2,move to a more skilled role; spend part of work time learning,promotion (stage=1.0); training
+30,1861,hired worker,24.9,22.3,0,29.5,44.5,46.6,51.0,carry on,
+31,1862,hired worker,29.1,25.4,0,33.2,43.4,47.4,50.9,carry on,
+32,1863,hired worker,26.7,23.9,0,36.0,42.3,48.2,50.8,carry on,
+33,1864,hired worker,20.3,29.5,0,26.9,33.7,49.1,50.6,carry on,illness (health_loss=11.6); paid_care (recovery=4.0)
+34,1865,hired worker,0,24.0,7,9.9,45.9,49.1,50.5,stop working to recover,rest (recovery=12.4); care_support (aid=7.0)
+35,1866,hired worker,18.2,18.5,0,9.7,44.8,49.9,58.3,cut back on work to support family,family_care
+36,1867,hired worker,39.5,19.0,0,30.2,43.1,50.7,58.1,take extra risk for more income,push
+37,1868,hired worker,21.6,18.1,0,33.7,41.9,51.5,58.0,carry on,
+38,1869,hired worker,23.8,24.5,0,33.0,40.6,52.3,57.9,carry on,
+39,1870,hired worker,20.6,17.1,0,36.4,39.3,53.0,57.7,carry on,
+40,1871,hired worker,26.3,20.9,0,41.8,37.9,53.8,57.5,carry on,
+41,1872,hired worker,0,19.7,7,29.2,50.3,53.8,57.4,stop working to recover,rest (recovery=12.8); care_support (aid=7.0)
+42,1873,hired worker,23.4,19.8,0,32.8,48.8,56.5,57.2,spend part of work time learning,training
+43,1874,hired worker,7.4,20.8,0,19.4,47.2,57.2,57.1,carry on,job_loss
+44,1875,hired worker,26.6,22.8,0,23.2,45.6,57.9,57.0,carry on,
+45,1876,hired worker,29.7,19.0,0,33.9,43.5,58.6,56.8,take extra risk for more income,push
+46,1877,hired worker,23.2,19.0,0,38.1,41.8,59.2,64.7,cut back on work to support family,family_care
+47,1878,hired worker,21.3,22.4,0,37.0,40.0,59.9,64.5,carry on,
+48,1879,hired worker,21.3,24.3,0,34.0,38.2,60.5,64.3,carry on,
+49,1880,hired worker,0,24.4,7,16.6,39.8,60.5,64.2,stop working to recover,rest (recovery=13.3); care_support (aid=7.0); illness (health_loss=17.8); paid_care (recovery=4.0); social_care (recovery=3.0)
+50,1881,hired worker,24.4,24.8,0,16.2,37.8,61.2,64.0,carry on,
+51,1882,hired worker,0,26.0,9.8,0,50.1,61.2,63.9,stop working to recover,rest (recovery=13.3); care_support (aid=7.0); emergency_aid (aid=2.8)
+52,1883,hired worker,10.4,20.6,0,0,46.2,61.8,63.8,carry on,"job_loss; shortfall (deficit=10.2, health_loss=1.8)"
+53,1884,hired worker,29.8,22.7,0,7.1,44.1,62.9,60.6,accept help from an experienced acquaintance,mentor; conflict
+54,1885,hired worker,29.6,23.9,0,12.9,41.9,64.0,60.5,carry on,
+55,1886,hired worker,26.9,20.2,0,19.6,39.7,65.0,60.3,carry on,
+56,1887,hired worker,36.5,32.1,0,24.0,19.1,65.6,60.1,take extra risk for more income,push; serious_illness (health_loss=24.9); paid_care (recovery=4.0); social_care (recovery=3.0)
+57,1888,hired worker,0,20.0,7,11.1,30.7,65.6,60.0,move to a more skilled role; stop working to recover,promotion (stage=2.0); rest (recovery=13.0); care_support (aid=7.0)
+58,1889,hired worker,0,24.4,13.4,0,42.3,65.6,59.9,stop working to recover,rest (recovery=13.0); care_support (aid=7.0); emergency_aid (aid=6.4)
+59,1890,hired worker,45.6,18.2,0,27.4,39.8,66.1,59.7,take extra risk for more income,push
+60,1891,hired worker,36.7,30.3,0,33.7,37.5,67.1,66.5,accept help from an experienced acquaintance; go into business with a partner,mentor; partnership (duration=4.0)
+61,1892,hired worker,0,25.6,7,15.1,36.1,67.1,66.4,stop working to recover,rest (recovery=13.4); care_support (aid=7.0); illness (health_loss=20.3); paid_care (recovery=4.0); social_care (recovery=3.0)
+62,1893,hired worker,0,19.5,7,2.6,47.9,67.1,66.2,stop working to recover,rest (recovery=13.4); care_support (aid=7.0)
+63,1894,hired worker,38.1,20.0,0,20.8,45.5,67.6,66.1,carry on,
+64,1895,hired worker,30.9,19.7,0,32.1,43.1,68.1,66.0,carry on,
+65,1896,hired worker,7.4,25.6,0,13.8,40.5,68.6,65.8,carry on,job_loss
+66,1897,hired worker,19.5,20.1,0,13.3,37.6,69.1,65.7,take extra risk for more income,push
+67,1898,hired worker,0,18.2,7,2.1,39.6,69.1,65.5,stop working to recover,rest (recovery=13.4); care_support (aid=7.0); illness (health_loss=12.5); social_care (recovery=3.0)
+68,1899,hired worker,23.7,18.3,0,7.5,36.9,69.6,65.3,carry on,
+69,1900,hired worker,0,21.2,13.8,0,48.2,69.6,65.2,stop working to recover,rest (recovery=13.4); care_support (aid=7.0); emergency_aid (aid=6.8)
+70,1901,hired worker,24.8,21.5,0,3.2,45.4,70.1,65.0,carry on,
+71,1902,hired worker,25.6,19.0,0,9.8,42.6,70.6,64.9,carry on,declined_contact
+72,1903,hired worker,22.9,26.4,0,6.3,39.7,71.1,64.8,carry on,
+73,1904,hired worker,22.2,17.4,0,11.1,36.4,71.5,64.6,take extra risk for more income,push
+74,1905,hired worker,0,19.8,8.7,0,29.6,71.5,64.5,stop working to recover,rest (recovery=13.3); care_support (aid=7.0); illness (health_loss=20.8); social_care (recovery=3.0); emergency_aid (aid=1.7)
+75,1906,hired worker,0,23.8,7,0,37.5,71.5,64.3,stop working to recover,"rest (recovery=13.3); care_support (aid=7.0); shortfall (deficit=16.8, health_loss=3.0)"
+76,1907,hired worker,0,26.8,7,0,45.9,71.5,71.2,accept help from an experienced acquaintance; stop working to recover,"mentor; rest (recovery=13.8); care_support (aid=7.0); shortfall (deficit=19.8, health_loss=3.0)"
+77,1908,hired worker,17.9,21.5,3.6,0,42.7,72.3,71.0,carry on,emergency_aid (aid=3.6)
+78,1909,hired worker,25.3,20.3,0,5.0,39.4,73.1,70.8,carry on,
+79,1910,hired worker,23.6,25.3,0,3.3,35.8,73.9,77.7,accept help from an experienced acquaintance; take extra risk for more income,mentor; push
+80,1911,hired worker,0,21.1,17,0,47.2,73.9,77.5,stop working to recover,"rest (recovery=14.2); care_support (aid=7.0); emergency_aid (aid=10.0); shortfall (deficit=0.7, health_loss=0.1)"
+81,1912,hired worker,26.5,26.1,0,0.4,43.8,74.7,77.4,carry on,
+82,1913,hired worker,23.5,26.0,0,0,39.6,75.1,77.2,take extra risk for more income,"push; shortfall (deficit=2.2, health_loss=0.4)"

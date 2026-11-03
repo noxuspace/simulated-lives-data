@@ -1,0 +1,63 @@
+age,year,job,income,expenses,aid,savings_after,health_after,skills_after,support_after,actions,events
+18,1849,miner,21.3,21.7,0,27.6,75.5,29.2,44.9,spend part of work time learning,training
+19,1850,miner,146.4,24.1,0,149.8,72.9,33.3,44.7,spend part of work time learning,training; gold_strike (resources_gain=130.7)
+20,1851,miner,195.6,22.3,0,323.2,70.3,34.3,44.5,carry on,gold_strike (resources_gain=167.8)
+21,1852,miner,189.0,20.8,0,491.3,67.8,38.1,44.4,spend part of work time learning,training; gold_strike (resources_gain=174.8)
+22,1853,miner,196.7,19.1,0,669.0,65.2,39.1,44.2,carry on,gold_strike (resources_gain=170.7)
+23,1854,miner,30.5,24.1,0,675.4,62.7,40.1,44.1,carry on,declined_contact
+24,1855,miner,15.3,19.3,0,671.3,60.1,43.5,44.0,spend part of work time learning,training
+25,1856,miner,23.8,19.6,0,675.6,58.1,46.8,43.8,move to a more skilled role; spend part of work time learning,promotion (stage=1.0); training
+26,1857,miner,34.0,22.5,0,687.0,56.0,47.7,43.6,carry on,
+27,1858,miner,31.9,19.2,0,699.7,53.9,48.5,43.5,carry on,declined_contact
+28,1859,miner,30.0,18.3,0,711.4,51.9,49.3,43.4,carry on,
+29,1860,miner,40.2,23.3,0,728.3,49.8,50.1,43.2,carry on,
+30,1861,miner,33.1,20.9,0,740.4,47.7,53.1,33.0,spend part of work time learning,conflict; training
+31,1862,miner,24.0,19.0,0,745.4,45.7,55.9,36.9,make time for relationships; spend part of work time learning,training
+32,1863,miner,38.5,35.2,0,748.7,43.6,56.6,36.8,go into business with a partner,partnership (duration=4.0)
+33,1864,miner,38.2,25.5,0,761.5,41.5,57.3,36.6,carry on,
+34,1865,miner,31.6,20.4,0,772.7,39.5,57.9,36.5,carry on,
+35,1866,miner,29.6,22.7,0,779.6,37.4,58.6,36.3,carry on,
+36,1867,miner,0,24.2,0,755.4,48.6,58.6,36.1,move from hard labor to organizing mining work; stop working to recover,adapted_role; rest (recovery=11.4)
+37,1868,miner,17.7,23.0,0,750.1,47.6,61.1,36.0,spend part of work time learning,training
+38,1869,miner,31.3,26.0,0,755.4,46.5,61.7,35.9,carry on,
+39,1870,miner,25.3,19.1,0,761.6,45.3,62.3,35.7,carry on,
+40,1871,miner,30.0,24.5,0,767.0,44.2,62.9,35.5,carry on,
+41,1872,miner,26.9,21.2,0,772.7,42.9,63.5,35.4,carry on,
+42,1873,miner,27.0,24.5,0,775.2,41.6,64.1,35.2,carry on,
+43,1874,miner,16.5,20.2,0,771.5,40.2,64.7,39.1,make time for relationships,
+44,1875,miner,23.7,18.9,0,776.3,38.8,65.3,39.0,carry on,
+45,1876,miner,25.8,23.0,0,779.2,37.6,65.8,42.8,make time for relationships; move to a more skilled role,promotion (stage=2.0)
+46,1877,miner,0,25.6,0,753.6,48.7,65.8,42.6,stop working to recover,rest (recovery=11.9)
+47,1878,miner,25.5,22.0,0,757.0,47.3,66.4,42.5,carry on,
+48,1879,miner,29.9,32.0,0,754.9,27.9,66.9,42.4,carry on,illness (health_loss=21.9); paid_care (recovery=4.0)
+49,1880,miner,0,21.0,7,740.9,39.3,66.9,49.2,accept help from an experienced acquaintance; stop working to recover,mentor; rest (recovery=12.3); care_support (aid=7.0)
+50,1881,miner,17.5,24.2,0,734.3,37.7,67.9,49.0,carry on,
+51,1882,miner,0,20.2,7,721.2,49.0,67.9,48.9,stop working to recover,rest (recovery=12.3); care_support (aid=7.0)
+52,1883,miner,37.6,26.2,0,732.5,47.3,68.4,48.8,carry on,
+53,1884,miner,39.4,33.5,0,738.4,45.6,68.9,48.6,go into business with a partner,partnership (duration=4.0)
+54,1885,miner,34.0,24.5,0,747.8,43.8,69.4,48.5,carry on,
+55,1886,miner,38.2,25.9,0,760.2,42.0,69.9,48.3,carry on,
+56,1887,miner,26.0,26.0,0,760.2,40.1,70.3,48.1,carry on,
+57,1888,miner,25.4,19.6,0,766.0,38.2,70.8,48.0,carry on,
+58,1889,miner,0,20.7,0,745.4,48.3,70.8,37.9,stop working to recover,conflict; rest (recovery=11.5)
+59,1890,miner,35.3,24.4,0,756.2,46.3,71.3,37.7,carry on,
+60,1891,miner,43.2,34.7,0,764.7,44.2,71.7,37.5,go into business with a partner,partnership (duration=4.0)
+61,1892,miner,43.1,23.1,0,784.6,42.0,72.2,37.4,carry on,
+62,1893,miner,25.2,29.5,0,780.3,39.8,72.6,30.2,carry on,partnership_failure
+63,1894,miner,19.9,26.4,0,773.8,37.5,73.1,30.1,carry on,
+64,1895,miner,0,19.8,0,754.1,46.8,73.1,29.9,stop working to recover,rest (recovery=11.0)
+65,1896,miner,25.1,21.9,0,757.2,44.4,73.5,29.8,carry on,
+66,1897,miner,23.3,21.5,0,759.0,42.0,73.9,29.6,carry on,
+67,1898,miner,16.1,26.8,0,748.4,39.5,74.4,29.5,carry on,
+68,1899,miner,13.0,18.3,0,743.0,37.0,74.8,29.4,carry on,
+69,1900,miner,0,19.7,0,723.3,45.9,74.8,29.2,stop working to recover,rest (recovery=11.0)
+70,1901,miner,21.8,24.4,0,720.7,43.2,75.2,33.0,make time for relationships,
+71,1902,miner,19.8,23.2,0,717.3,40.5,75.6,32.9,carry on,
+72,1903,miner,14.9,26.7,0,705.5,37.8,76.0,32.8,carry on,
+73,1904,miner,0,26.7,0,678.8,47.0,76.0,36.6,make time for relationships; stop working to recover,rest (recovery=11.4)
+74,1905,miner,22.5,19.2,0,682.0,44.1,76.3,36.5,carry on,
+75,1906,miner,13.6,24.4,0,671.2,41.2,76.7,40.3,make time for relationships,
+76,1907,miner,13.1,23.3,0,661.1,38.2,77.1,40.1,carry on,
+77,1908,miner,0,26.3,0,634.8,47.4,77.1,40.0,stop working to recover,rest (recovery=11.7)
+78,1909,miner,24.8,26.5,0,633.1,30.8,77.5,39.9,carry on,illness (health_loss=17.5); paid_care (recovery=4.0)
+79,1910,miner,0,18.2,7,621.9,40.4,77.5,46.7,accept help from an experienced acquaintance; stop working to recover,mentor; rest (recovery=12.1); care_support (aid=7.0)

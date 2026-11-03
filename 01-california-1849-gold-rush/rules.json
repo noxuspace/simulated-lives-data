@@ -1,0 +1,73 @@
+{
+ "model": "California 1849 life simulation, version 0.2",
+ "status": "Every coefficient is the author's assumption for an entertainment simulation. Sources support the historical context, not these probabilities.",
+ "step": "one year of life; lives run until death or age 100",
+ "units": "Money is counted in units, not dollars. 20 units = basic costs of one ordinary year. Savings are not capped.",
+ "start": {
+  "year": 1849,
+  "age": 18,
+  "sex": "male",
+  "family": "far away, moderate support",
+  "traits": {
+   "health": 78,
+   "resources": 40,
+   "skills": 25,
+   "support": 45,
+   "risk": 60,
+   "discipline": 65
+  }
+ },
+ "annual_cost": 20,
+ "jobs": {
+  "miner": {
+   "entry_cost": 12,
+   "income_low": 4,
+   "income_high": 27,
+   "wear": 2.4,
+   "accident_chance": 0.045,
+   "strike_chance": 0.11,
+   "strike_low": 45,
+   "strike_high": 180
+  },
+  "hired worker": {
+   "entry_cost": 3,
+   "income_low": 21,
+   "income_high": 33,
+   "wear": 1.2,
+   "accident_chance": 0.018,
+   "job_loss_chance": 0.1
+  },
+  "merchant": {
+   "entry_cost": 30,
+   "income_low": 9,
+   "income_high": 44,
+   "wear": 0.6,
+   "accident_chance": 0.007,
+   "stock_loss_chance": 0.09
+  }
+ },
+ "gold": "Miners only, years 1849-1855: yearly strike chance = strike_chance * 0.93^(year - 1849); gain uniform(strike_low, strike_high). After 1855 there are no strikes and the miner's base income is uniform(19, 35) before health and skill multipliers.",
+ "base_yearly_event_chances": {
+  "contact": 0.1,
+  "conflict": 0.035,
+  "family_need": 0.035,
+  "illness": 0.065,
+  "serious_illness": 0.012,
+  "partnership_failure": 0.08
+ },
+ "background_mortality": "1.5 * (0.0008 + 0.012 * exp((age - 58) / 10)) per year, drawn from a random stream shared by the three lives of the same world",
+ "extra_risk": "If risk >= 55 and savings < 25, he takes extra risk with probability risk/150: income x1.25, wear x1.5, injury chance x1.6",
+ "giving_up": "A miner switches to wage work after 2 poor years in a row (3 if risk >= 65) or when health < 32 without a lighter role; a merchant closes after 2 poor years in a row",
+ "emergency_aid": "Up to 10 units from friends when support >= 55, at most once every 3 years",
+ "worlds": "Paired design: world number N is the same world for all three jobs (shared epidemics, encounters, economy and mortality draws).",
+ "sources": [
+  {
+   "url": "https://www.parks.ca.gov/?page_id=1097",
+   "supports": "1848-1855 context: mining, trade and supplying the miners"
+  },
+  {
+   "url": "https://www.nps.gov/cali/learn/historyculture/california-gold-rush.htm?lv=true",
+   "supports": "Discovery of gold in 1848 and the 1849 migration; the journey itself is not modeled"
+  }
+ ]
+}

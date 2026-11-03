@@ -1,0 +1,63 @@
+path,event,event_en,lives,runs,share,ci95_low,ci95_high
+prospector,adapted_role,Moved to a less physical role in mining,461534,1000000,0.461534,0.46055705402083097,0.4625112415200047
+prospector,care_support,Family covered part of the costs during recovery,925700,1000000,0.9257,0.9251843364035107,0.926212392870814
+prospector,career_change,Gave up the first job (miner: exhaustion or repeated shortfall; merchant: two loss years in a row),659411,1000000,0.659411,0.6584815308748786,0.6603392443432312
+prospector,conflict,Conflict with family or friends weakened support,775445,1000000,0.775445,0.7746260564361988,0.7762618272729073
+prospector,declined_contact,Chose to rely on himself instead of a contact,711829,1000000,0.711829,0.710940481794762,0.7127158906869175
+prospector,emergency_aid,One-time help from friends (not again for three years),305351,1000000,0.305351,0.3044490595575399,0.3062544359639116
+prospector,family_care,Less time for work; stronger ties,580166,1000000,0.580166,0.5791983719635927,0.5811330121073621
+prospector,gold_strike,Gold strike,421504,1000000,0.421504,0.4205364554842131,0.4224721476139371
+prospector,illness,Illness lowered health,912113,1000000,0.912113,0.9115564798770144,0.9126663537885475
+prospector,injury,Work injury with lasting limits on recovery,597644,1000000,0.597644,0.5966824956448721,0.598604754139629
+prospector,job_loss,Out of work for part of the year,526854,1000000,0.526854,0.5258753131621826,0.5278324805139573
+prospector,mentor,An experienced acquaintance: three years of faster learning,898113,1000000,0.898113,0.8975185704641081,0.898704370765841
+prospector,paid_care,Paid for extra care,951229,1000000,0.951229,0.9508051015219262,0.9516494316087393
+prospector,partnership,Joint venture for four years: part of savings invested,608145,1000000,0.608145,0.6071877837189597,0.6091013853845684
+prospector,partnership_failure,Joint venture failed: lost savings and trust,204943,1000000,0.204943,0.20415296066438324,0.20573530630885026
+prospector,promotion,Experience opened a more skilled job,947422,1000000,0.947422,0.9469828272293667,0.9478577351511287
+prospector,push,"Took extra risk for higher income (more wear, higher injury risk)",839142,1000000,0.839142,0.8384205935114997,0.839860800802696
+prospector,rest,Stopped working to recover: no income this year,950614,1000000,0.950614,0.950187587886011,0.9510369499698043
+prospector,serious_illness,Serious illness with lasting effects,435398,1000000,0.435398,0.434426464335172,0.43637003201300756
+prospector,shortfall,Could not cover all basic needs,716075,1000000,0.716075,0.7151904055323983,0.7169579343265393
+prospector,social_care,Family helped with recovery,496507,1000000,0.496507,0.49552703921524577,0.49748698762206855
+prospector,training,Less income now for better skills later,977656,1000000,0.977656,0.9773644724141913,0.9779438576733276
+worker,care_support,Family covered part of the costs during recovery,901725,1000000,0.901725,0.9011399910292098,0.9023069224491272
+worker,conflict,Conflict with family or friends weakened support,786091,1000000,0.786091,0.7852861776103794,0.7868936243036935
+worker,declined_contact,Chose to rely on himself instead of a contact,722771,1000000,0.722771,0.7218927896567715,0.7236474987556565
+worker,emergency_aid,One-time help from friends (not again for three years),113615,1000000,0.113615,0.11299449131354673,0.11423847734828081
+worker,family_care,Less time for work; stronger ties,588528,1000000,0.588528,0.5875631449416617,0.5894921748826217
+worker,illness,Illness lowered health,921680,1000000,0.92168,0.9211517766143579,0.9222049835463123
+worker,injury,Work injury with lasting limits on recovery,443852,1000000,0.443852,0.44287841623979884,0.4448260151548574
+worker,job_loss,Out of work for part of the year,935906,1000000,0.935906,0.9354242796199976,0.9363843712398892
+worker,mentor,An experienced acquaintance: three years of faster learning,908896,1000000,0.908896,0.9083304244687725,0.9094584339135491
+worker,paid_care,Paid for extra care,956924,1000000,0.956924,0.9565243062687631,0.9573201831062464
+worker,partnership,Joint venture for four years: part of savings invested,715505,1000000,0.715505,0.7146198732227728,0.7163884710155718
+worker,partnership_failure,Joint venture failed: lost savings and trust,264714,1000000,0.264714,0.2638501906919505,0.26557961705050004
+worker,promotion,Experience opened a more skilled job,966305,1000000,0.966305,0.965949536671278,0.966656880627909
+worker,push,"Took extra risk for higher income (more wear, higher injury risk)",425047,1000000,0.425047,0.42407836350828604,0.4260162123683912
+worker,rest,Stopped working to recover: no income this year,934223,1000000,0.934223,0.9337354618719741,0.9347072019186887
+worker,serious_illness,Serious illness with lasting effects,441679,1000000,0.441679,0.4407059153443847,0.442652532745801
+worker,shortfall,Could not cover all basic needs,270912,1000000,0.270912,0.2700417970269415,0.2717839630952183
+worker,social_care,Family helped with recovery,488678,1000000,0.488678,0.48769829665543435,0.48965779033342177
+worker,training,Less income now for better skills later,987948,1000000,0.987948,0.9877322463203961,0.9881600046919323
+merchant,care_support,Family covered part of the costs during recovery,877282,1000000,0.877282,0.8766374483079727,0.8779236529701006
+merchant,career_change,Gave up the first job (miner: exhaustion or repeated shortfall; merchant: two loss years in a row),296988,1000000,0.296988,0.2960931961030087,0.2978843636727975
+merchant,conflict,Conflict with family or friends weakened support,790950,1000000,0.79095,0.7901518878990431,0.7917458766825044
+merchant,declined_contact,Chose to rely on himself instead of a contact,727637,1000000,0.727637,0.7267635823956383,0.7285086686304821
+merchant,emergency_aid,One-time help from friends (not again for three years),133171,1000000,0.133171,0.13250648046835808,0.13383833794138753
+merchant,family_care,Less time for work; stronger ties,592899,1000000,0.592899,0.5919357087012181,0.5938615775399269
+merchant,illness,Illness lowered health,925789,1000000,0.925789,0.9252736193185509,0.9263011092719715
+merchant,injury,Work injury with lasting limits on recovery,261686,1000000,0.261686,0.2608253936890975,0.26254843731799316
+merchant,job_loss,Out of work for part of the year,232503,1000000,0.232503,0.23167606982480274,0.2333319854002522
+merchant,mentor,An experienced acquaintance: three years of faster learning,913392,1000000,0.913392,0.9128391415551543,0.9139416822836327
+merchant,paid_care,Paid for extra care,939355,1000000,0.939355,0.9388855011693495,0.9398211231912823
+merchant,partnership,Joint venture for four years: part of savings invested,723081,1000000,0.723081,0.722203091109137,0.723957194921508
+merchant,partnership_failure,Joint venture failed: lost savings and trust,276988,1000000,0.276988,0.2761117374054409,0.27786597603377505
+merchant,promotion,Experience opened a more skilled job,970512,1000000,0.970512,0.9701786151781262,0.9708417697979628
+merchant,push,"Took extra risk for higher income (more wear, higher injury risk)",884010,1000000,0.88401,0.8833809069238018,0.8846361426619004
+merchant,rest,Stopped working to recover: no income this year,915968,1000000,0.915968,0.9154226265524951,0.9165101774944447
+merchant,serious_illness,Serious illness with lasting effects,445144,1000000,0.445144,0.4441701284322185,0.44611829303578143
+merchant,shortfall,Could not cover all basic needs,487186,1000000,0.487186,0.4862063729887062,0.4881657254634402
+merchant,social_care,Family helped with recovery,478178,1000000,0.478178,0.47719901950433513,0.479157148157811
+merchant,stock_loss,Lost stock,887558,1000000,0.887558,0.8869373279905104,0.888175694335303
+merchant,training,Less income now for better skills later,989680,1000000,0.98968,0.9894800290739864,0.9898762086310907

@@ -1,0 +1,29 @@
+{
+ "summary": [
+  {
+   "path": "prospector",
+   "runs": 1000000,
+   "end_age_p10": 39,
+   "end_age_p50": 69,
+   "end_age_p90": 82,
+   "unfinished": 0
+  },
+  {
+   "path": "worker",
+   "runs": 1000000,
+   "end_age_p10": 42,
+   "end_age_p50": 69,
+   "end_age_p90": 82,
+   "unfinished": 0
+  },
+  {
+   "path": "merchant",
+   "runs": 1000000,
+   "end_age_p10": 44,
+   "end_age_p50": 69,
+   "end_age_p90": 82,
+   "unfinished": 0
+  }
+ ],
+ "method": "Full lives to death or100. Same profile and paired seeds. Exact survival/event counts; 95% Wilson intervals measure sampling, not rule accuracy. State quantiles conditional on survival, rounded via histograms to nearest resource point or half-point for other traits. Examples selected by reserve at40, not by all life outcomes. Earlier2000 seeds included, not independent validation."
+}
