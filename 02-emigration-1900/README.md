@@ -1,6 +1,6 @@
 # 02 · Emigration 1900: stay in Italy or sail to America?
 
-Video: <!-- TODO: YouTube link -->
+Video: [**Should Your Ancestors Have Stayed Home? I Simulated 3 Million Lives**](https://youtu.be/F-Ct2SO_PrE)
 
 This folder holds the rules and the results behind every number in the video. The simulation engine is private; the rules, all aggregated results, the analysis scripts and the full year-by-year logs of the lives shown in the video are here.
 

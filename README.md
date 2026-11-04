@@ -15,7 +15,7 @@ All coefficients are the author's assumptions. The models are built for explanat
 | # | Episode | Lives |
 |---|---|---:|
 | 01 | [California 1849: dig for gold or sell shovels?](01-california-1849-gold-rush/) · [video](https://youtu.be/jmjQsllSuKc) | 3,000,000 |
-| 02 | [Emigration 1900: stay in Italy or sail to America?](02-emigration-1900/) | 3,000,000 |
+| 02 | [Emigration 1900: should your ancestors have stayed home?](02-emigration-1900/) · [video](https://youtu.be/F-Ct2SO_PrE) | 3,000,000 |
 
 ## License
 
