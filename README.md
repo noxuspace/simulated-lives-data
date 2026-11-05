@@ -12,10 +12,11 @@ All coefficients are the author's assumptions. The models are built for explanat
 
 ## Episodes
 
-| # | Episode | Lives |
+| # | Episode | Simulated |
 |---|---|---:|
 | 01 | [California 1849: dig for gold or sell shovels?](01-california-1849-gold-rush/) · [video](https://youtu.be/jmjQsllSuKc) | 3,000,000 |
 | 02 | [Emigration 1900: should your ancestors have stayed home?](02-emigration-1900/) · [video](https://youtu.be/F-Ct2SO_PrE) | 3,000,000 |
+| 05 | [Does your vote matter? Five presidential elections, rerun a billion times each](05-your-vote/) · [video](https://youtu.be/hc-3E94MYLc) | 5,000,000,000 elections |
 
 ## License
 

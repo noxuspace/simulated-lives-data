@@ -1,0 +1,53 @@
+{
+  "id": "your_vote",
+  "version": "0.1",
+  "description": "Replication of Gelman, Silver, Edlin (2012), 'What is the probability your vote will make a difference?', Economic Inquiry 50(2). Probability that one vote is decisive = P(state's electoral votes are needed) x P(state is tied | needed). Forecast = actual state results (we do not have Silver's 2008 forecast) plus correlated uncertainty.",
+  "split_maine_nebraska": false,
+  "uncertainty": {
+    "distribution": "student_t",
+    "df": 4,
+    "national_sd": 0.06,
+    "state_sd": 0.03,
+    "calibration_note": "Chosen on 2008 (1M sims each, sweep 0.02-0.07 national, 0.03-0.04 state): national 0.06 / state 0.03 gives average 1 in 71M (paper 60M), NH tie given needed 1 in 80k (paper 70k), Ohio 2.9e-8 (3.1e-8), DC 1.3e-12 (2e-12), California needed 22% (18%). Means are actual results, not Silver's forecast, so New Mexico (actual Obama +15) is lower than in the paper."
+  },
+  "tie_density_df": 4,
+  "sub_batch": 100000,
+  "paper_targets_2008": {
+    "average_per_voter": 1.6667e-08,
+    "max_state_about": 1e-07,
+    "top_states": [
+      "New Mexico",
+      "Virginia",
+      "New Hampshire",
+      "Colorado"
+    ],
+    "california_needed": 0.18,
+    "new_hampshire_needed_below": 0.01,
+    "ohio": 3.1e-08,
+    "utah": 2e-10,
+    "dc": 2e-12
+  },
+  "paths": {
+    "y2008": {
+      "label": "2008 (Obama vs McCain)",
+      "data": "pres2008.json"
+    },
+    "y2012": {
+      "label": "2012 (Obama vs Romney)",
+      "data": "pres2012.json"
+    },
+    "y2016": {
+      "label": "2016 (Clinton vs Trump)",
+      "data": "pres2016.json"
+    },
+    "y2020": {
+      "label": "2020 (Biden vs Trump)",
+      "data": "pres2020.json"
+    },
+    "y2024": {
+      "label": "2024 (Harris vs Trump)",
+      "data": "pres2024.json"
+    }
+  },
+  "method": "Gelman-Silver-Edlin method on our own simulations; forecast = actual results; t(4) national + state errors."
+}

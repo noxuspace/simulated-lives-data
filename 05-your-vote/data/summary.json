@@ -1,0 +1,175 @@
+{
+  "runs": [
+    {
+      "years": [
+        "y2008",
+        "y2024"
+      ],
+      "seed": 1,
+      "simulations_per_year": 1000000000,
+      "fingerprint": "8eeffc9c14d3fe2939ac8683478082a21530ef1f4aa6708c193a659e4cb27da8"
+    },
+    {
+      "years": [
+        "y2012",
+        "y2016",
+        "y2020"
+      ],
+      "seed": 1,
+      "simulations_per_year": 1000000000,
+      "fingerprint": "1fbceb959c05b186314b0b9ef05147fe03c0cfea1136fbf4e6ab83a46bc38ac0"
+    }
+  ],
+  "years": {
+    "2008": {
+      "label": "2008 (Obama vs McCain)",
+      "simulations": 1000000000,
+      "democratic_ev_win_share": 0.9357658165,
+      "average_per_voter": 1.4167878787258809e-08,
+      "average_voter_one_in": 70582196,
+      "elections_decided_by_one_ballot": 692,
+      "top_states": [
+        [
+          "New Hampshire",
+          7504413
+        ],
+        [
+          "Colorado",
+          9770710
+        ],
+        [
+          "Minnesota",
+          12013316
+        ],
+        [
+          "Virginia",
+          14251628
+        ],
+        [
+          "Iowa",
+          14355638
+        ]
+      ]
+    },
+    "2012": {
+      "label": "2012 (Obama vs Romney)",
+      "simulations": 1000000000,
+      "democratic_ev_win_share": 0.8090299665,
+      "average_per_voter": 3.669332462015598e-08,
+      "average_voter_one_in": 27252913,
+      "elections_decided_by_one_ballot": 1753,
+      "top_states": [
+        [
+          "New Hampshire",
+          3290493
+        ],
+        [
+          "Nevada",
+          5484691
+        ],
+        [
+          "Virginia",
+          6079388
+        ],
+        [
+          "Pennsylvania",
+          6215573
+        ],
+        [
+          "Iowa",
+          6495211
+        ]
+      ]
+    },
+    "2016": {
+      "label": "2016 (Clinton vs Trump)",
+      "simulations": 1000000000,
+      "democratic_ev_win_share": 0.436546511,
+      "average_per_voter": 5.640641688589026e-08,
+      "average_voter_one_in": 17728479,
+      "elections_decided_by_one_ballot": 2286,
+      "top_states": [
+        [
+          "New Hampshire",
+          3256599
+        ],
+        [
+          "Florida",
+          4519031
+        ],
+        [
+          "Wisconsin",
+          4552294
+        ],
+        [
+          "Michigan",
+          4623311
+        ],
+        [
+          "Pennsylvania",
+          5089554
+        ]
+      ]
+    },
+    "2020": {
+      "label": "2020 (Biden vs Trump)",
+      "simulations": 1000000000,
+      "democratic_ev_win_share": 0.6072938245,
+      "average_per_voter": 4.6154788944333816e-08,
+      "average_voter_one_in": 21666224,
+      "elections_decided_by_one_ballot": 1914,
+      "top_states": [
+        [
+          "Nevada",
+          3922464
+        ],
+        [
+          "Arizona",
+          3996556
+        ],
+        [
+          "Wisconsin",
+          4069334
+        ],
+        [
+          "Pennsylvania",
+          4572880
+        ],
+        [
+          "Georgia",
+          4861388
+        ]
+      ]
+    },
+    "2024": {
+      "label": "2024 (Harris vs Trump)",
+      "simulations": 1000000000,
+      "democratic_ev_win_share": 0.3304156665,
+      "average_per_voter": 4.180064326330046e-08,
+      "average_voter_one_in": 23923077,
+      "elections_decided_by_one_ballot": 1690,
+      "top_states": [
+        [
+          "Pennsylvania",
+          4265448
+        ],
+        [
+          "Wisconsin",
+          4747553
+        ],
+        [
+          "Nevada",
+          4831437
+        ],
+        [
+          "Georgia",
+          5310827
+        ],
+        [
+          "Michigan",
+          5799186
+        ]
+      ]
+    }
+  }
+}
