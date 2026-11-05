@@ -1,14 +1,15 @@
 # Simulated lives: data behind the videos
 
-Each video on the channel follows one person through many simulated lives: same start, a few different choices, then rules and chance decide the rest. This repository holds the rules and the results behind every number shown on screen.
+Each video on the channel takes one question and answers it with a simple model run millions or billions of times. Some follow one person through many lives (same start, a few different choices, then rules and chance decide the rest). Others replay a real event over and over, or rebuild a published study at a much larger scale. This repository holds the rules and the results behind every number shown on screen.
 
 The simulation engine is private. What is public for each episode:
 
-- the rules and coefficients the model used;
-- aggregated results for all simulated lives;
-- full year-by-year logs of the lives shown in the video.
+- the rules and settings the model used;
+- the input data, with sources;
+- aggregated results for all simulated runs;
+- full year-by-year logs of any individual lives shown in the video.
 
-All coefficients are the author's assumptions. The models are built for explanation and entertainment, not as historical reconstructions or predictions about real people.
+Where a model rests on its own coefficients, they are the author's assumptions. Where it rebuilds a published study, the paper is credited in the episode folder. The models are built for explanation and entertainment, not as historical reconstructions or predictions about real people or events.
 
 ## Episodes
 
