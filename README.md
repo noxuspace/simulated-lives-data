@@ -18,6 +18,7 @@ Where a model rests on its own coefficients, they are the author's assumptions. 
 | 01 | [California 1849: dig for gold or sell shovels?](01-california-1849-gold-rush/) · [video](https://youtu.be/jmjQsllSuKc) | 3 million lives |
 | 02 | [Emigration 1900: should your ancestors have stayed home?](02-emigration-1900/) · [video](https://youtu.be/F-Ct2SO_PrE) | 3 million lives |
 | 05 | [Does your vote matter? 5 elections, a billion reruns each](05-your-vote/) · [video](https://youtu.be/hc-3E94MYLc) | 5 billion elections |
+| 06 | [One zombie on Earth: where do humans survive?](06-zombie-earth/) · [video](https://youtu.be/dRH87Ct1BeA) | 10,000 worlds |
 
 ## License
 

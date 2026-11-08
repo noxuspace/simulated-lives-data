@@ -1,0 +1,231 @@
+{
+  "worlds": 10000,
+  "took_off": 1976,
+  "took_off_share": 0.1976,
+  "fizzled_with_zero_bites_share_of_fizzled": 0.5538384845463609,
+  "went_global_share_of_took_off": 0.9357287449392713,
+  "humans_M_median": {
+    "day_0": 8191.989,
+    "day_7": 8188.613,
+    "day_14": 8074.417,
+    "day_21": 5599.702,
+    "day_30": 3174.468,
+    "day_60": 1135.078,
+    "day_90": 651.278
+  },
+  "humans_M_day90_p10_p90": [
+    542.526,
+    2142.994
+  ],
+  "countries_10M_plus": 94,
+  "top5_10M_plus": [
+    {
+      "country": "Chad",
+      "left_day90_mean": 0.773
+    },
+    {
+      "country": "Papua New Guinea",
+      "left_day90_mean": 0.7263
+    },
+    {
+      "country": "Somalia",
+      "left_day90_mean": 0.677
+    },
+    {
+      "country": "Madagascar",
+      "left_day90_mean": 0.6599
+    },
+    {
+      "country": "Bolivia",
+      "left_day90_mean": 0.6028
+    }
+  ],
+  "first_to_fall": [
+    {
+      "country": "Singapore",
+      "pop_M": 6.876,
+      "left": 0.0649,
+      "left_median": 0.0,
+      "p_half_alive": 0.0648,
+      "p_untouched": 0.0643,
+      "p_lose90": 0.9347,
+      "median_day_lose90": 16.0,
+      "seats_day": 72900,
+      "seats_per_M": 10601,
+      "rank_big": null,
+      "last_big": 0,
+      "last_mid": 0
+    },
+    {
+      "country": "Hong Kong",
+      "pop_M": 7.455,
+      "left": 0.065,
+      "left_median": 0.0,
+      "p_half_alive": 0.0648,
+      "p_untouched": 0.0638,
+      "p_lose90": 0.9347,
+      "median_day_lose90": 17.0,
+      "seats_day": 63720,
+      "seats_per_M": 8547,
+      "rank_big": null,
+      "last_big": 0,
+      "last_mid": 0
+    },
+    {
+      "country": "Macao",
+      "pop_M": 1.141,
+      "left": 0.0671,
+      "left_median": 0.0,
+      "p_half_alive": 0.0673,
+      "p_untouched": 0.0653,
+      "p_lose90": 0.9317,
+      "median_day_lose90": 18.0,
+      "seats_day": 14220,
+      "seats_per_M": 12460,
+      "rank_big": null,
+      "last_big": 0,
+      "last_mid": 0
+    },
+    {
+      "country": "Kuwait",
+      "pop_M": 4.379,
+      "left": 0.0716,
+      "left_median": 0.0001,
+      "p_half_alive": 0.0709,
+      "p_untouched": 0.0673,
+      "p_lose90": 0.9266,
+      "median_day_lose90": 22.0,
+      "seats_day": 21420,
+      "seats_per_M": 4891,
+      "rank_big": null,
+      "last_big": 0,
+      "last_mid": 0
+    },
+    {
+      "country": "Bahrain",
+      "pop_M": 1.512,
+      "left": 0.0714,
+      "left_median": 0.0,
+      "p_half_alive": 0.0714,
+      "p_untouched": 0.0673,
+      "p_lose90": 0.9266,
+      "median_day_lose90": 22.0,
+      "seats_day": 15120,
+      "seats_per_M": 10002,
+      "rank_big": null,
+      "last_big": 0,
+      "last_mid": 0
+    },
+    {
+      "country": "Taiwan",
+      "pop_M": 23.952,
+      "left": 0.0734,
+      "left_median": 0.0035,
+      "p_half_alive": 0.0698,
+      "p_untouched": 0.0653,
+      "p_lose90": 0.9256,
+      "median_day_lose90": 23.0,
+      "seats_day": 74340,
+      "seats_per_M": 3104,
+      "rank_big": 91,
+      "last_big": 0,
+      "last_mid": 0
+    },
+    {
+      "country": "Palestine",
+      "pop_M": 6.842,
+      "left": 0.069,
+      "left_median": 0.0,
+      "p_half_alive": 0.0668,
+      "p_untouched": 0.0643,
+      "p_lose90": 0.9261,
+      "median_day_lose90": 23.0,
+      "seats_day": 0,
+      "seats_per_M": 0,
+      "rank_big": null,
+      "last_big": 0,
+      "last_mid": 0
+    },
+    {
+      "country": "Malta",
+      "pop_M": 0.538,
+      "left": 0.0701,
+      "left_median": 0.0,
+      "p_half_alive": 0.0673,
+      "p_untouched": 0.0653,
+      "p_lose90": 0.9261,
+      "median_day_lose90": 24.0,
+      "seats_day": 20340,
+      "seats_per_M": 37786,
+      "rank_big": null,
+      "last_big": 0,
+      "last_mid": 0
+    },
+    {
+      "country": "Israel",
+      "pop_M": 8.244,
+      "left": 0.0704,
+      "left_median": 0.0001,
+      "p_half_alive": 0.0668,
+      "p_untouched": 0.0633,
+      "p_lose90": 0.9261,
+      "median_day_lose90": 24.0,
+      "seats_day": 26460,
+      "seats_per_M": 3210,
+      "rank_big": null,
+      "last_big": 0,
+      "last_mid": 0
+    },
+    {
+      "country": "Belgium",
+      "pop_M": 11.631,
+      "left": 0.07,
+      "left_median": 0.0,
+      "p_half_alive": 0.0698,
+      "p_untouched": 0.0622,
+      "p_lose90": 0.9256,
+      "median_day_lose90": 25.0,
+      "seats_day": 74160,
+      "seats_per_M": 6376,
+      "rank_big": 94,
+      "last_big": 0,
+      "last_mid": 0
+    },
+    {
+      "country": "Bangladesh",
+      "pop_M": 175.486,
+      "left": 0.0715,
+      "left_median": 0.0,
+      "p_half_alive": 0.0729,
+      "p_untouched": 0.0638,
+      "p_lose90": 0.9246,
+      "median_day_lose90": 25.0,
+      "seats_day": 20160,
+      "seats_per_M": 115,
+      "rank_big": 93,
+      "last_big": 0,
+      "last_mid": 0
+    },
+    {
+      "country": "Qatar",
+      "pop_M": 2.757,
+      "left": 0.0701,
+      "left_median": 0.0001,
+      "p_half_alive": 0.0683,
+      "p_untouched": 0.0643,
+      "p_lose90": 0.9246,
+      "median_day_lose90": 26.0,
+      "seats_day": 33840,
+      "seats_per_M": 12273,
+      "rank_big": null,
+      "last_big": 0,
+      "last_mid": 0
+    }
+  ],
+  "world_shown": 5912,
+  "run": {
+    "seed": 1,
+    "worlds": 10000,
+    "fingerprint": "be556c0b7bd3dd6ff95db6f1b6921f46b2dcbf471ea1cc072a751afc5f565149"
+  }
+}

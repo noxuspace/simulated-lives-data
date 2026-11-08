@@ -1,0 +1,31 @@
+{
+  "id": "zombie_earth",
+  "version": "0.1",
+  "description": "One zombie on Earth. SZR model with latency of Alemi, Bierbaum, Myers, Sethna, 'You Can Run, You Can Hide: The Epidemiology and Statistical Mechanics of Zombies', Phys. Rev. E 92, 052801 (2015), arXiv:1503.01104, on a world grid of 0.25 degrees (GHS-POP 2025 population), plus air travel of bitten people (OpenFlights routes).",
+  "source_parameters": "Table 1 of the paper: beta 3.6e-3 /hr/person for 3 km cells, alpha = kappa/beta = 0.8 (Witkowski & Blais fit to Night of the Living Dead and Shaun of the Dead), eta 2 /hr (latency ~30 min), zombies walk 1 ft/s (mu 0.0914 /hr per edge for 3 km cells). Humans do not move.",
+  "paths": {
+    "movie": {
+      "label": "Movie zombies (alpha 0.8), one random patient zero, flights",
+      "alpha": 0.8,
+      "eta": 2.0,
+      "walk": 0.04,
+      "contact": 0.04,
+      "seats_per_airline_day": 180,
+      "notice_bitten": 10000,
+      "flights_after": 0.1,
+      "days": 90,
+      "fall_frac": 0.01
+    }
+  },
+  "notes": {
+    "calibration": "walk and contact multiply the walking rate and the in-cell meeting rate (beta and kappa together, alpha unchanged) so that the 0.25-degree grid reproduces the spread of the same engine on a 3 km grid of the north-eastern US (day when the 0.25-degree square around a city loses half its people: Allentown 11 vs 12, Philadelphia 12 vs 11, Hartford 15 vs 16, Boston 27 vs 29.5, Baltimore 24 vs 25, Washington 29 vs 29). See episodes/zombie-earth/DESIGN.md.",
+    "flights": "Author assumption: each airline on a direct OpenFlights route = one 180-seat flight a day (about 12M seats a day, ~4.4B a year; IATA 2019: 4.5B passengers). A bitten person in an airport cell boards at rate seats/hour divided by the cell population and arrives as a zombie. After 10,000 people have been bitten worldwide, flights run at 10%.",
+    "not_modelled": "Cars, ships, tunnels; people running away; zombies swimming."
+  },
+  "method": "Each run is one world: one random person on Earth (weighted by population) turns; SZR with latency on a 0.25-degree grid, walking between land cells and air travel of bitten people; 90 days. A world 'took off' if at least 1,000 people were bitten. Country statistics are over worlds that took off.",
+  "inputs": {
+    "population": "GHS-POP R2023A, epoch 2025, 30 arc-seconds, aggregated to 0.25 degrees",
+    "flights": "OpenFlights routes: 36,724 airport-to-airport routes",
+    "borders": "Natural Earth admin-0 (via world-atlas)"
+  }
+}
