@@ -1,4 +1,4 @@
-# 06 · One zombie on Earth: 10,000 worlds
+# 04 · One zombie on Earth: 10,000 worlds
 
 Video: [**The Safest Country in a Zombie Apocalypse Is NOT What You Think**](https://youtu.be/dRH87Ct1BeA)
 

@@ -1,4 +1,4 @@
-# 05 · Does your vote matter? Five U.S. presidential elections, rerun a billion times each
+# 03 · Does your vote matter? Five U.S. presidential elections, rerun a billion times each
 
 Video: [**Does Your Vote Actually Matter? I Simulated 5 Billion Elections**](https://youtu.be/hc-3E94MYLc)
 
