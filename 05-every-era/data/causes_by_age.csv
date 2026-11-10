@@ -1,0 +1,200 @@
+era,age_band,cause,lives
+ice_age,0-4,Childhood illness,305738
+ice_age,0-4,Infection or disease,35572
+ice_age,0-4,"Accident, animal or violence",11902
+ice_age,0-4,Illness of later life,821
+ice_age,15-39,Infection or disease,112241
+ice_age,15-39,"Accident, animal or violence",37143
+ice_age,15-39,Illness of later life,21220
+ice_age,40-64,Illness of later life,95112
+ice_age,40-64,Infection or disease,71273
+ice_age,40-64,"Accident, animal or violence",23485
+ice_age,5-14,Infection or disease,57678
+ice_age,5-14,"Accident, animal or violence",19056
+ice_age,5-14,Childhood illness,3764
+ice_age,5-14,Illness of later life,2354
+ice_age,65+,Illness of later life,172448
+ice_age,65+,Infection or disease,22340
+ice_age,65+,"Accident, animal or violence",7611
+ice_age,65+,Reached 100,242
+first_farmers,0-4,Childhood illness,273533
+first_farmers,0-4,Infection from crowding and livestock,55234
+first_farmers,0-4,Accident or violence,16077
+first_farmers,0-4,Illness of later life,1430
+first_farmers,15-39,Infection from crowding and livestock,155837
+first_farmers,15-39,Accident or violence,45747
+first_farmers,15-39,Illness of later life,31687
+first_farmers,40-64,Illness of later life,103933
+first_farmers,40-64,Infection from crowding and livestock,74893
+first_farmers,40-64,Accident or violence,22079
+first_farmers,5-14,Infection from crowding and livestock,90151
+first_farmers,5-14,Accident or violence,26620
+first_farmers,5-14,Illness of later life,4134
+first_farmers,5-14,Childhood illness,31
+first_farmers,65+,Illness of later life,82937
+first_farmers,65+,Infection from crowding and livestock,12184
+first_farmers,65+,Accident or violence,3493
+rome,0-4,Childhood illness,394966
+rome,0-4,"Fever, malaria or infection",34677
+rome,0-4,Accident or violence,7237
+rome,0-4,Illness of later life,1499
+rome,15-39,"Fever, malaria or infection",99021
+rome,15-39,Antonine Plague (165-169),60940
+rome,15-39,Illness of later life,32494
+rome,15-39,Accident or violence,20751
+rome,40-64,Illness of later life,109924
+rome,40-64,"Fever, malaria or infection",50943
+rome,40-64,Accident or violence,10485
+rome,5-14,"Fever, malaria or infection",55526
+rome,5-14,Accident or violence,11623
+rome,5-14,Illness of later life,4450
+rome,5-14,Childhood illness,1100
+rome,65+,Illness of later life,93368
+rome,65+,"Fever, malaria or infection",9102
+rome,65+,Accident or violence,1894
+black_death,0-4,Childhood illness,240697
+black_death,0-4,Fever or infection,60688
+black_death,0-4,Accident or violence,17897
+black_death,0-4,Illness of later life,2189
+black_death,15-39,Black Death (1348-49),222692
+black_death,15-39,Fever or infection,102411
+black_death,15-39,Plague returns (1361-62),39379
+black_death,15-39,Accident or violence,29772
+black_death,15-39,Illness of later life,23769
+black_death,40-64,Illness of later life,53202
+black_death,40-64,Fever or infection,31133
+black_death,40-64,Accident or violence,8849
+black_death,5-14,Fever or infection,100735
+black_death,5-14,Accident or violence,29669
+black_death,5-14,Illness of later life,6582
+black_death,65+,Illness of later life,26016
+black_death,65+,Fever or infection,3271
+black_death,65+,Accident or violence,1049
+pirates,0-4,Childhood illness,242046
+pirates,0-4,"Fever, smallpox or infection",52608
+pirates,0-4,Accident or violence,10985
+pirates,0-4,Illness of later life,342
+pirates,15-39,"Lost at sea, scurvy or fever aboard",225873
+pirates,15-39,"Fever, smallpox or infection",120172
+pirates,15-39,Accident or violence,24683
+pirates,15-39,Killed in a pirate fight,11158
+pirates,15-39,Illness of later life,5489
+pirates,15-39,Hanged for piracy,3756
+pirates,40-64,"Fever, smallpox or infection",52086
+pirates,40-64,Illness of later life,19420
+pirates,40-64,Accident or violence,10857
+pirates,5-14,"Fever, smallpox or infection",86086
+pirates,5-14,Accident or violence,18047
+pirates,5-14,Childhood illness,1080
+pirates,5-14,Illness of later life,1012
+pirates,65+,Illness of later life,77481
+pirates,65+,"Fever, smallpox or infection",25892
+pirates,65+,Reached 100,5702
+pirates,65+,Accident or violence,5225
+london_1740,0-4,"Infant disease (smallpox, 'convulsions')",588635
+london_1740,0-4,"Smallpox, typhus or fever",15494
+london_1740,0-4,"Accident, gin or violence",3191
+london_1740,0-4,Illness of later life,2935
+london_1740,15-39,Illness of later life,62927
+london_1740,15-39,"Smallpox, typhus or fever",40036
+london_1740,15-39,"Accident, gin or violence",8253
+london_1740,15-39,"Infant disease (smallpox, 'convulsions')",32
+london_1740,40-64,Illness of later life,170368
+london_1740,40-64,"Smallpox, typhus or fever",17894
+london_1740,40-64,"Accident, gin or violence",3687
+london_1740,5-14,"Smallpox, typhus or fever",20552
+london_1740,5-14,"Infant disease (smallpox, 'convulsions')",20110
+london_1740,5-14,Illness of later life,7627
+london_1740,5-14,"Accident, gin or violence",4258
+london_1740,65+,Illness of later life,33012
+london_1740,65+,"Smallpox, typhus or fever",837
+london_1740,65+,"Accident, gin or violence",152
+oregon_trail,0-4,Childhood illness,184477
+oregon_trail,0-4,Fever or infection,29364
+oregon_trail,0-4,Accident or violence,8731
+oregon_trail,0-4,Illness of later life,798
+oregon_trail,15-39,Fever or infection,104388
+oregon_trail,15-39,"Died on the trail (cholera, drowning, wagons)",40400
+oregon_trail,15-39,Accident or violence,30262
+oregon_trail,15-39,Illness of later life,24812
+oregon_trail,40-64,Illness of later life,122087
+oregon_trail,40-64,Fever or infection,71617
+oregon_trail,40-64,Accident or violence,21202
+oregon_trail,5-14,Fever or infection,52676
+oregon_trail,5-14,Accident or violence,15490
+oregon_trail,5-14,Illness of later life,2804
+oregon_trail,5-14,Childhood illness,153
+oregon_trail,65+,Illness of later life,257431
+oregon_trail,65+,Fever or infection,25194
+oregon_trail,65+,Accident or violence,7534
+oregon_trail,65+,Reached 100,580
+manchester_1840,0-4,Childhood illness,420116
+manchester_1840,0-4,"Cholera, typhus or fever",15498
+manchester_1840,0-4,Lung disease from smoke,10999
+manchester_1840,0-4,Mill or street accident,5472
+manchester_1840,0-4,Illness of later life,1473
+manchester_1840,15-39,"Cholera, typhus or fever",51958
+manchester_1840,15-39,Illness of later life,38824
+manchester_1840,15-39,Lung disease from smoke,36224
+manchester_1840,15-39,Mill or street accident,18178
+manchester_1840,40-64,Illness of later life,152416
+manchester_1840,40-64,"Cholera, typhus or fever",30553
+manchester_1840,40-64,Lung disease from smoke,21192
+manchester_1840,40-64,Mill or street accident,10775
+manchester_1840,5-14,"Cholera, typhus or fever",26115
+manchester_1840,5-14,Lung disease from smoke,18360
+manchester_1840,5-14,Mill or street accident,8913
+manchester_1840,5-14,Illness of later life,4395
+manchester_1840,5-14,Childhood illness,23
+manchester_1840,65+,Illness of later life,118329
+manchester_1840,65+,"Cholera, typhus or fever",4994
+manchester_1840,65+,Lung disease from smoke,3494
+manchester_1840,65+,Mill or street accident,1699
+trenches,0-4,Childhood illness,160491
+trenches,0-4,Tuberculosis or infection,28402
+trenches,0-4,Accident,8271
+trenches,0-4,Illness of later life,590
+trenches,15-39,Tuberculosis or infection,101669
+trenches,15-39,Killed in the Great War,67433
+trenches,15-39,Accident,30237
+trenches,15-39,Illness of later life,17601
+trenches,15-39,1918 flu,4334
+trenches,40-64,Illness of later life,91019
+trenches,40-64,Tuberculosis or infection,71828
+trenches,40-64,Accident,21360
+trenches,5-14,Tuberculosis or infection,51796
+trenches,5-14,Accident,15198
+trenches,5-14,Illness of later life,2082
+trenches,5-14,Childhood illness,1
+trenches,65+,Illness of later life,280941
+trenches,65+,Tuberculosis or infection,32943
+trenches,65+,Accident,9684
+trenches,65+,Reached 100,4120
+usa_1950,0-4,Infant illness,32585
+usa_1950,0-4,Car crash or accident,1492
+usa_1950,0-4,"Heart disease, cancer, stroke",1138
+usa_1950,0-4,Illness,999
+usa_1950,15-39,"Heart disease, cancer, stroke",44785
+usa_1950,15-39,Car crash or accident,6976
+usa_1950,15-39,Illness,4893
+usa_1950,15-39,Killed in Vietnam,2023
+usa_1950,40-64,"Heart disease, cancer, stroke",267182
+usa_1950,40-64,Car crash or accident,5909
+usa_1950,40-64,Illness,4084
+usa_1950,5-14,"Heart disease, cancer, stroke",3919
+usa_1950,5-14,Car crash or accident,2907
+usa_1950,5-14,Illness,1974
+usa_1950,65+,"Heart disease, cancer, stroke",614093
+usa_1950,65+,Car crash or accident,2356
+usa_1950,65+,Illness,1662
+usa_1950,65+,Reached 100,1023
+today,0-4,Born too early or with a birth defect,6039
+today,0-4,Childhood accident or illness,1238
+today,15-39,"Accident, overdose or violence",26427
+today,15-39,Illness,17547
+today,40-64,"Heart disease, cancer, stroke",123695
+today,40-64,"Accident, overdose or violence",26695
+today,40-64,Illness,6304
+today,5-14,Childhood accident or illness,1632
+today,65+,"Heart disease, cancer, stroke",780540
+today,65+,Reached 100,9883

@@ -1,0 +1,1164 @@
+{
+  "version": "eras-v0.1",
+  "max_age": 100,
+  "definition": "Period view: the dangers of each era held for a whole life. The hero is an ordinary boy born into a common family. Baseline hazard = Siler curve fitted to sourced anchors; dated shocks and era roles on top.",
+  "profile": {
+    "name": "You",
+    "sex": "male",
+    "stats": {
+      "health": 55,
+      "resources": 35,
+      "skills": 5,
+      "support": 50,
+      "risk": 60,
+      "discipline": 55
+    }
+  },
+  "trait_effects": {
+    "health_all": 0.01,
+    "risk_violence": 0.012,
+    "discipline_infection": 0.008,
+    "support_child": 0.008,
+    "illness_damage_low": 3,
+    "illness_damage_high": 12,
+    "health_recovery": 2.5
+  },
+  "eras": {
+    "ice_age": {
+      "label": "Ice Age hunter-gatherer",
+      "short": "Ice Age",
+      "birth_year": -20000,
+      "place": "Ice Age Europe (modelled on living foragers)",
+      "targets": [
+        {
+          "age": 15,
+          "kind": "l",
+          "value": 0.57,
+          "w": 3,
+          "source": "Gurven & Kaplan 2007, ~57% reach 15 (Wikipedia: Hunter-gatherer)"
+        },
+        {
+          "age": 45,
+          "kind": "l",
+          "value": 0.365,
+          "w": 3,
+          "source": "Gurven & Kaplan 2007, 64% of those at 15 reach 45"
+        },
+        {
+          "age": 15,
+          "kind": "e",
+          "value": 39,
+          "w": 2,
+          "source": "Wikipedia: Life expectancy, Paleolithic row: 39 remaining years at 15"
+        },
+        {
+          "age": 1,
+          "kind": "l",
+          "value": 0.8,
+          "w": 0.5,
+          "source": "assumption: infant mortality ~20%"
+        }
+      ],
+      "mid_causes": {
+        "Infection or disease": 0.78,
+        "Accident, animal or violence": 0.22
+      },
+      "child_cause": "Childhood illness",
+      "old_cause": "Illness of later life",
+      "shocks": [],
+      "role": null,
+      "siler": {
+        "a1": 0.311114,
+        "b1": 0.839383,
+        "a2": 0.0124259,
+        "a3": 0.000175398,
+        "b3": 0.08
+      },
+      "fit": {
+        "loss": 0.0,
+        "e0": 32.01,
+        "l1": 0.8,
+        "l5": 0.6516,
+        "l15": 0.57,
+        "l30": 0.4651,
+        "l50": 0.3297,
+        "l70": 0.1602,
+        "checks": [
+          {
+            "age": 15,
+            "kind": "l",
+            "target": 0.57,
+            "model": 0.57
+          },
+          {
+            "age": 45,
+            "kind": "l",
+            "target": 0.365,
+            "model": 0.365
+          },
+          {
+            "age": 15,
+            "kind": "e",
+            "target": 39,
+            "model": 39.0
+          },
+          {
+            "age": 1,
+            "kind": "l",
+            "target": 0.8,
+            "model": 0.8
+          }
+        ]
+      }
+    },
+    "first_farmers": {
+      "label": "First farmers (Neolithic)",
+      "short": "First farmers",
+      "birth_year": -5000,
+      "place": "Early Neolithic village",
+      "targets": [
+        {
+          "age": 0,
+          "kind": "e",
+          "value": 26,
+          "w": 2,
+          "source": "Wikipedia: Life expectancy, Neolithic 20-33 (midpoint)"
+        },
+        {
+          "age": 15,
+          "kind": "e",
+          "value": 30.5,
+          "w": 3,
+          "source": "Wikipedia: Life expectancy, Early Neolithic e15 28-33"
+        },
+        {
+          "age": 1,
+          "kind": "l",
+          "value": 0.75,
+          "w": 0.5,
+          "source": "assumption"
+        }
+      ],
+      "mid_causes": {
+        "Infection from crowding and livestock": 0.8,
+        "Accident or violence": 0.2
+      },
+      "child_cause": "Childhood illness",
+      "old_cause": "Illness of later life",
+      "shocks": [],
+      "role": null,
+      "siler": {
+        "a1": 0.572408,
+        "b1": 1.77135,
+        "a2": 0.0191813,
+        "a3": 0.000309088,
+        "b3": 0.08
+      },
+      "fit": {
+        "loss": 0.0,
+        "e0": 26.0,
+        "l1": 0.75,
+        "l5": 0.6565,
+        "l15": 0.538,
+        "l30": 0.3917,
+        "l50": 0.2255,
+        "l70": 0.0668,
+        "checks": [
+          {
+            "age": 0,
+            "kind": "e",
+            "target": 26,
+            "model": 26.0
+          },
+          {
+            "age": 15,
+            "kind": "e",
+            "target": 30.5,
+            "model": 30.5
+          },
+          {
+            "age": 1,
+            "kind": "l",
+            "target": 0.75,
+            "model": 0.75
+          }
+        ]
+      }
+    },
+    "rome": {
+      "label": "Roman Empire",
+      "short": "Rome",
+      "birth_year": 140,
+      "place": "City of Rome",
+      "targets": [
+        {
+          "age": 1,
+          "kind": "l",
+          "value": 0.7,
+          "w": 2,
+          "source": "Wikipedia: Life expectancy, Ancient Rome: 67-75% survive year 1"
+        },
+        {
+          "age": 5,
+          "kind": "l",
+          "value": 0.6,
+          "w": 2,
+          "source": "55-65% survive to 5"
+        },
+        {
+          "age": 10,
+          "kind": "l",
+          "value": 0.5,
+          "w": 2,
+          "source": "~50% reach 10"
+        },
+        {
+          "age": 15,
+          "kind": "e",
+          "value": 36,
+          "w": 2,
+          "source": "33-39 remaining years at 15"
+        },
+        {
+          "age": 40,
+          "kind": "e",
+          "value": 20,
+          "w": 2,
+          "source": "~20 at 40"
+        },
+        {
+          "age": 60,
+          "kind": "e",
+          "value": 11,
+          "w": 1,
+          "source": "10-12 at 60"
+        }
+      ],
+      "mid_causes": {
+        "Fever, malaria or infection": 0.85,
+        "Accident or violence": 0.15
+      },
+      "child_cause": "Childhood illness",
+      "old_cause": "Illness of later life",
+      "shocks": [
+        {
+          "id": "antonine_plague",
+          "label": "Antonine Plague",
+          "years": [
+            165,
+            166,
+            167,
+            168,
+            169
+          ],
+          "total": 0.15,
+          "cause": "Antonine Plague (165-169)",
+          "source": "Wikipedia: Antonine Plague, ~10% of empire, up to 15% in cities"
+        }
+      ],
+      "role": null,
+      "siler": {
+        "a1": 0.565475,
+        "b1": 1.11835,
+        "a2": 0.0126,
+        "a3": 0.0003784,
+        "b3": 0.0776378
+      },
+      "fit": {
+        "loss": 0.021249,
+        "e0": 25.7,
+        "l1": 0.7023,
+        "l5": 0.5661,
+        "l15": 0.4939,
+        "l30": 0.395,
+        "l50": 0.2548,
+        "l70": 0.0821,
+        "checks": [
+          {
+            "age": 1,
+            "kind": "l",
+            "target": 0.7,
+            "model": 0.7023
+          },
+          {
+            "age": 5,
+            "kind": "l",
+            "target": 0.6,
+            "model": 0.5661
+          },
+          {
+            "age": 10,
+            "kind": "l",
+            "target": 0.5,
+            "model": 0.5287
+          },
+          {
+            "age": 15,
+            "kind": "e",
+            "target": 36,
+            "model": 34.7073
+          },
+          {
+            "age": 40,
+            "kind": "e",
+            "target": 20,
+            "model": 20.8933
+          },
+          {
+            "age": 60,
+            "kind": "e",
+            "target": 11,
+            "model": 10.593
+          }
+        ]
+      }
+    },
+    "black_death": {
+      "label": "Black Death England",
+      "short": "Black Death",
+      "birth_year": 1330,
+      "place": "English village",
+      "targets": [
+        {
+          "age": 1,
+          "kind": "l",
+          "value": 0.7,
+          "w": 1,
+          "source": "Wikipedia: Life expectancy: around a third of infants died in year 1 (late medieval peerage)"
+        },
+        {
+          "age": 15,
+          "kind": "l",
+          "value": 0.58,
+          "w": 1,
+          "source": "assumption"
+        },
+        {
+          "age": 20,
+          "kind": "e",
+          "value": 25,
+          "w": 2,
+          "source": "Wikipedia: Life expectancy, Early Middle Ages: boy at 20 might expect 25 more years"
+        },
+        {
+          "age": 40,
+          "kind": "e",
+          "value": 17.5,
+          "w": 2,
+          "source": "Wikipedia: Life expectancy, Early Middle Ages: anyone who survived until 40 had a good chance of another 15 to 20 years"
+        }
+      ],
+      "mid_causes": {
+        "Fever or infection": 0.8,
+        "Accident or violence": 0.2
+      },
+      "child_cause": "Childhood illness",
+      "old_cause": "Illness of later life",
+      "shocks": [
+        {
+          "id": "black_death",
+          "label": "Black Death",
+          "years": [
+            1348,
+            1349
+          ],
+          "total": 0.45,
+          "cause": "Black Death (1348-49)",
+          "source": "Wikipedia: Black Death in England, 40-60% widely accepted; plague-only share set to 45%"
+        },
+        {
+          "id": "second_plague",
+          "label": "Plague returns",
+          "years": [
+            1361,
+            1362
+          ],
+          "total": 0.2,
+          "cause": "Plague returns (1361-62)",
+          "source": "Wikipedia: Black Death in England, ~20% of population in 1361-62"
+        }
+      ],
+      "role": null,
+      "siler": {
+        "a1": 1.38753,
+        "b1": 5.0,
+        "a2": 0.0208651,
+        "a3": 0.000473007,
+        "b3": 0.078406
+      },
+      "fit": {
+        "loss": 0.010489,
+        "e0": 25.04,
+        "l1": 0.743,
+        "l5": 0.6806,
+        "l15": 0.5466,
+        "l30": 0.3826,
+        "l50": 0.1981,
+        "l70": 0.0411,
+        "checks": [
+          {
+            "age": 1,
+            "kind": "l",
+            "target": 0.7,
+            "model": 0.743
+          },
+          {
+            "age": 15,
+            "kind": "l",
+            "target": 0.58,
+            "model": 0.5466
+          },
+          {
+            "age": 20,
+            "kind": "e",
+            "target": 25,
+            "model": 25.8753
+          },
+          {
+            "age": 40,
+            "kind": "e",
+            "target": 17.5,
+            "model": 17.1425
+          }
+        ]
+      }
+    },
+    "pirates": {
+      "label": "Golden Age of Piracy",
+      "short": "Pirate age",
+      "birth_year": 1700,
+      "place": "English port, then at sea",
+      "targets": [
+        {
+          "age": 0,
+          "kind": "e",
+          "value": 34,
+          "w": 2,
+          "source": "Wikipedia: Life expectancy, 18th-century male LEB 34"
+        },
+        {
+          "age": 15,
+          "kind": "e",
+          "value": 40,
+          "w": 1,
+          "source": "assumption (female e15 ~42 in 18th c.)"
+        },
+        {
+          "age": 1,
+          "kind": "l",
+          "value": 0.82,
+          "w": 0.5,
+          "source": "assumption"
+        }
+      ],
+      "mid_causes": {
+        "Fever, smallpox or infection": 0.85,
+        "Accident or violence": 0.15
+      },
+      "child_cause": "Childhood illness",
+      "old_cause": "Illness of later life",
+      "shocks": [],
+      "role": {
+        "type": "sea",
+        "start_age": 15,
+        "end_age": 40,
+        "sailor_annual_death": 0.025,
+        "pirate_years": [
+          1716,
+          1726
+        ],
+        "captured_by_pirates": 0.05,
+        "join_base": 0.05,
+        "join_per_risk": 0.003,
+        "pirate_annual_death": 0.1,
+        "pirate_hanged": 0.035,
+        "pirate_quit": 0.15,
+        "source": "~2,400 active pirates; 400-600 executed 1716-1726 (Wikipedia: Piracy in the Caribbean). Capture, joining, sea and pirate death rates are author rules tuned so ~1 in 8 pirates hang."
+      },
+      "siler": {
+        "a1": 0.294844,
+        "b1": 1.05358,
+        "a2": 0.0161092,
+        "a3": 6.86773e-05,
+        "b3": 0.08
+      },
+      "fit": {
+        "loss": 0.0,
+        "e0": 34.0,
+        "l1": 0.82,
+        "l5": 0.6981,
+        "l15": 0.5925,
+        "l30": 0.4622,
+        "l50": 0.3226,
+        "l70": 0.1942,
+        "checks": [
+          {
+            "age": 0,
+            "kind": "e",
+            "target": 34,
+            "model": 34.0
+          },
+          {
+            "age": 15,
+            "kind": "e",
+            "target": 40,
+            "model": 40.0
+          },
+          {
+            "age": 1,
+            "kind": "l",
+            "target": 0.82,
+            "model": 0.82
+          }
+        ]
+      }
+    },
+    "london_1740": {
+      "label": "Gin Craze London",
+      "short": "London 1740",
+      "birth_year": 1740,
+      "place": "London",
+      "targets": [
+        {
+          "age": 1,
+          "kind": "l",
+          "value": 0.658,
+          "w": 3,
+          "source": "Wikipedia: History of public health in the UK: London infant mortality 342 per 1,000, 1700-1749"
+        },
+        {
+          "age": 5,
+          "kind": "l",
+          "value": 0.4,
+          "w": 1,
+          "source": "assumption: between the infant-mortality reconstruction and the bills of mortality (75% dead before 5 in 1730-49, likely overstated)"
+        },
+        {
+          "age": 20,
+          "kind": "e",
+          "value": 28,
+          "w": 1,
+          "source": "assumption: urban penalty vs England e20 ~35"
+        }
+      ],
+      "mid_causes": {
+        "Smallpox, typhus or fever": 0.85,
+        "Accident, gin or violence": 0.15
+      },
+      "child_cause": "Infant disease (smallpox, 'convulsions')",
+      "old_cause": "Illness of later life",
+      "shocks": [],
+      "role": null,
+      "siler": {
+        "a1": 0.542969,
+        "b1": 0.585814,
+        "a2": 0.00671704,
+        "a3": 0.000875369,
+        "b3": 0.08
+      },
+      "fit": {
+        "loss": 0.0,
+        "e0": 17.41,
+        "l1": 0.658,
+        "l5": 0.4,
+        "l15": 0.3489,
+        "l30": 0.2899,
+        "l50": 0.1574,
+        "l70": 0.013,
+        "checks": [
+          {
+            "age": 1,
+            "kind": "l",
+            "target": 0.658,
+            "model": 0.658
+          },
+          {
+            "age": 5,
+            "kind": "l",
+            "target": 0.4,
+            "model": 0.4
+          },
+          {
+            "age": 20,
+            "kind": "e",
+            "target": 28,
+            "model": 28.0
+          }
+        ]
+      }
+    },
+    "oregon_trail": {
+      "label": "Oregon Trail",
+      "short": "Oregon Trail",
+      "birth_year": 1830,
+      "place": "Missouri, then the trail west",
+      "targets": [
+        {
+          "age": 0,
+          "kind": "e",
+          "value": 42,
+          "w": 1,
+          "source": "assumption from Wikipedia: Industrial Revolution (US 45-50, declining mid-century)"
+        },
+        {
+          "age": 20,
+          "kind": "e",
+          "value": 40,
+          "w": 2,
+          "source": "Wikipedia: Life expectancy, early 19th-c. England ~40 at 20"
+        },
+        {
+          "age": 1,
+          "kind": "l",
+          "value": 0.85,
+          "w": 1,
+          "source": "84% survive year 1 (early 19th-c. England)"
+        }
+      ],
+      "mid_causes": {
+        "Fever or infection": 0.8,
+        "Accident or violence": 0.2
+      },
+      "child_cause": "Childhood illness",
+      "old_cause": "Illness of later life",
+      "shocks": [
+        {
+          "id": "trail",
+          "label": "The trail west",
+          "years": [
+            1849
+          ],
+          "total": 0.06,
+          "cause": "Died on the trail (cholera, drowning, wagons)",
+          "source": "Wikipedia: California Trail, 3-10% perished; cholera up to 3%+ in 1849-55"
+        }
+      ],
+      "role": null,
+      "siler": {
+        "a1": 0.284051,
+        "b1": 1.39325,
+        "a2": 0.00908649,
+        "a3": 0.000164934,
+        "b3": 0.08
+      },
+      "fit": {
+        "loss": 0.0,
+        "e0": 42.0,
+        "l1": 0.85,
+        "l5": 0.7787,
+        "l15": 0.7083,
+        "l30": 0.6083,
+        "l50": 0.4636,
+        "l70": 0.2477,
+        "checks": [
+          {
+            "age": 0,
+            "kind": "e",
+            "target": 42,
+            "model": 42.0
+          },
+          {
+            "age": 20,
+            "kind": "e",
+            "target": 40,
+            "model": 40.0
+          },
+          {
+            "age": 1,
+            "kind": "l",
+            "target": 0.85,
+            "model": 0.85
+          }
+        ]
+      }
+    },
+    "manchester_1840": {
+      "label": "Industrial Manchester",
+      "short": "Manchester 1840",
+      "birth_year": 1840,
+      "place": "Working-class Manchester",
+      "targets": [
+        {
+          "age": 0,
+          "kind": "e",
+          "value": 26,
+          "w": 2,
+          "source": "assumption: working-class districts far below England's 40 (East End labourer e0 ~19, Wikipedia: 19th-century London)"
+        },
+        {
+          "age": 5,
+          "kind": "l",
+          "value": 0.55,
+          "w": 1,
+          "source": "assumption"
+        },
+        {
+          "age": 20,
+          "kind": "e",
+          "value": 33,
+          "w": 1,
+          "source": "assumption"
+        }
+      ],
+      "mid_causes": {
+        "Lung disease from smoke": 0.35,
+        "Cholera, typhus or fever": 0.5,
+        "Mill or street accident": 0.15
+      },
+      "child_cause": "Childhood illness",
+      "old_cause": "Illness of later life",
+      "shocks": [],
+      "role": null,
+      "siler": {
+        "a1": 1.04216,
+        "b1": 1.91497,
+        "a2": 0.0102817,
+        "a3": 0.00036598,
+        "b3": 0.08
+      },
+      "fit": {
+        "loss": 0.0,
+        "e0": 26.0,
+        "l1": 0.6221,
+        "l5": 0.55,
+        "l15": 0.4921,
+        "l30": 0.4072,
+        "l50": 0.2716,
+        "l70": 0.0824,
+        "checks": [
+          {
+            "age": 0,
+            "kind": "e",
+            "target": 26,
+            "model": 26.0
+          },
+          {
+            "age": 5,
+            "kind": "l",
+            "target": 0.55,
+            "model": 0.55
+          },
+          {
+            "age": 20,
+            "kind": "e",
+            "target": 33,
+            "model": 33.0
+          }
+        ]
+      }
+    },
+    "trenches": {
+      "label": "World War I generation",
+      "short": "Trenches",
+      "birth_year": 1896,
+      "place": "Britain",
+      "targets": [
+        {
+          "age": 0,
+          "kind": "e",
+          "value": 45.6,
+          "w": 2,
+          "source": "Wikipedia: Demographics of the UK, e0 45.6 at start of 20th c."
+        },
+        {
+          "age": 15,
+          "kind": "e",
+          "value": 46,
+          "w": 1,
+          "source": "assumption from ~48 for 15-year-old girls in England, 1900"
+        },
+        {
+          "age": 1,
+          "kind": "l",
+          "value": 0.84,
+          "w": 1,
+          "source": "assumption"
+        }
+      ],
+      "mid_causes": {
+        "Tuberculosis or infection": 0.8,
+        "Accident": 0.2
+      },
+      "child_cause": "Childhood illness",
+      "old_cause": "Illness of later life",
+      "shocks": [
+        {
+          "id": "spanish_flu",
+          "label": "1918 flu",
+          "years": [
+            1918,
+            1919
+          ],
+          "total": 0.007,
+          "ages": [
+            15,
+            45
+          ],
+          "cause": "1918 flu",
+          "source": "author rule: young adults hit hardest (Wikipedia: Spanish flu)"
+        }
+      ],
+      "role": {
+        "type": "war",
+        "years": [
+          1915,
+          1916,
+          1917,
+          1918
+        ],
+        "min_age": 18,
+        "serve": 0.7,
+        "death_if_served": 0.135,
+        "source": "British Army: 4.9M served (2.6M volunteers + 2.3M conscripts), 673,375 killed and missing (Wikipedia: British Army during WWI). Serving share is an author rule."
+      },
+      "siler": {
+        "a1": 0.497655,
+        "b1": 2.8293,
+        "a2": 0.00872653,
+        "a3": 0.000115755,
+        "b3": 0.08
+      },
+      "fit": {
+        "loss": 0.0,
+        "e0": 45.6,
+        "l1": 0.84,
+        "l5": 0.8023,
+        "l15": 0.7333,
+        "l30": 0.6362,
+        "l50": 0.5017,
+        "l70": 0.3083,
+        "checks": [
+          {
+            "age": 0,
+            "kind": "e",
+            "target": 45.6,
+            "model": 45.6
+          },
+          {
+            "age": 15,
+            "kind": "e",
+            "target": 46,
+            "model": 46.0
+          },
+          {
+            "age": 1,
+            "kind": "l",
+            "target": 0.84,
+            "model": 0.84
+          }
+        ]
+      }
+    },
+    "usa_1950": {
+      "label": "1950s America",
+      "short": "1950s USA",
+      "birth_year": 1950,
+      "place": "United States",
+      "targets": [
+        {
+          "age": 0,
+          "kind": "e",
+          "value": 65.6,
+          "w": 3,
+          "source": "US period life table 1950, males (NCHS)"
+        },
+        {
+          "age": 65,
+          "kind": "e",
+          "value": 12.8,
+          "w": 2,
+          "source": "US period life table 1950, males (NCHS)"
+        },
+        {
+          "age": 1,
+          "kind": "l",
+          "value": 0.967,
+          "w": 1,
+          "source": "US infant mortality 1950, males ~33 per 1,000"
+        }
+      ],
+      "mid_causes": {
+        "Car crash or accident": 0.55,
+        "Illness": 0.45
+      },
+      "child_cause": "Infant illness",
+      "old_cause": "Heart disease, cancer, stroke",
+      "shocks": [],
+      "role": {
+        "type": "draft",
+        "years": [
+          1969,
+          1970,
+          1971
+        ],
+        "sent": 0.1,
+        "death_if_sent": 0.021,
+        "source": "27M draft-age men 1964-73, ~10% sent to Vietnam; 58,281 US deaths of ~2.7M who served there (Wikipedia: Vietnam War casualties)"
+      },
+      "siler": {
+        "a1": 0.157449,
+        "b1": 4.74702,
+        "a2": 0.000486842,
+        "a3": 0.000182651,
+        "b3": 0.08
+      },
+      "fit": {
+        "loss": 0.0,
+        "e0": 65.6,
+        "l1": 0.967,
+        "l5": 0.9639,
+        "l15": 0.9553,
+        "l30": 0.9318,
+        "l50": 0.8354,
+        "l70": 0.5054,
+        "checks": [
+          {
+            "age": 0,
+            "kind": "e",
+            "target": 65.6,
+            "model": 65.6
+          },
+          {
+            "age": 65,
+            "kind": "e",
+            "target": 12.8,
+            "model": 12.8
+          },
+          {
+            "age": 1,
+            "kind": "l",
+            "target": 0.967,
+            "model": 0.967
+          }
+        ]
+      }
+    },
+    "today": {
+      "label": "Today",
+      "short": "Today",
+      "birth_year": 2026,
+      "place": "United States",
+      "targets": [
+        {
+          "age": 1,
+          "kind": "l",
+          "value": 0.99399,
+          "w": 2,
+          "source": "SSA 2023 period life table, males"
+        },
+        {
+          "age": 20,
+          "kind": "l",
+          "value": 0.98709,
+          "w": 2,
+          "source": "SSA 2023"
+        },
+        {
+          "age": 40,
+          "kind": "l",
+          "value": 0.94727,
+          "w": 2,
+          "source": "SSA 2023"
+        },
+        {
+          "age": 60,
+          "kind": "l",
+          "value": 0.84544,
+          "w": 2,
+          "source": "SSA 2023"
+        },
+        {
+          "age": 80,
+          "kind": "l",
+          "value": 0.50785,
+          "w": 2,
+          "source": "SSA 2023"
+        },
+        {
+          "age": 90,
+          "kind": "l",
+          "value": 0.19063,
+          "w": 1,
+          "source": "SSA 2023"
+        },
+        {
+          "age": 0,
+          "kind": "e",
+          "value": 75.79,
+          "w": 2,
+          "source": "SSA 2023"
+        }
+      ],
+      "mid_causes": {
+        "Accident, overdose or violence": 0.7,
+        "Illness": 0.3
+      },
+      "child_cause": "Infant illness",
+      "old_cause": "Heart disease, cancer, stroke",
+      "shocks": [],
+      "role": null,
+      "fit": {
+        "e0": 75.78,
+        "l1": 0.994,
+        "l5": 0.9928,
+        "l15": 0.9911,
+        "l30": 0.9716,
+        "l50": 0.9113,
+        "l70": 0.7192,
+        "note": "published table used directly"
+      },
+      "qx": [
+        0.006015,
+        0.000479,
+        0.00032,
+        0.000249,
+        0.000194,
+        0.000159,
+        0.000137,
+        0.000125,
+        0.00012,
+        0.00012,
+        0.000125,
+        0.00014,
+        0.000173,
+        0.000233,
+        0.000327,
+        0.000463,
+        0.000634,
+        0.000819,
+        0.000999,
+        0.001138,
+        0.001235,
+        0.001315,
+        0.001378,
+        0.001439,
+        0.001509,
+        0.001595,
+        0.001685,
+        0.001783,
+        0.001876,
+        0.00197,
+        0.002085,
+        0.002202,
+        0.002308,
+        0.002407,
+        0.00249,
+        0.002577,
+        0.002665,
+        0.002764,
+        0.002864,
+        0.002987,
+        0.003115,
+        0.003253,
+        0.003419,
+        0.0036,
+        0.003777,
+        0.003931,
+        0.004073,
+        0.004245,
+        0.004477,
+        0.004795,
+        0.005126,
+        0.005496,
+        0.005917,
+        0.006404,
+        0.006923,
+        0.007491,
+        0.008173,
+        0.008938,
+        0.009714,
+        0.010494,
+        0.011337,
+        0.012232,
+        0.013196,
+        0.014229,
+        0.015316,
+        0.016455,
+        0.017574,
+        0.018735,
+        0.019981,
+        0.021366,
+        0.022903,
+        0.024615,
+        0.026504,
+        0.028648,
+        0.031071,
+        0.033802,
+        0.03701,
+        0.041158,
+        0.045461,
+        0.050346,
+        0.055633,
+        0.061757,
+        0.068358,
+        0.07542,
+        0.083364,
+        0.09268,
+        0.103459,
+        0.115502,
+        0.129018,
+        0.14381,
+        0.159458,
+        0.176551,
+        0.19536,
+        0.216286,
+        0.238799,
+        0.262268,
+        0.286291,
+        0.310944,
+        0.332325,
+        0.349036,
+        0.366568
+      ],
+      "qx_source": "SSA 2023 period life table, males (ssa.gov/oact/STATS/table4c6.html, 2026 Trustees Report)",
+      "cause_bands": [
+        [
+          0,
+          {
+            "Born too early or with a birth defect": 1
+          }
+        ],
+        [
+          1,
+          {
+            "Childhood accident or illness": 1
+          }
+        ],
+        [
+          15,
+          {
+            "Accident, overdose or violence": 0.6,
+            "Illness": 0.4
+          }
+        ],
+        [
+          45,
+          {
+            "Heart disease, cancer, stroke": 0.88,
+            "Accident, overdose or violence": 0.12
+          }
+        ],
+        [
+          65,
+          {
+            "Heart disease, cancer, stroke": 1
+          }
+        ]
+      ],
+      "cause_bands_source": "assumption: rough split after CDC leading causes of death by age"
+    }
+  },
+  "method": "Each era: the same ordinary boy, full lives to death or 100 under that era's dangers held for a whole life (period view). Baseline hazard fitted to sourced anchors; shocks and roles are rules in eras.json. Exact counts; 95% Wilson intervals measure sampling only.",
+  "shown_in_video": [
+    "ice_age",
+    "first_farmers",
+    "rome",
+    "black_death",
+    "pirates",
+    "london_1740",
+    "oregon_trail",
+    "trenches",
+    "usa_1950",
+    "today"
+  ]
+}

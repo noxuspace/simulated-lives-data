@@ -1,0 +1,77 @@
+{
+  "eras": {
+    "ice_age": {
+      "median_age_at_death": 23,
+      "median_if_reached_15": 55,
+      "alive_at_5": 0.645967,
+      "shown_in_video": true
+    },
+    "first_farmers": {
+      "median_age_at_death": 18,
+      "median_if_reached_15": 44,
+      "alive_at_5": 0.653726,
+      "shown_in_video": true
+    },
+    "rome": {
+      "median_age_at_death": 13,
+      "median_if_reached_15": 45,
+      "alive_at_5": 0.561621,
+      "shown_in_video": true
+    },
+    "black_death": {
+      "median_age_at_death": 18,
+      "median_if_reached_15": 19,
+      "alive_at_5": 0.678529,
+      "shown_in_video": true
+    },
+    "pirates": {
+      "median_age_at_death": 18,
+      "median_if_reached_15": 30,
+      "alive_at_5": 0.694019,
+      "shown_in_video": true
+    },
+    "london_1740": {
+      "median_age_at_death": 2,
+      "median_if_reached_15": 47,
+      "alive_at_5": 0.389745,
+      "shown_in_video": true
+    },
+    "oregon_trail": {
+      "median_age_at_death": 40,
+      "median_if_reached_15": 59,
+      "alive_at_5": 0.77663,
+      "shown_in_video": true
+    },
+    "manchester_1840": {
+      "median_age_at_death": 12,
+      "median_if_reached_15": 52,
+      "alive_at_5": 0.546442,
+      "shown_in_video": false
+    },
+    "trenches": {
+      "median_age_at_death": 42,
+      "median_if_reached_15": 60,
+      "alive_at_5": 0.802246,
+      "shown_in_video": true
+    },
+    "usa_1950": {
+      "median_age_at_death": 70,
+      "median_if_reached_15": 71,
+      "alive_at_5": 0.963786,
+      "shown_in_video": true
+    },
+    "today": {
+      "median_age_at_death": 80,
+      "median_if_reached_15": 80,
+      "alive_at_5": 0.992723,
+      "shown_in_video": true
+    }
+  },
+  "lives_per_era": 1000000,
+  "eras_total": 11,
+  "run": {
+    "seed": 1,
+    "lives_per_era": 1000000,
+    "fingerprint": "b34b6c0a914ee626469bf7ee1cfcba91843c20ddb5e3a5855bdec070b8603240"
+  }
+}
