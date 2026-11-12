@@ -20,6 +20,7 @@ Where a model rests on its own coefficients, they are the author's assumptions. 
 | 03 | [Does your vote matter? 5 elections, a billion reruns each](03-your-vote/) · [video](https://youtu.be/hc-3E94MYLc) | 5 billion elections |
 | 04 | [One zombie on Earth: where do humans survive?](04-zombie-earth/) · [video](https://youtu.be/dRH87Ct1BeA) | 10,000 worlds |
 | 05 | [Every era of history: how long would you last?](05-every-era/) · [video](https://youtu.be/H1TFtMePUtg) | 11 million lives |
+| 06 | [Talent or luck? A famous experiment, a billion careers](06-talent-vs-luck/) · [video](https://youtu.be/_uotnvYlITY) | 1 billion careers |
 
 ## License
 

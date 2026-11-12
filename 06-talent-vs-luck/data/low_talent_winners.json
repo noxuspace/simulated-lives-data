@@ -1,0 +1,86 @@
+{
+ "scanned_worlds": 100000,
+ "first_seed": 1,
+ "lowest_talent_unique_winners": [
+  {
+   "talent": 0.3137274082945193,
+   "seed": 57577,
+   "k": 7,
+   "talent_rank": 998,
+   "lucky": 11,
+   "unlucky": 1
+  },
+  {
+   "talent": 0.3223108635609128,
+   "seed": 91673,
+   "k": 7,
+   "talent_rank": 997,
+   "lucky": 17,
+   "unlucky": 0
+  },
+  {
+   "talent": 0.34010547330711427,
+   "seed": 45756,
+   "k": 10,
+   "talent_rank": 991,
+   "lucky": 15,
+   "unlucky": 0
+  },
+  {
+   "talent": 0.34092095052466237,
+   "seed": 2195,
+   "k": 8,
+   "talent_rank": 996,
+   "lucky": 12,
+   "unlucky": 0
+  },
+  {
+   "talent": 0.34200819265051235,
+   "seed": 23078,
+   "k": 7,
+   "talent_rank": 994,
+   "lucky": 10,
+   "unlucky": 2
+  },
+  {
+   "talent": 0.3441042901651943,
+   "seed": 99069,
+   "k": 10,
+   "talent_rank": 994,
+   "lucky": 14,
+   "unlucky": 0
+  },
+  {
+   "talent": 0.34750857944504293,
+   "seed": 95010,
+   "k": 8,
+   "talent_rank": 989,
+   "lucky": 16,
+   "unlucky": 0
+  },
+  {
+   "talent": 0.3487654554880695,
+   "seed": 83120,
+   "k": 6,
+   "talent_rank": 994,
+   "lucky": 10,
+   "unlucky": 0
+  },
+  {
+   "talent": 0.34932210180627604,
+   "seed": 28409,
+   "k": 8,
+   "talent_rank": 993,
+   "lucky": 11,
+   "unlucky": 0
+  },
+  {
+   "talent": 0.35257599110460763,
+   "seed": 54228,
+   "k": 10,
+   "talent_rank": 994,
+   "lucky": 14,
+   "unlucky": 0
+  }
+ ]
+}

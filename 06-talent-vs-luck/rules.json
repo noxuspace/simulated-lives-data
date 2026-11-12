@@ -1,0 +1,31 @@
+{
+  "id": "talent_luck",
+  "version": "0.1",
+  "description": "Replication of the Talent vs Luck (TvL) agent-based model: A. Pluchino, A. E. Biondo, A. Rapisarda, Advances in Complex Systems 21(3-4) 1850014 (2018), arXiv:1802.07068. One world = N careers of 40 years; capital is 'success' in dimensionless units, not money.",
+  "source_parameters": "Section 2 and 2.1 of the paper: N=1000, talent ~ Normal(0.6, 0.1) truncated to [0,1], C(0)=10, 80 steps of six months, NE=500 event-points, 50% lucky, world 201x201 patches with periodic borders, events move 2 patches per step in a random direction, an event hits an agent inside a circle of radius 1 patch; lucky hit doubles capital with probability equal to talent, unlucky hit halves it.",
+  "paths": {
+    "paper": {
+      "label": "Paper setup (pL = 50%)",
+      "agents": 1000,
+      "talent_mean": 0.6,
+      "talent_sd": 0.1,
+      "start_capital": 10,
+      "steps": 80,
+      "events": 500,
+      "lucky_share": 0.5,
+      "world_size": 201,
+      "event_step": 2.0,
+      "hit_radius": 1.0
+    }
+  },
+  "hit_rule": "each",
+  "hit_rule_note": "The paper does not say what happens when several event-points hit one agent in the same six months. 'each': every hitting event acts (lucky ones each give a chance to double, unlucky ones each halve). 'once': at most one lucky and one unlucky action per step. Chosen by comparing both with the paper's published results (see episodes/talent-luck/DESIGN.md).",
+  "paper_targets": {
+    "best_performer_talent_mean": 0.667,
+    "best_performer_talent_sd": 0.09,
+    "best_performer_talent_over_0_8_share": 0.03,
+    "top20_capital_share": 0.8,
+    "tail_power_law_slope": -1.33
+  },
+  "method": "Each run is one world of the Talent vs Luck model (1000 careers, 40 years). Exact histograms over all worlds; capital = C0 * 2**k. Best performer = agent(s) with the highest capital in a world; ties share weight equally."
+}

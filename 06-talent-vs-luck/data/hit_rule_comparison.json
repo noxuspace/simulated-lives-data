@@ -1,0 +1,54 @@
+{
+ "each": {
+  "label": "Paper setup (pL = 50%)",
+  "worlds": 10000.0,
+  "careers": 10000000,
+  "best_performer_talent_mean": 0.6696958402894492,
+  "best_performer_talent_sd": 0.09357664318515768,
+  "best_performer_talent_over_0_8_share": 0.08567507936507937,
+  "most_talented_is_best_share": 0.006460238095238095,
+  "top20_share_mean": 0.784493,
+  "top1_share_mean": 0.37466600000000005,
+  "record": [
+   7743,
+   20,
+   0.8333875599372633
+  ],
+  "lowest_talent_best": [
+   6964,
+   6,
+   0.29456880258130924
+  ],
+  "most_talented_poorest": [
+   3445,
+   -17,
+   0.9102880318841596
+  ]
+ },
+ "once": {
+  "label": "Paper setup (pL = 50%)",
+  "worlds": 10000.0,
+  "careers": 10000000,
+  "best_performer_talent_mean": 0.6699449051060051,
+  "best_performer_talent_sd": 0.09306119700984981,
+  "best_performer_talent_over_0_8_share": 0.083654329004329,
+  "most_talented_is_best_share": 0.004957777777777778,
+  "top20_share_mean": 0.7724270000000001,
+  "top1_share_mean": 0.350833,
+  "record": [
+   4605,
+   17,
+   0.712816388668248
+  ],
+  "lowest_talent_best": [
+   8986,
+   7,
+   0.3110286378735941
+  ],
+  "most_talented_poorest": [
+   4795,
+   -13,
+   0.9547745517581758
+  ]
+ }
+}

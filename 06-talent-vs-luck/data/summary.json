@@ -1,0 +1,40 @@
+{
+  "worlds": 1000000,
+  "careers": 1000000000,
+  "best_performer_talent_mean": 0.6695,
+  "best_performer_talent_sd": 0.0933,
+  "best_performer_talent_over_0_8_share": 0.0825,
+  "most_talented_is_best_share": 0.00533,
+  "top20_share_mean": 0.7847,
+  "top1_share_mean": 0.3747,
+  "record_world": {
+    "seed": 580915,
+    "k": 23,
+    "capital": 83886080,
+    "talent": 0.7851
+  },
+  "lowest_talent_best_world": {
+    "seed": 674805,
+    "k": 6,
+    "capital": 640,
+    "talent": 0.2345
+  },
+  "most_talented_poorest_world": {
+    "seed": 517528,
+    "k": -23,
+    "capital": 1.1920928955078125e-06,
+    "talent": 0.9032
+  },
+  "paper_targets": {
+    "best_performer_talent_mean": 0.667,
+    "best_performer_talent_sd": 0.09,
+    "best_performer_talent_over_0_8_share": 0.03,
+    "top20_capital_share": 0.8,
+    "tail_power_law_slope": -1.33
+  },
+  "run": {
+    "seed": 1,
+    "worlds": 1000000,
+    "fingerprint": "52b1aa1c63289605bd5bf02ea2cc211218d856141e77bcb88052a47cd63f625e"
+  }
+}
