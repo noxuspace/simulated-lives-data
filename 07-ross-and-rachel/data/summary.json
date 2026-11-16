@@ -1,0 +1,199 @@
+{
+  "couples": [
+    {
+      "couple": "ross_rachel",
+      "label": "Ross & Rachel",
+      "wedding_year": 2005,
+      "age_him": 37,
+      "age_her": 35,
+      "hazard_ratio": 1.077,
+      "runs": 1000000,
+      "p_divorce": 0.534588,
+      "p_until_death": 0.465412,
+      "ends": {
+        "both_die": 0.01002,
+        "divorce": 0.534588,
+        "widow": 0.293389,
+        "widower": 0.162003
+      },
+      "median_years_married": 16,
+      "mean_years_married": 20.58,
+      "median_years_if_divorce": 7,
+      "still_married": {
+        "1": 0.963998,
+        "5": 0.769265,
+        "7": 0.710037,
+        "10": 0.62816,
+        "15": 0.524558,
+        "20": 0.430488,
+        "25": 0.365761,
+        "30": 0.315593,
+        "40": 0.204684,
+        "50": 0.066431,
+        "60": 0.001922
+      },
+      "divorced_by": {
+        "1": 0.032147,
+        "3": 0.127571,
+        "5": 0.211839,
+        "7": 0.26351,
+        "10": 0.333664,
+        "15": 0.416713,
+        "20": 0.485971,
+        "30": 0.529894,
+        "40": 0.534252
+      }
+    },
+    {
+      "couple": "monica_chandler",
+      "label": "Monica & Chandler",
+      "wedding_year": 2001,
+      "age_him": 33,
+      "age_her": 32,
+      "hazard_ratio": 0.4567,
+      "runs": 1000000,
+      "p_divorce": 0.283156,
+      "p_until_death": 0.716844,
+      "ends": {
+        "both_die": 0.016011,
+        "divorce": 0.283156,
+        "widow": 0.435896,
+        "widower": 0.264937
+      },
+      "median_years_married": 33,
+      "mean_years_married": 30.39,
+      "median_years_if_divorce": 8,
+      "still_married": {
+        "1": 0.982799,
+        "5": 0.886161,
+        "7": 0.852877,
+        "10": 0.803975,
+        "15": 0.733598,
+        "20": 0.662928,
+        "25": 0.60337,
+        "30": 0.54475,
+        "40": 0.393889,
+        "50": 0.182819,
+        "60": 0.017658
+      },
+      "divorced_by": {
+        "1": 0.013856,
+        "3": 0.056585,
+        "5": 0.096386,
+        "7": 0.122216,
+        "10": 0.159067,
+        "15": 0.206533,
+        "20": 0.249549,
+        "30": 0.279566,
+        "40": 0.282889
+      }
+    },
+    {
+      "couple": "phoebe_mike",
+      "label": "Phoebe & Mike",
+      "wedding_year": 2004,
+      "age_him": 35,
+      "age_her": 36,
+      "hazard_ratio": 0.6511,
+      "runs": 1000000,
+      "p_divorce": 0.373456,
+      "p_until_death": 0.626544,
+      "ends": {
+        "both_die": 0.01451,
+        "divorce": 0.373456,
+        "widow": 0.352629,
+        "widower": 0.259405
+      },
+      "median_years_married": 25,
+      "mean_years_married": 25.88,
+      "median_years_if_divorce": 8,
+      "still_married": {
+        "1": 0.976297,
+        "5": 0.846747,
+        "7": 0.803147,
+        "10": 0.741197,
+        "15": 0.656413,
+        "20": 0.572138,
+        "25": 0.50539,
+        "30": 0.443613,
+        "40": 0.296428,
+        "50": 0.104655,
+        "60": 0.004057
+      },
+      "divorced_by": {
+        "1": 0.019888,
+        "3": 0.079417,
+        "5": 0.134064,
+        "7": 0.16933,
+        "10": 0.2184,
+        "15": 0.279219,
+        "20": 0.333286,
+        "30": 0.369418,
+        "40": 0.373156
+      }
+    },
+    {
+      "couple": "average",
+      "label": "Average American couple",
+      "wedding_year": 2005,
+      "age_him": 30,
+      "age_her": 28,
+      "hazard_ratio": 1.0,
+      "runs": 1000000,
+      "p_divorce": 0.518337,
+      "p_until_death": 0.481663,
+      "ends": {
+        "both_die": 0.010205,
+        "divorce": 0.518337,
+        "widow": 0.30503,
+        "widower": 0.166428
+      },
+      "median_years_married": 18,
+      "mean_years_married": 24.23,
+      "median_years_if_divorce": 7,
+      "still_married": {
+        "1": 0.967454,
+        "5": 0.787948,
+        "7": 0.732517,
+        "10": 0.656247,
+        "15": 0.559079,
+        "20": 0.473269,
+        "25": 0.419085,
+        "30": 0.380801,
+        "40": 0.292996,
+        "50": 0.169063,
+        "60": 0.035183
+      },
+      "divorced_by": {
+        "1": 0.029774,
+        "3": 0.119334,
+        "5": 0.198018,
+        "7": 0.247799,
+        "10": 0.315676,
+        "15": 0.397652,
+        "20": 0.467031,
+        "30": 0.512753,
+        "40": 0.517796
+      }
+    }
+  ],
+  "exact_check": {
+    "ross_rachel": {
+      "exact_p_divorce": 0.5351
+    },
+    "monica_chandler": {
+      "exact_p_divorce": 0.2827
+    },
+    "phoebe_mike": {
+      "exact_p_divorce": 0.3736
+    },
+    "average": {
+      "exact_p_divorce": 0.5184
+    }
+  },
+  "run": {
+    "seed": 1849,
+    "marriages_per_couple": 1000000,
+    "fingerprint": "7b8e06cf67d2f6f9b1234953ff821f1a4aec643ec391377c10eedba3462c1499"
+  }
+}

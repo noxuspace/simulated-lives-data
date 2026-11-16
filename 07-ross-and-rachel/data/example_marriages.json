@@ -1,0 +1,8535 @@
+[
+ {
+  "path": "ross_rachel",
+  "category": "median_years_married",
+  "life": {
+   "version": "rr-v0.1",
+   "path": "ross_rachel",
+   "seed": 76856,
+   "end": "divorce",
+   "years_married": 16,
+   "anniversary_end_year": 2021,
+   "age_him_at_death": 91,
+   "age_her_at_death": 90,
+   "hr": 1.077,
+   "history": [
+    {
+     "year": 2005,
+     "years_married": 0,
+     "age_him": 37,
+     "age_her": 35,
+     "events": []
+    },
+    {
+     "year": 2006,
+     "years_married": 1,
+     "age_him": 38,
+     "age_her": 36,
+     "events": []
+    },
+    {
+     "year": 2007,
+     "years_married": 2,
+     "age_him": 39,
+     "age_her": 37,
+     "events": []
+    },
+    {
+     "year": 2008,
+     "years_married": 3,
+     "age_him": 40,
+     "age_her": 38,
+     "events": []
+    },
+    {
+     "year": 2009,
+     "years_married": 4,
+     "age_him": 41,
+     "age_her": 39,
+     "events": []
+    },
+    {
+     "year": 2010,
+     "years_married": 5,
+     "age_him": 42,
+     "age_her": 40,
+     "events": []
+    },
+    {
+     "year": 2011,
+     "years_married": 6,
+     "age_him": 43,
+     "age_her": 41,
+     "events": []
+    },
+    {
+     "year": 2012,
+     "years_married": 7,
+     "age_him": 44,
+     "age_her": 42,
+     "events": []
+    },
+    {
+     "year": 2013,
+     "years_married": 8,
+     "age_him": 45,
+     "age_her": 43,
+     "events": []
+    },
+    {
+     "year": 2014,
+     "years_married": 9,
+     "age_him": 46,
+     "age_her": 44,
+     "events": []
+    },
+    {
+     "year": 2015,
+     "years_married": 10,
+     "age_him": 47,
+     "age_her": 45,
+     "events": []
+    },
+    {
+     "year": 2016,
+     "years_married": 11,
+     "age_him": 48,
+     "age_her": 46,
+     "events": []
+    },
+    {
+     "year": 2017,
+     "years_married": 12,
+     "age_him": 49,
+     "age_her": 47,
+     "events": []
+    },
+    {
+     "year": 2018,
+     "years_married": 13,
+     "age_him": 50,
+     "age_her": 48,
+     "events": []
+    },
+    {
+     "year": 2019,
+     "years_married": 14,
+     "age_him": 51,
+     "age_her": 49,
+     "events": []
+    },
+    {
+     "year": 2020,
+     "years_married": 15,
+     "age_him": 52,
+     "age_her": 50,
+     "events": []
+    },
+    {
+     "year": 2021,
+     "years_married": 16,
+     "age_him": 53,
+     "age_her": 51,
+     "events": [
+      "divorce"
+     ]
+    },
+    {
+     "year": 2022,
+     "years_married": 17,
+     "age_him": 54,
+     "age_her": 52,
+     "events": []
+    },
+    {
+     "year": 2023,
+     "years_married": 18,
+     "age_him": 55,
+     "age_her": 53,
+     "events": []
+    },
+    {
+     "year": 2024,
+     "years_married": 19,
+     "age_him": 56,
+     "age_her": 54,
+     "events": []
+    },
+    {
+     "year": 2025,
+     "years_married": 20,
+     "age_him": 57,
+     "age_her": 55,
+     "events": []
+    },
+    {
+     "year": 2026,
+     "years_married": 21,
+     "age_him": 58,
+     "age_her": 56,
+     "events": []
+    },
+    {
+     "year": 2027,
+     "years_married": 22,
+     "age_him": 59,
+     "age_her": 57,
+     "events": []
+    },
+    {
+     "year": 2028,
+     "years_married": 23,
+     "age_him": 60,
+     "age_her": 58,
+     "events": []
+    },
+    {
+     "year": 2029,
+     "years_married": 24,
+     "age_him": 61,
+     "age_her": 59,
+     "events": []
+    },
+    {
+     "year": 2030,
+     "years_married": 25,
+     "age_him": 62,
+     "age_her": 60,
+     "events": []
+    },
+    {
+     "year": 2031,
+     "years_married": 26,
+     "age_him": 63,
+     "age_her": 61,
+     "events": []
+    },
+    {
+     "year": 2032,
+     "years_married": 27,
+     "age_him": 64,
+     "age_her": 62,
+     "events": []
+    },
+    {
+     "year": 2033,
+     "years_married": 28,
+     "age_him": 65,
+     "age_her": 63,
+     "events": []
+    },
+    {
+     "year": 2034,
+     "years_married": 29,
+     "age_him": 66,
+     "age_her": 64,
+     "events": []
+    },
+    {
+     "year": 2035,
+     "years_married": 30,
+     "age_him": 67,
+     "age_her": 65,
+     "events": []
+    },
+    {
+     "year": 2036,
+     "years_married": 31,
+     "age_him": 68,
+     "age_her": 66,
+     "events": []
+    },
+    {
+     "year": 2037,
+     "years_married": 32,
+     "age_him": 69,
+     "age_her": 67,
+     "events": []
+    },
+    {
+     "year": 2038,
+     "years_married": 33,
+     "age_him": 70,
+     "age_her": 68,
+     "events": []
+    },
+    {
+     "year": 2039,
+     "years_married": 34,
+     "age_him": 71,
+     "age_her": 69,
+     "events": []
+    },
+    {
+     "year": 2040,
+     "years_married": 35,
+     "age_him": 72,
+     "age_her": 70,
+     "events": []
+    },
+    {
+     "year": 2041,
+     "years_married": 36,
+     "age_him": 73,
+     "age_her": 71,
+     "events": []
+    },
+    {
+     "year": 2042,
+     "years_married": 37,
+     "age_him": 74,
+     "age_her": 72,
+     "events": []
+    },
+    {
+     "year": 2043,
+     "years_married": 38,
+     "age_him": 75,
+     "age_her": 73,
+     "events": []
+    },
+    {
+     "year": 2044,
+     "years_married": 39,
+     "age_him": 76,
+     "age_her": 74,
+     "events": []
+    },
+    {
+     "year": 2045,
+     "years_married": 40,
+     "age_him": 77,
+     "age_her": 75,
+     "events": []
+    },
+    {
+     "year": 2046,
+     "years_married": 41,
+     "age_him": 78,
+     "age_her": 76,
+     "events": []
+    },
+    {
+     "year": 2047,
+     "years_married": 42,
+     "age_him": 79,
+     "age_her": 77,
+     "events": []
+    },
+    {
+     "year": 2048,
+     "years_married": 43,
+     "age_him": 80,
+     "age_her": 78,
+     "events": []
+    },
+    {
+     "year": 2049,
+     "years_married": 44,
+     "age_him": 81,
+     "age_her": 79,
+     "events": []
+    },
+    {
+     "year": 2050,
+     "years_married": 45,
+     "age_him": 82,
+     "age_her": 80,
+     "events": []
+    },
+    {
+     "year": 2051,
+     "years_married": 46,
+     "age_him": 83,
+     "age_her": 81,
+     "events": []
+    },
+    {
+     "year": 2052,
+     "years_married": 47,
+     "age_him": 84,
+     "age_her": 82,
+     "events": []
+    },
+    {
+     "year": 2053,
+     "years_married": 48,
+     "age_him": 85,
+     "age_her": 83,
+     "events": []
+    },
+    {
+     "year": 2054,
+     "years_married": 49,
+     "age_him": 86,
+     "age_her": 84,
+     "events": []
+    },
+    {
+     "year": 2055,
+     "years_married": 50,
+     "age_him": 87,
+     "age_her": 85,
+     "events": []
+    },
+    {
+     "year": 2056,
+     "years_married": 51,
+     "age_him": 88,
+     "age_her": 86,
+     "events": []
+    },
+    {
+     "year": 2057,
+     "years_married": 52,
+     "age_him": 89,
+     "age_her": 87,
+     "events": []
+    },
+    {
+     "year": 2058,
+     "years_married": 53,
+     "age_him": 90,
+     "age_her": 88,
+     "events": []
+    },
+    {
+     "year": 2059,
+     "years_married": 54,
+     "age_him": 91,
+     "age_her": 89,
+     "events": [
+      "him_dies"
+     ]
+    },
+    {
+     "year": 2060,
+     "years_married": 55,
+     "age_him": 92,
+     "age_her": 90,
+     "events": [
+      "her_dies"
+     ]
+    }
+   ]
+  },
+  "selection": "Lowest seed found whose years married equal the couple median. Typical only by this metric."
+ },
+ {
+  "path": "ross_rachel",
+  "category": "end:both_die",
+  "life": {
+   "version": "rr-v0.1",
+   "path": "ross_rachel",
+   "seed": 1958,
+   "end": "both_die",
+   "years_married": 52,
+   "anniversary_end_year": 2057,
+   "age_him_at_death": 89,
+   "age_her_at_death": 87,
+   "hr": 1.077,
+   "history": [
+    {
+     "year": 2005,
+     "years_married": 0,
+     "age_him": 37,
+     "age_her": 35,
+     "events": []
+    },
+    {
+     "year": 2006,
+     "years_married": 1,
+     "age_him": 38,
+     "age_her": 36,
+     "events": []
+    },
+    {
+     "year": 2007,
+     "years_married": 2,
+     "age_him": 39,
+     "age_her": 37,
+     "events": []
+    },
+    {
+     "year": 2008,
+     "years_married": 3,
+     "age_him": 40,
+     "age_her": 38,
+     "events": []
+    },
+    {
+     "year": 2009,
+     "years_married": 4,
+     "age_him": 41,
+     "age_her": 39,
+     "events": []
+    },
+    {
+     "year": 2010,
+     "years_married": 5,
+     "age_him": 42,
+     "age_her": 40,
+     "events": []
+    },
+    {
+     "year": 2011,
+     "years_married": 6,
+     "age_him": 43,
+     "age_her": 41,
+     "events": []
+    },
+    {
+     "year": 2012,
+     "years_married": 7,
+     "age_him": 44,
+     "age_her": 42,
+     "events": []
+    },
+    {
+     "year": 2013,
+     "years_married": 8,
+     "age_him": 45,
+     "age_her": 43,
+     "events": []
+    },
+    {
+     "year": 2014,
+     "years_married": 9,
+     "age_him": 46,
+     "age_her": 44,
+     "events": []
+    },
+    {
+     "year": 2015,
+     "years_married": 10,
+     "age_him": 47,
+     "age_her": 45,
+     "events": []
+    },
+    {
+     "year": 2016,
+     "years_married": 11,
+     "age_him": 48,
+     "age_her": 46,
+     "events": []
+    },
+    {
+     "year": 2017,
+     "years_married": 12,
+     "age_him": 49,
+     "age_her": 47,
+     "events": []
+    },
+    {
+     "year": 2018,
+     "years_married": 13,
+     "age_him": 50,
+     "age_her": 48,
+     "events": []
+    },
+    {
+     "year": 2019,
+     "years_married": 14,
+     "age_him": 51,
+     "age_her": 49,
+     "events": []
+    },
+    {
+     "year": 2020,
+     "years_married": 15,
+     "age_him": 52,
+     "age_her": 50,
+     "events": []
+    },
+    {
+     "year": 2021,
+     "years_married": 16,
+     "age_him": 53,
+     "age_her": 51,
+     "events": []
+    },
+    {
+     "year": 2022,
+     "years_married": 17,
+     "age_him": 54,
+     "age_her": 52,
+     "events": []
+    },
+    {
+     "year": 2023,
+     "years_married": 18,
+     "age_him": 55,
+     "age_her": 53,
+     "events": []
+    },
+    {
+     "year": 2024,
+     "years_married": 19,
+     "age_him": 56,
+     "age_her": 54,
+     "events": []
+    },
+    {
+     "year": 2025,
+     "years_married": 20,
+     "age_him": 57,
+     "age_her": 55,
+     "events": []
+    },
+    {
+     "year": 2026,
+     "years_married": 21,
+     "age_him": 58,
+     "age_her": 56,
+     "events": []
+    },
+    {
+     "year": 2027,
+     "years_married": 22,
+     "age_him": 59,
+     "age_her": 57,
+     "events": []
+    },
+    {
+     "year": 2028,
+     "years_married": 23,
+     "age_him": 60,
+     "age_her": 58,
+     "events": []
+    },
+    {
+     "year": 2029,
+     "years_married": 24,
+     "age_him": 61,
+     "age_her": 59,
+     "events": []
+    },
+    {
+     "year": 2030,
+     "years_married": 25,
+     "age_him": 62,
+     "age_her": 60,
+     "events": []
+    },
+    {
+     "year": 2031,
+     "years_married": 26,
+     "age_him": 63,
+     "age_her": 61,
+     "events": []
+    },
+    {
+     "year": 2032,
+     "years_married": 27,
+     "age_him": 64,
+     "age_her": 62,
+     "events": []
+    },
+    {
+     "year": 2033,
+     "years_married": 28,
+     "age_him": 65,
+     "age_her": 63,
+     "events": []
+    },
+    {
+     "year": 2034,
+     "years_married": 29,
+     "age_him": 66,
+     "age_her": 64,
+     "events": []
+    },
+    {
+     "year": 2035,
+     "years_married": 30,
+     "age_him": 67,
+     "age_her": 65,
+     "events": []
+    },
+    {
+     "year": 2036,
+     "years_married": 31,
+     "age_him": 68,
+     "age_her": 66,
+     "events": []
+    },
+    {
+     "year": 2037,
+     "years_married": 32,
+     "age_him": 69,
+     "age_her": 67,
+     "events": []
+    },
+    {
+     "year": 2038,
+     "years_married": 33,
+     "age_him": 70,
+     "age_her": 68,
+     "events": []
+    },
+    {
+     "year": 2039,
+     "years_married": 34,
+     "age_him": 71,
+     "age_her": 69,
+     "events": []
+    },
+    {
+     "year": 2040,
+     "years_married": 35,
+     "age_him": 72,
+     "age_her": 70,
+     "events": []
+    },
+    {
+     "year": 2041,
+     "years_married": 36,
+     "age_him": 73,
+     "age_her": 71,
+     "events": []
+    },
+    {
+     "year": 2042,
+     "years_married": 37,
+     "age_him": 74,
+     "age_her": 72,
+     "events": []
+    },
+    {
+     "year": 2043,
+     "years_married": 38,
+     "age_him": 75,
+     "age_her": 73,
+     "events": []
+    },
+    {
+     "year": 2044,
+     "years_married": 39,
+     "age_him": 76,
+     "age_her": 74,
+     "events": []
+    },
+    {
+     "year": 2045,
+     "years_married": 40,
+     "age_him": 77,
+     "age_her": 75,
+     "events": []
+    },
+    {
+     "year": 2046,
+     "years_married": 41,
+     "age_him": 78,
+     "age_her": 76,
+     "events": []
+    },
+    {
+     "year": 2047,
+     "years_married": 42,
+     "age_him": 79,
+     "age_her": 77,
+     "events": []
+    },
+    {
+     "year": 2048,
+     "years_married": 43,
+     "age_him": 80,
+     "age_her": 78,
+     "events": []
+    },
+    {
+     "year": 2049,
+     "years_married": 44,
+     "age_him": 81,
+     "age_her": 79,
+     "events": []
+    },
+    {
+     "year": 2050,
+     "years_married": 45,
+     "age_him": 82,
+     "age_her": 80,
+     "events": []
+    },
+    {
+     "year": 2051,
+     "years_married": 46,
+     "age_him": 83,
+     "age_her": 81,
+     "events": []
+    },
+    {
+     "year": 2052,
+     "years_married": 47,
+     "age_him": 84,
+     "age_her": 82,
+     "events": []
+    },
+    {
+     "year": 2053,
+     "years_married": 48,
+     "age_him": 85,
+     "age_her": 83,
+     "events": []
+    },
+    {
+     "year": 2054,
+     "years_married": 49,
+     "age_him": 86,
+     "age_her": 84,
+     "events": []
+    },
+    {
+     "year": 2055,
+     "years_married": 50,
+     "age_him": 87,
+     "age_her": 85,
+     "events": []
+    },
+    {
+     "year": 2056,
+     "years_married": 51,
+     "age_him": 88,
+     "age_her": 86,
+     "events": []
+    },
+    {
+     "year": 2057,
+     "years_married": 52,
+     "age_him": 89,
+     "age_her": 87,
+     "events": [
+      "him_dies",
+      "her_dies"
+     ]
+    }
+   ]
+  },
+  "selection": "Lowest stored seed ending in 'both_die'. Illustration, not typical."
+ },
+ {
+  "path": "ross_rachel",
+  "category": "end:divorce",
+  "life": {
+   "version": "rr-v0.1",
+   "path": "ross_rachel",
+   "seed": 1850,
+   "end": "divorce",
+   "years_married": 17,
+   "anniversary_end_year": 2022,
+   "age_him_at_death": 72,
+   "age_her_at_death": 87,
+   "hr": 1.077,
+   "history": [
+    {
+     "year": 2005,
+     "years_married": 0,
+     "age_him": 37,
+     "age_her": 35,
+     "events": []
+    },
+    {
+     "year": 2006,
+     "years_married": 1,
+     "age_him": 38,
+     "age_her": 36,
+     "events": []
+    },
+    {
+     "year": 2007,
+     "years_married": 2,
+     "age_him": 39,
+     "age_her": 37,
+     "events": []
+    },
+    {
+     "year": 2008,
+     "years_married": 3,
+     "age_him": 40,
+     "age_her": 38,
+     "events": []
+    },
+    {
+     "year": 2009,
+     "years_married": 4,
+     "age_him": 41,
+     "age_her": 39,
+     "events": []
+    },
+    {
+     "year": 2010,
+     "years_married": 5,
+     "age_him": 42,
+     "age_her": 40,
+     "events": []
+    },
+    {
+     "year": 2011,
+     "years_married": 6,
+     "age_him": 43,
+     "age_her": 41,
+     "events": []
+    },
+    {
+     "year": 2012,
+     "years_married": 7,
+     "age_him": 44,
+     "age_her": 42,
+     "events": []
+    },
+    {
+     "year": 2013,
+     "years_married": 8,
+     "age_him": 45,
+     "age_her": 43,
+     "events": []
+    },
+    {
+     "year": 2014,
+     "years_married": 9,
+     "age_him": 46,
+     "age_her": 44,
+     "events": []
+    },
+    {
+     "year": 2015,
+     "years_married": 10,
+     "age_him": 47,
+     "age_her": 45,
+     "events": []
+    },
+    {
+     "year": 2016,
+     "years_married": 11,
+     "age_him": 48,
+     "age_her": 46,
+     "events": []
+    },
+    {
+     "year": 2017,
+     "years_married": 12,
+     "age_him": 49,
+     "age_her": 47,
+     "events": []
+    },
+    {
+     "year": 2018,
+     "years_married": 13,
+     "age_him": 50,
+     "age_her": 48,
+     "events": []
+    },
+    {
+     "year": 2019,
+     "years_married": 14,
+     "age_him": 51,
+     "age_her": 49,
+     "events": []
+    },
+    {
+     "year": 2020,
+     "years_married": 15,
+     "age_him": 52,
+     "age_her": 50,
+     "events": []
+    },
+    {
+     "year": 2021,
+     "years_married": 16,
+     "age_him": 53,
+     "age_her": 51,
+     "events": []
+    },
+    {
+     "year": 2022,
+     "years_married": 17,
+     "age_him": 54,
+     "age_her": 52,
+     "events": [
+      "divorce"
+     ]
+    },
+    {
+     "year": 2023,
+     "years_married": 18,
+     "age_him": 55,
+     "age_her": 53,
+     "events": []
+    },
+    {
+     "year": 2024,
+     "years_married": 19,
+     "age_him": 56,
+     "age_her": 54,
+     "events": []
+    },
+    {
+     "year": 2025,
+     "years_married": 20,
+     "age_him": 57,
+     "age_her": 55,
+     "events": []
+    },
+    {
+     "year": 2026,
+     "years_married": 21,
+     "age_him": 58,
+     "age_her": 56,
+     "events": []
+    },
+    {
+     "year": 2027,
+     "years_married": 22,
+     "age_him": 59,
+     "age_her": 57,
+     "events": []
+    },
+    {
+     "year": 2028,
+     "years_married": 23,
+     "age_him": 60,
+     "age_her": 58,
+     "events": []
+    },
+    {
+     "year": 2029,
+     "years_married": 24,
+     "age_him": 61,
+     "age_her": 59,
+     "events": []
+    },
+    {
+     "year": 2030,
+     "years_married": 25,
+     "age_him": 62,
+     "age_her": 60,
+     "events": []
+    },
+    {
+     "year": 2031,
+     "years_married": 26,
+     "age_him": 63,
+     "age_her": 61,
+     "events": []
+    },
+    {
+     "year": 2032,
+     "years_married": 27,
+     "age_him": 64,
+     "age_her": 62,
+     "events": []
+    },
+    {
+     "year": 2033,
+     "years_married": 28,
+     "age_him": 65,
+     "age_her": 63,
+     "events": []
+    },
+    {
+     "year": 2034,
+     "years_married": 29,
+     "age_him": 66,
+     "age_her": 64,
+     "events": []
+    },
+    {
+     "year": 2035,
+     "years_married": 30,
+     "age_him": 67,
+     "age_her": 65,
+     "events": []
+    },
+    {
+     "year": 2036,
+     "years_married": 31,
+     "age_him": 68,
+     "age_her": 66,
+     "events": []
+    },
+    {
+     "year": 2037,
+     "years_married": 32,
+     "age_him": 69,
+     "age_her": 67,
+     "events": []
+    },
+    {
+     "year": 2038,
+     "years_married": 33,
+     "age_him": 70,
+     "age_her": 68,
+     "events": []
+    },
+    {
+     "year": 2039,
+     "years_married": 34,
+     "age_him": 71,
+     "age_her": 69,
+     "events": []
+    },
+    {
+     "year": 2040,
+     "years_married": 35,
+     "age_him": 72,
+     "age_her": 70,
+     "events": [
+      "him_dies"
+     ]
+    },
+    {
+     "year": 2041,
+     "years_married": 36,
+     "age_him": 73,
+     "age_her": 71,
+     "events": []
+    },
+    {
+     "year": 2042,
+     "years_married": 37,
+     "age_him": 74,
+     "age_her": 72,
+     "events": []
+    },
+    {
+     "year": 2043,
+     "years_married": 38,
+     "age_him": 75,
+     "age_her": 73,
+     "events": []
+    },
+    {
+     "year": 2044,
+     "years_married": 39,
+     "age_him": 76,
+     "age_her": 74,
+     "events": []
+    },
+    {
+     "year": 2045,
+     "years_married": 40,
+     "age_him": 77,
+     "age_her": 75,
+     "events": []
+    },
+    {
+     "year": 2046,
+     "years_married": 41,
+     "age_him": 78,
+     "age_her": 76,
+     "events": []
+    },
+    {
+     "year": 2047,
+     "years_married": 42,
+     "age_him": 79,
+     "age_her": 77,
+     "events": []
+    },
+    {
+     "year": 2048,
+     "years_married": 43,
+     "age_him": 80,
+     "age_her": 78,
+     "events": []
+    },
+    {
+     "year": 2049,
+     "years_married": 44,
+     "age_him": 81,
+     "age_her": 79,
+     "events": []
+    },
+    {
+     "year": 2050,
+     "years_married": 45,
+     "age_him": 82,
+     "age_her": 80,
+     "events": []
+    },
+    {
+     "year": 2051,
+     "years_married": 46,
+     "age_him": 83,
+     "age_her": 81,
+     "events": []
+    },
+    {
+     "year": 2052,
+     "years_married": 47,
+     "age_him": 84,
+     "age_her": 82,
+     "events": []
+    },
+    {
+     "year": 2053,
+     "years_married": 48,
+     "age_him": 85,
+     "age_her": 83,
+     "events": []
+    },
+    {
+     "year": 2054,
+     "years_married": 49,
+     "age_him": 86,
+     "age_her": 84,
+     "events": []
+    },
+    {
+     "year": 2055,
+     "years_married": 50,
+     "age_him": 87,
+     "age_her": 85,
+     "events": []
+    },
+    {
+     "year": 2056,
+     "years_married": 51,
+     "age_him": 88,
+     "age_her": 86,
+     "events": []
+    },
+    {
+     "year": 2057,
+     "years_married": 52,
+     "age_him": 89,
+     "age_her": 87,
+     "events": [
+      "her_dies"
+     ]
+    }
+   ]
+  },
+  "selection": "Lowest stored seed ending in 'divorce'. Illustration, not typical."
+ },
+ {
+  "path": "ross_rachel",
+  "category": "end:widow",
+  "life": {
+   "version": "rr-v0.1",
+   "path": "ross_rachel",
+   "seed": 1849,
+   "end": "widow",
+   "years_married": 49,
+   "anniversary_end_year": 2054,
+   "age_him_at_death": 86,
+   "age_her_at_death": 95,
+   "hr": 1.077,
+   "history": [
+    {
+     "year": 2005,
+     "years_married": 0,
+     "age_him": 37,
+     "age_her": 35,
+     "events": []
+    },
+    {
+     "year": 2006,
+     "years_married": 1,
+     "age_him": 38,
+     "age_her": 36,
+     "events": []
+    },
+    {
+     "year": 2007,
+     "years_married": 2,
+     "age_him": 39,
+     "age_her": 37,
+     "events": []
+    },
+    {
+     "year": 2008,
+     "years_married": 3,
+     "age_him": 40,
+     "age_her": 38,
+     "events": []
+    },
+    {
+     "year": 2009,
+     "years_married": 4,
+     "age_him": 41,
+     "age_her": 39,
+     "events": []
+    },
+    {
+     "year": 2010,
+     "years_married": 5,
+     "age_him": 42,
+     "age_her": 40,
+     "events": []
+    },
+    {
+     "year": 2011,
+     "years_married": 6,
+     "age_him": 43,
+     "age_her": 41,
+     "events": []
+    },
+    {
+     "year": 2012,
+     "years_married": 7,
+     "age_him": 44,
+     "age_her": 42,
+     "events": []
+    },
+    {
+     "year": 2013,
+     "years_married": 8,
+     "age_him": 45,
+     "age_her": 43,
+     "events": []
+    },
+    {
+     "year": 2014,
+     "years_married": 9,
+     "age_him": 46,
+     "age_her": 44,
+     "events": []
+    },
+    {
+     "year": 2015,
+     "years_married": 10,
+     "age_him": 47,
+     "age_her": 45,
+     "events": []
+    },
+    {
+     "year": 2016,
+     "years_married": 11,
+     "age_him": 48,
+     "age_her": 46,
+     "events": []
+    },
+    {
+     "year": 2017,
+     "years_married": 12,
+     "age_him": 49,
+     "age_her": 47,
+     "events": []
+    },
+    {
+     "year": 2018,
+     "years_married": 13,
+     "age_him": 50,
+     "age_her": 48,
+     "events": []
+    },
+    {
+     "year": 2019,
+     "years_married": 14,
+     "age_him": 51,
+     "age_her": 49,
+     "events": []
+    },
+    {
+     "year": 2020,
+     "years_married": 15,
+     "age_him": 52,
+     "age_her": 50,
+     "events": []
+    },
+    {
+     "year": 2021,
+     "years_married": 16,
+     "age_him": 53,
+     "age_her": 51,
+     "events": []
+    },
+    {
+     "year": 2022,
+     "years_married": 17,
+     "age_him": 54,
+     "age_her": 52,
+     "events": []
+    },
+    {
+     "year": 2023,
+     "years_married": 18,
+     "age_him": 55,
+     "age_her": 53,
+     "events": []
+    },
+    {
+     "year": 2024,
+     "years_married": 19,
+     "age_him": 56,
+     "age_her": 54,
+     "events": []
+    },
+    {
+     "year": 2025,
+     "years_married": 20,
+     "age_him": 57,
+     "age_her": 55,
+     "events": []
+    },
+    {
+     "year": 2026,
+     "years_married": 21,
+     "age_him": 58,
+     "age_her": 56,
+     "events": []
+    },
+    {
+     "year": 2027,
+     "years_married": 22,
+     "age_him": 59,
+     "age_her": 57,
+     "events": []
+    },
+    {
+     "year": 2028,
+     "years_married": 23,
+     "age_him": 60,
+     "age_her": 58,
+     "events": []
+    },
+    {
+     "year": 2029,
+     "years_married": 24,
+     "age_him": 61,
+     "age_her": 59,
+     "events": []
+    },
+    {
+     "year": 2030,
+     "years_married": 25,
+     "age_him": 62,
+     "age_her": 60,
+     "events": []
+    },
+    {
+     "year": 2031,
+     "years_married": 26,
+     "age_him": 63,
+     "age_her": 61,
+     "events": []
+    },
+    {
+     "year": 2032,
+     "years_married": 27,
+     "age_him": 64,
+     "age_her": 62,
+     "events": []
+    },
+    {
+     "year": 2033,
+     "years_married": 28,
+     "age_him": 65,
+     "age_her": 63,
+     "events": []
+    },
+    {
+     "year": 2034,
+     "years_married": 29,
+     "age_him": 66,
+     "age_her": 64,
+     "events": []
+    },
+    {
+     "year": 2035,
+     "years_married": 30,
+     "age_him": 67,
+     "age_her": 65,
+     "events": []
+    },
+    {
+     "year": 2036,
+     "years_married": 31,
+     "age_him": 68,
+     "age_her": 66,
+     "events": []
+    },
+    {
+     "year": 2037,
+     "years_married": 32,
+     "age_him": 69,
+     "age_her": 67,
+     "events": []
+    },
+    {
+     "year": 2038,
+     "years_married": 33,
+     "age_him": 70,
+     "age_her": 68,
+     "events": []
+    },
+    {
+     "year": 2039,
+     "years_married": 34,
+     "age_him": 71,
+     "age_her": 69,
+     "events": []
+    },
+    {
+     "year": 2040,
+     "years_married": 35,
+     "age_him": 72,
+     "age_her": 70,
+     "events": []
+    },
+    {
+     "year": 2041,
+     "years_married": 36,
+     "age_him": 73,
+     "age_her": 71,
+     "events": []
+    },
+    {
+     "year": 2042,
+     "years_married": 37,
+     "age_him": 74,
+     "age_her": 72,
+     "events": []
+    },
+    {
+     "year": 2043,
+     "years_married": 38,
+     "age_him": 75,
+     "age_her": 73,
+     "events": []
+    },
+    {
+     "year": 2044,
+     "years_married": 39,
+     "age_him": 76,
+     "age_her": 74,
+     "events": []
+    },
+    {
+     "year": 2045,
+     "years_married": 40,
+     "age_him": 77,
+     "age_her": 75,
+     "events": []
+    },
+    {
+     "year": 2046,
+     "years_married": 41,
+     "age_him": 78,
+     "age_her": 76,
+     "events": []
+    },
+    {
+     "year": 2047,
+     "years_married": 42,
+     "age_him": 79,
+     "age_her": 77,
+     "events": []
+    },
+    {
+     "year": 2048,
+     "years_married": 43,
+     "age_him": 80,
+     "age_her": 78,
+     "events": []
+    },
+    {
+     "year": 2049,
+     "years_married": 44,
+     "age_him": 81,
+     "age_her": 79,
+     "events": []
+    },
+    {
+     "year": 2050,
+     "years_married": 45,
+     "age_him": 82,
+     "age_her": 80,
+     "events": []
+    },
+    {
+     "year": 2051,
+     "years_married": 46,
+     "age_him": 83,
+     "age_her": 81,
+     "events": []
+    },
+    {
+     "year": 2052,
+     "years_married": 47,
+     "age_him": 84,
+     "age_her": 82,
+     "events": []
+    },
+    {
+     "year": 2053,
+     "years_married": 48,
+     "age_him": 85,
+     "age_her": 83,
+     "events": []
+    },
+    {
+     "year": 2054,
+     "years_married": 49,
+     "age_him": 86,
+     "age_her": 84,
+     "events": [
+      "him_dies"
+     ]
+    },
+    {
+     "year": 2055,
+     "years_married": 50,
+     "age_him": 87,
+     "age_her": 85,
+     "events": []
+    },
+    {
+     "year": 2056,
+     "years_married": 51,
+     "age_him": 88,
+     "age_her": 86,
+     "events": []
+    },
+    {
+     "year": 2057,
+     "years_married": 52,
+     "age_him": 89,
+     "age_her": 87,
+     "events": []
+    },
+    {
+     "year": 2058,
+     "years_married": 53,
+     "age_him": 90,
+     "age_her": 88,
+     "events": []
+    },
+    {
+     "year": 2059,
+     "years_married": 54,
+     "age_him": 91,
+     "age_her": 89,
+     "events": []
+    },
+    {
+     "year": 2060,
+     "years_married": 55,
+     "age_him": 92,
+     "age_her": 90,
+     "events": []
+    },
+    {
+     "year": 2061,
+     "years_married": 56,
+     "age_him": 93,
+     "age_her": 91,
+     "events": []
+    },
+    {
+     "year": 2062,
+     "years_married": 57,
+     "age_him": 94,
+     "age_her": 92,
+     "events": []
+    },
+    {
+     "year": 2063,
+     "years_married": 58,
+     "age_him": 95,
+     "age_her": 93,
+     "events": []
+    },
+    {
+     "year": 2064,
+     "years_married": 59,
+     "age_him": 96,
+     "age_her": 94,
+     "events": []
+    },
+    {
+     "year": 2065,
+     "years_married": 60,
+     "age_him": 97,
+     "age_her": 95,
+     "events": [
+      "her_dies"
+     ]
+    }
+   ]
+  },
+  "selection": "Lowest stored seed ending in 'widow'. Illustration, not typical."
+ },
+ {
+  "path": "ross_rachel",
+  "category": "end:widower",
+  "life": {
+   "version": "rr-v0.1",
+   "path": "ross_rachel",
+   "seed": 1851,
+   "end": "widower",
+   "years_married": 54,
+   "anniversary_end_year": 2059,
+   "age_him_at_death": 95,
+   "age_her_at_death": 89,
+   "hr": 1.077,
+   "history": [
+    {
+     "year": 2005,
+     "years_married": 0,
+     "age_him": 37,
+     "age_her": 35,
+     "events": []
+    },
+    {
+     "year": 2006,
+     "years_married": 1,
+     "age_him": 38,
+     "age_her": 36,
+     "events": []
+    },
+    {
+     "year": 2007,
+     "years_married": 2,
+     "age_him": 39,
+     "age_her": 37,
+     "events": []
+    },
+    {
+     "year": 2008,
+     "years_married": 3,
+     "age_him": 40,
+     "age_her": 38,
+     "events": []
+    },
+    {
+     "year": 2009,
+     "years_married": 4,
+     "age_him": 41,
+     "age_her": 39,
+     "events": []
+    },
+    {
+     "year": 2010,
+     "years_married": 5,
+     "age_him": 42,
+     "age_her": 40,
+     "events": []
+    },
+    {
+     "year": 2011,
+     "years_married": 6,
+     "age_him": 43,
+     "age_her": 41,
+     "events": []
+    },
+    {
+     "year": 2012,
+     "years_married": 7,
+     "age_him": 44,
+     "age_her": 42,
+     "events": []
+    },
+    {
+     "year": 2013,
+     "years_married": 8,
+     "age_him": 45,
+     "age_her": 43,
+     "events": []
+    },
+    {
+     "year": 2014,
+     "years_married": 9,
+     "age_him": 46,
+     "age_her": 44,
+     "events": []
+    },
+    {
+     "year": 2015,
+     "years_married": 10,
+     "age_him": 47,
+     "age_her": 45,
+     "events": []
+    },
+    {
+     "year": 2016,
+     "years_married": 11,
+     "age_him": 48,
+     "age_her": 46,
+     "events": []
+    },
+    {
+     "year": 2017,
+     "years_married": 12,
+     "age_him": 49,
+     "age_her": 47,
+     "events": []
+    },
+    {
+     "year": 2018,
+     "years_married": 13,
+     "age_him": 50,
+     "age_her": 48,
+     "events": []
+    },
+    {
+     "year": 2019,
+     "years_married": 14,
+     "age_him": 51,
+     "age_her": 49,
+     "events": []
+    },
+    {
+     "year": 2020,
+     "years_married": 15,
+     "age_him": 52,
+     "age_her": 50,
+     "events": []
+    },
+    {
+     "year": 2021,
+     "years_married": 16,
+     "age_him": 53,
+     "age_her": 51,
+     "events": []
+    },
+    {
+     "year": 2022,
+     "years_married": 17,
+     "age_him": 54,
+     "age_her": 52,
+     "events": []
+    },
+    {
+     "year": 2023,
+     "years_married": 18,
+     "age_him": 55,
+     "age_her": 53,
+     "events": []
+    },
+    {
+     "year": 2024,
+     "years_married": 19,
+     "age_him": 56,
+     "age_her": 54,
+     "events": []
+    },
+    {
+     "year": 2025,
+     "years_married": 20,
+     "age_him": 57,
+     "age_her": 55,
+     "events": []
+    },
+    {
+     "year": 2026,
+     "years_married": 21,
+     "age_him": 58,
+     "age_her": 56,
+     "events": []
+    },
+    {
+     "year": 2027,
+     "years_married": 22,
+     "age_him": 59,
+     "age_her": 57,
+     "events": []
+    },
+    {
+     "year": 2028,
+     "years_married": 23,
+     "age_him": 60,
+     "age_her": 58,
+     "events": []
+    },
+    {
+     "year": 2029,
+     "years_married": 24,
+     "age_him": 61,
+     "age_her": 59,
+     "events": []
+    },
+    {
+     "year": 2030,
+     "years_married": 25,
+     "age_him": 62,
+     "age_her": 60,
+     "events": []
+    },
+    {
+     "year": 2031,
+     "years_married": 26,
+     "age_him": 63,
+     "age_her": 61,
+     "events": []
+    },
+    {
+     "year": 2032,
+     "years_married": 27,
+     "age_him": 64,
+     "age_her": 62,
+     "events": []
+    },
+    {
+     "year": 2033,
+     "years_married": 28,
+     "age_him": 65,
+     "age_her": 63,
+     "events": []
+    },
+    {
+     "year": 2034,
+     "years_married": 29,
+     "age_him": 66,
+     "age_her": 64,
+     "events": []
+    },
+    {
+     "year": 2035,
+     "years_married": 30,
+     "age_him": 67,
+     "age_her": 65,
+     "events": []
+    },
+    {
+     "year": 2036,
+     "years_married": 31,
+     "age_him": 68,
+     "age_her": 66,
+     "events": []
+    },
+    {
+     "year": 2037,
+     "years_married": 32,
+     "age_him": 69,
+     "age_her": 67,
+     "events": []
+    },
+    {
+     "year": 2038,
+     "years_married": 33,
+     "age_him": 70,
+     "age_her": 68,
+     "events": []
+    },
+    {
+     "year": 2039,
+     "years_married": 34,
+     "age_him": 71,
+     "age_her": 69,
+     "events": []
+    },
+    {
+     "year": 2040,
+     "years_married": 35,
+     "age_him": 72,
+     "age_her": 70,
+     "events": []
+    },
+    {
+     "year": 2041,
+     "years_married": 36,
+     "age_him": 73,
+     "age_her": 71,
+     "events": []
+    },
+    {
+     "year": 2042,
+     "years_married": 37,
+     "age_him": 74,
+     "age_her": 72,
+     "events": []
+    },
+    {
+     "year": 2043,
+     "years_married": 38,
+     "age_him": 75,
+     "age_her": 73,
+     "events": []
+    },
+    {
+     "year": 2044,
+     "years_married": 39,
+     "age_him": 76,
+     "age_her": 74,
+     "events": []
+    },
+    {
+     "year": 2045,
+     "years_married": 40,
+     "age_him": 77,
+     "age_her": 75,
+     "events": []
+    },
+    {
+     "year": 2046,
+     "years_married": 41,
+     "age_him": 78,
+     "age_her": 76,
+     "events": []
+    },
+    {
+     "year": 2047,
+     "years_married": 42,
+     "age_him": 79,
+     "age_her": 77,
+     "events": []
+    },
+    {
+     "year": 2048,
+     "years_married": 43,
+     "age_him": 80,
+     "age_her": 78,
+     "events": []
+    },
+    {
+     "year": 2049,
+     "years_married": 44,
+     "age_him": 81,
+     "age_her": 79,
+     "events": []
+    },
+    {
+     "year": 2050,
+     "years_married": 45,
+     "age_him": 82,
+     "age_her": 80,
+     "events": []
+    },
+    {
+     "year": 2051,
+     "years_married": 46,
+     "age_him": 83,
+     "age_her": 81,
+     "events": []
+    },
+    {
+     "year": 2052,
+     "years_married": 47,
+     "age_him": 84,
+     "age_her": 82,
+     "events": []
+    },
+    {
+     "year": 2053,
+     "years_married": 48,
+     "age_him": 85,
+     "age_her": 83,
+     "events": []
+    },
+    {
+     "year": 2054,
+     "years_married": 49,
+     "age_him": 86,
+     "age_her": 84,
+     "events": []
+    },
+    {
+     "year": 2055,
+     "years_married": 50,
+     "age_him": 87,
+     "age_her": 85,
+     "events": []
+    },
+    {
+     "year": 2056,
+     "years_married": 51,
+     "age_him": 88,
+     "age_her": 86,
+     "events": []
+    },
+    {
+     "year": 2057,
+     "years_married": 52,
+     "age_him": 89,
+     "age_her": 87,
+     "events": []
+    },
+    {
+     "year": 2058,
+     "years_married": 53,
+     "age_him": 90,
+     "age_her": 88,
+     "events": []
+    },
+    {
+     "year": 2059,
+     "years_married": 54,
+     "age_him": 91,
+     "age_her": 89,
+     "events": [
+      "her_dies"
+     ]
+    },
+    {
+     "year": 2060,
+     "years_married": 55,
+     "age_him": 92,
+     "age_her": 90,
+     "events": []
+    },
+    {
+     "year": 2061,
+     "years_married": 56,
+     "age_him": 93,
+     "age_her": 91,
+     "events": []
+    },
+    {
+     "year": 2062,
+     "years_married": 57,
+     "age_him": 94,
+     "age_her": 92,
+     "events": []
+    },
+    {
+     "year": 2063,
+     "years_married": 58,
+     "age_him": 95,
+     "age_her": 93,
+     "events": [
+      "him_dies"
+     ]
+    }
+   ]
+  },
+  "selection": "Lowest stored seed ending in 'widower'. Illustration, not typical."
+ },
+ {
+  "path": "monica_chandler",
+  "category": "median_years_married",
+  "life": {
+   "version": "rr-v0.1",
+   "path": "monica_chandler",
+   "seed": 1853,
+   "end": "widower",
+   "years_married": 33,
+   "anniversary_end_year": 2034,
+   "age_him_at_death": 83,
+   "age_her_at_death": 65,
+   "hr": 0.4567,
+   "history": [
+    {
+     "year": 2001,
+     "years_married": 0,
+     "age_him": 33,
+     "age_her": 32,
+     "events": []
+    },
+    {
+     "year": 2002,
+     "years_married": 1,
+     "age_him": 34,
+     "age_her": 33,
+     "events": []
+    },
+    {
+     "year": 2003,
+     "years_married": 2,
+     "age_him": 35,
+     "age_her": 34,
+     "events": []
+    },
+    {
+     "year": 2004,
+     "years_married": 3,
+     "age_him": 36,
+     "age_her": 35,
+     "events": []
+    },
+    {
+     "year": 2005,
+     "years_married": 4,
+     "age_him": 37,
+     "age_her": 36,
+     "events": []
+    },
+    {
+     "year": 2006,
+     "years_married": 5,
+     "age_him": 38,
+     "age_her": 37,
+     "events": []
+    },
+    {
+     "year": 2007,
+     "years_married": 6,
+     "age_him": 39,
+     "age_her": 38,
+     "events": []
+    },
+    {
+     "year": 2008,
+     "years_married": 7,
+     "age_him": 40,
+     "age_her": 39,
+     "events": []
+    },
+    {
+     "year": 2009,
+     "years_married": 8,
+     "age_him": 41,
+     "age_her": 40,
+     "events": []
+    },
+    {
+     "year": 2010,
+     "years_married": 9,
+     "age_him": 42,
+     "age_her": 41,
+     "events": []
+    },
+    {
+     "year": 2011,
+     "years_married": 10,
+     "age_him": 43,
+     "age_her": 42,
+     "events": []
+    },
+    {
+     "year": 2012,
+     "years_married": 11,
+     "age_him": 44,
+     "age_her": 43,
+     "events": []
+    },
+    {
+     "year": 2013,
+     "years_married": 12,
+     "age_him": 45,
+     "age_her": 44,
+     "events": []
+    },
+    {
+     "year": 2014,
+     "years_married": 13,
+     "age_him": 46,
+     "age_her": 45,
+     "events": []
+    },
+    {
+     "year": 2015,
+     "years_married": 14,
+     "age_him": 47,
+     "age_her": 46,
+     "events": []
+    },
+    {
+     "year": 2016,
+     "years_married": 15,
+     "age_him": 48,
+     "age_her": 47,
+     "events": []
+    },
+    {
+     "year": 2017,
+     "years_married": 16,
+     "age_him": 49,
+     "age_her": 48,
+     "events": []
+    },
+    {
+     "year": 2018,
+     "years_married": 17,
+     "age_him": 50,
+     "age_her": 49,
+     "events": []
+    },
+    {
+     "year": 2019,
+     "years_married": 18,
+     "age_him": 51,
+     "age_her": 50,
+     "events": []
+    },
+    {
+     "year": 2020,
+     "years_married": 19,
+     "age_him": 52,
+     "age_her": 51,
+     "events": []
+    },
+    {
+     "year": 2021,
+     "years_married": 20,
+     "age_him": 53,
+     "age_her": 52,
+     "events": []
+    },
+    {
+     "year": 2022,
+     "years_married": 21,
+     "age_him": 54,
+     "age_her": 53,
+     "events": []
+    },
+    {
+     "year": 2023,
+     "years_married": 22,
+     "age_him": 55,
+     "age_her": 54,
+     "events": []
+    },
+    {
+     "year": 2024,
+     "years_married": 23,
+     "age_him": 56,
+     "age_her": 55,
+     "events": []
+    },
+    {
+     "year": 2025,
+     "years_married": 24,
+     "age_him": 57,
+     "age_her": 56,
+     "events": []
+    },
+    {
+     "year": 2026,
+     "years_married": 25,
+     "age_him": 58,
+     "age_her": 57,
+     "events": []
+    },
+    {
+     "year": 2027,
+     "years_married": 26,
+     "age_him": 59,
+     "age_her": 58,
+     "events": []
+    },
+    {
+     "year": 2028,
+     "years_married": 27,
+     "age_him": 60,
+     "age_her": 59,
+     "events": []
+    },
+    {
+     "year": 2029,
+     "years_married": 28,
+     "age_him": 61,
+     "age_her": 60,
+     "events": []
+    },
+    {
+     "year": 2030,
+     "years_married": 29,
+     "age_him": 62,
+     "age_her": 61,
+     "events": []
+    },
+    {
+     "year": 2031,
+     "years_married": 30,
+     "age_him": 63,
+     "age_her": 62,
+     "events": []
+    },
+    {
+     "year": 2032,
+     "years_married": 31,
+     "age_him": 64,
+     "age_her": 63,
+     "events": []
+    },
+    {
+     "year": 2033,
+     "years_married": 32,
+     "age_him": 65,
+     "age_her": 64,
+     "events": []
+    },
+    {
+     "year": 2034,
+     "years_married": 33,
+     "age_him": 66,
+     "age_her": 65,
+     "events": [
+      "her_dies"
+     ]
+    },
+    {
+     "year": 2035,
+     "years_married": 34,
+     "age_him": 67,
+     "age_her": 66,
+     "events": []
+    },
+    {
+     "year": 2036,
+     "years_married": 35,
+     "age_him": 68,
+     "age_her": 67,
+     "events": []
+    },
+    {
+     "year": 2037,
+     "years_married": 36,
+     "age_him": 69,
+     "age_her": 68,
+     "events": []
+    },
+    {
+     "year": 2038,
+     "years_married": 37,
+     "age_him": 70,
+     "age_her": 69,
+     "events": []
+    },
+    {
+     "year": 2039,
+     "years_married": 38,
+     "age_him": 71,
+     "age_her": 70,
+     "events": []
+    },
+    {
+     "year": 2040,
+     "years_married": 39,
+     "age_him": 72,
+     "age_her": 71,
+     "events": []
+    },
+    {
+     "year": 2041,
+     "years_married": 40,
+     "age_him": 73,
+     "age_her": 72,
+     "events": []
+    },
+    {
+     "year": 2042,
+     "years_married": 41,
+     "age_him": 74,
+     "age_her": 73,
+     "events": []
+    },
+    {
+     "year": 2043,
+     "years_married": 42,
+     "age_him": 75,
+     "age_her": 74,
+     "events": []
+    },
+    {
+     "year": 2044,
+     "years_married": 43,
+     "age_him": 76,
+     "age_her": 75,
+     "events": []
+    },
+    {
+     "year": 2045,
+     "years_married": 44,
+     "age_him": 77,
+     "age_her": 76,
+     "events": []
+    },
+    {
+     "year": 2046,
+     "years_married": 45,
+     "age_him": 78,
+     "age_her": 77,
+     "events": []
+    },
+    {
+     "year": 2047,
+     "years_married": 46,
+     "age_him": 79,
+     "age_her": 78,
+     "events": []
+    },
+    {
+     "year": 2048,
+     "years_married": 47,
+     "age_him": 80,
+     "age_her": 79,
+     "events": []
+    },
+    {
+     "year": 2049,
+     "years_married": 48,
+     "age_him": 81,
+     "age_her": 80,
+     "events": []
+    },
+    {
+     "year": 2050,
+     "years_married": 49,
+     "age_him": 82,
+     "age_her": 81,
+     "events": []
+    },
+    {
+     "year": 2051,
+     "years_married": 50,
+     "age_him": 83,
+     "age_her": 82,
+     "events": [
+      "him_dies"
+     ]
+    }
+   ]
+  },
+  "selection": "Lowest seed found whose years married equal the couple median. Typical only by this metric."
+ },
+ {
+  "path": "monica_chandler",
+  "category": "end:both_die",
+  "life": {
+   "version": "rr-v0.1",
+   "path": "monica_chandler",
+   "seed": 1888,
+   "end": "both_die",
+   "years_married": 53,
+   "anniversary_end_year": 2054,
+   "age_him_at_death": 86,
+   "age_her_at_death": 85,
+   "hr": 0.4567,
+   "history": [
+    {
+     "year": 2001,
+     "years_married": 0,
+     "age_him": 33,
+     "age_her": 32,
+     "events": []
+    },
+    {
+     "year": 2002,
+     "years_married": 1,
+     "age_him": 34,
+     "age_her": 33,
+     "events": []
+    },
+    {
+     "year": 2003,
+     "years_married": 2,
+     "age_him": 35,
+     "age_her": 34,
+     "events": []
+    },
+    {
+     "year": 2004,
+     "years_married": 3,
+     "age_him": 36,
+     "age_her": 35,
+     "events": []
+    },
+    {
+     "year": 2005,
+     "years_married": 4,
+     "age_him": 37,
+     "age_her": 36,
+     "events": []
+    },
+    {
+     "year": 2006,
+     "years_married": 5,
+     "age_him": 38,
+     "age_her": 37,
+     "events": []
+    },
+    {
+     "year": 2007,
+     "years_married": 6,
+     "age_him": 39,
+     "age_her": 38,
+     "events": []
+    },
+    {
+     "year": 2008,
+     "years_married": 7,
+     "age_him": 40,
+     "age_her": 39,
+     "events": []
+    },
+    {
+     "year": 2009,
+     "years_married": 8,
+     "age_him": 41,
+     "age_her": 40,
+     "events": []
+    },
+    {
+     "year": 2010,
+     "years_married": 9,
+     "age_him": 42,
+     "age_her": 41,
+     "events": []
+    },
+    {
+     "year": 2011,
+     "years_married": 10,
+     "age_him": 43,
+     "age_her": 42,
+     "events": []
+    },
+    {
+     "year": 2012,
+     "years_married": 11,
+     "age_him": 44,
+     "age_her": 43,
+     "events": []
+    },
+    {
+     "year": 2013,
+     "years_married": 12,
+     "age_him": 45,
+     "age_her": 44,
+     "events": []
+    },
+    {
+     "year": 2014,
+     "years_married": 13,
+     "age_him": 46,
+     "age_her": 45,
+     "events": []
+    },
+    {
+     "year": 2015,
+     "years_married": 14,
+     "age_him": 47,
+     "age_her": 46,
+     "events": []
+    },
+    {
+     "year": 2016,
+     "years_married": 15,
+     "age_him": 48,
+     "age_her": 47,
+     "events": []
+    },
+    {
+     "year": 2017,
+     "years_married": 16,
+     "age_him": 49,
+     "age_her": 48,
+     "events": []
+    },
+    {
+     "year": 2018,
+     "years_married": 17,
+     "age_him": 50,
+     "age_her": 49,
+     "events": []
+    },
+    {
+     "year": 2019,
+     "years_married": 18,
+     "age_him": 51,
+     "age_her": 50,
+     "events": []
+    },
+    {
+     "year": 2020,
+     "years_married": 19,
+     "age_him": 52,
+     "age_her": 51,
+     "events": []
+    },
+    {
+     "year": 2021,
+     "years_married": 20,
+     "age_him": 53,
+     "age_her": 52,
+     "events": []
+    },
+    {
+     "year": 2022,
+     "years_married": 21,
+     "age_him": 54,
+     "age_her": 53,
+     "events": []
+    },
+    {
+     "year": 2023,
+     "years_married": 22,
+     "age_him": 55,
+     "age_her": 54,
+     "events": []
+    },
+    {
+     "year": 2024,
+     "years_married": 23,
+     "age_him": 56,
+     "age_her": 55,
+     "events": []
+    },
+    {
+     "year": 2025,
+     "years_married": 24,
+     "age_him": 57,
+     "age_her": 56,
+     "events": []
+    },
+    {
+     "year": 2026,
+     "years_married": 25,
+     "age_him": 58,
+     "age_her": 57,
+     "events": []
+    },
+    {
+     "year": 2027,
+     "years_married": 26,
+     "age_him": 59,
+     "age_her": 58,
+     "events": []
+    },
+    {
+     "year": 2028,
+     "years_married": 27,
+     "age_him": 60,
+     "age_her": 59,
+     "events": []
+    },
+    {
+     "year": 2029,
+     "years_married": 28,
+     "age_him": 61,
+     "age_her": 60,
+     "events": []
+    },
+    {
+     "year": 2030,
+     "years_married": 29,
+     "age_him": 62,
+     "age_her": 61,
+     "events": []
+    },
+    {
+     "year": 2031,
+     "years_married": 30,
+     "age_him": 63,
+     "age_her": 62,
+     "events": []
+    },
+    {
+     "year": 2032,
+     "years_married": 31,
+     "age_him": 64,
+     "age_her": 63,
+     "events": []
+    },
+    {
+     "year": 2033,
+     "years_married": 32,
+     "age_him": 65,
+     "age_her": 64,
+     "events": []
+    },
+    {
+     "year": 2034,
+     "years_married": 33,
+     "age_him": 66,
+     "age_her": 65,
+     "events": []
+    },
+    {
+     "year": 2035,
+     "years_married": 34,
+     "age_him": 67,
+     "age_her": 66,
+     "events": []
+    },
+    {
+     "year": 2036,
+     "years_married": 35,
+     "age_him": 68,
+     "age_her": 67,
+     "events": []
+    },
+    {
+     "year": 2037,
+     "years_married": 36,
+     "age_him": 69,
+     "age_her": 68,
+     "events": []
+    },
+    {
+     "year": 2038,
+     "years_married": 37,
+     "age_him": 70,
+     "age_her": 69,
+     "events": []
+    },
+    {
+     "year": 2039,
+     "years_married": 38,
+     "age_him": 71,
+     "age_her": 70,
+     "events": []
+    },
+    {
+     "year": 2040,
+     "years_married": 39,
+     "age_him": 72,
+     "age_her": 71,
+     "events": []
+    },
+    {
+     "year": 2041,
+     "years_married": 40,
+     "age_him": 73,
+     "age_her": 72,
+     "events": []
+    },
+    {
+     "year": 2042,
+     "years_married": 41,
+     "age_him": 74,
+     "age_her": 73,
+     "events": []
+    },
+    {
+     "year": 2043,
+     "years_married": 42,
+     "age_him": 75,
+     "age_her": 74,
+     "events": []
+    },
+    {
+     "year": 2044,
+     "years_married": 43,
+     "age_him": 76,
+     "age_her": 75,
+     "events": []
+    },
+    {
+     "year": 2045,
+     "years_married": 44,
+     "age_him": 77,
+     "age_her": 76,
+     "events": []
+    },
+    {
+     "year": 2046,
+     "years_married": 45,
+     "age_him": 78,
+     "age_her": 77,
+     "events": []
+    },
+    {
+     "year": 2047,
+     "years_married": 46,
+     "age_him": 79,
+     "age_her": 78,
+     "events": []
+    },
+    {
+     "year": 2048,
+     "years_married": 47,
+     "age_him": 80,
+     "age_her": 79,
+     "events": []
+    },
+    {
+     "year": 2049,
+     "years_married": 48,
+     "age_him": 81,
+     "age_her": 80,
+     "events": []
+    },
+    {
+     "year": 2050,
+     "years_married": 49,
+     "age_him": 82,
+     "age_her": 81,
+     "events": []
+    },
+    {
+     "year": 2051,
+     "years_married": 50,
+     "age_him": 83,
+     "age_her": 82,
+     "events": []
+    },
+    {
+     "year": 2052,
+     "years_married": 51,
+     "age_him": 84,
+     "age_her": 83,
+     "events": []
+    },
+    {
+     "year": 2053,
+     "years_married": 52,
+     "age_him": 85,
+     "age_her": 84,
+     "events": []
+    },
+    {
+     "year": 2054,
+     "years_married": 53,
+     "age_him": 86,
+     "age_her": 85,
+     "events": [
+      "him_dies",
+      "her_dies"
+     ]
+    }
+   ]
+  },
+  "selection": "Lowest stored seed ending in 'both_die'. Illustration, not typical."
+ },
+ {
+  "path": "monica_chandler",
+  "category": "end:divorce",
+  "life": {
+   "version": "rr-v0.1",
+   "path": "monica_chandler",
+   "seed": 1857,
+   "end": "divorce",
+   "years_married": 7,
+   "anniversary_end_year": 2008,
+   "age_him_at_death": 60,
+   "age_her_at_death": 100,
+   "hr": 0.4567,
+   "history": [
+    {
+     "year": 2001,
+     "years_married": 0,
+     "age_him": 33,
+     "age_her": 32,
+     "events": []
+    },
+    {
+     "year": 2002,
+     "years_married": 1,
+     "age_him": 34,
+     "age_her": 33,
+     "events": []
+    },
+    {
+     "year": 2003,
+     "years_married": 2,
+     "age_him": 35,
+     "age_her": 34,
+     "events": []
+    },
+    {
+     "year": 2004,
+     "years_married": 3,
+     "age_him": 36,
+     "age_her": 35,
+     "events": []
+    },
+    {
+     "year": 2005,
+     "years_married": 4,
+     "age_him": 37,
+     "age_her": 36,
+     "events": []
+    },
+    {
+     "year": 2006,
+     "years_married": 5,
+     "age_him": 38,
+     "age_her": 37,
+     "events": []
+    },
+    {
+     "year": 2007,
+     "years_married": 6,
+     "age_him": 39,
+     "age_her": 38,
+     "events": []
+    },
+    {
+     "year": 2008,
+     "years_married": 7,
+     "age_him": 40,
+     "age_her": 39,
+     "events": [
+      "divorce"
+     ]
+    },
+    {
+     "year": 2009,
+     "years_married": 8,
+     "age_him": 41,
+     "age_her": 40,
+     "events": []
+    },
+    {
+     "year": 2010,
+     "years_married": 9,
+     "age_him": 42,
+     "age_her": 41,
+     "events": []
+    },
+    {
+     "year": 2011,
+     "years_married": 10,
+     "age_him": 43,
+     "age_her": 42,
+     "events": []
+    },
+    {
+     "year": 2012,
+     "years_married": 11,
+     "age_him": 44,
+     "age_her": 43,
+     "events": []
+    },
+    {
+     "year": 2013,
+     "years_married": 12,
+     "age_him": 45,
+     "age_her": 44,
+     "events": []
+    },
+    {
+     "year": 2014,
+     "years_married": 13,
+     "age_him": 46,
+     "age_her": 45,
+     "events": []
+    },
+    {
+     "year": 2015,
+     "years_married": 14,
+     "age_him": 47,
+     "age_her": 46,
+     "events": []
+    },
+    {
+     "year": 2016,
+     "years_married": 15,
+     "age_him": 48,
+     "age_her": 47,
+     "events": []
+    },
+    {
+     "year": 2017,
+     "years_married": 16,
+     "age_him": 49,
+     "age_her": 48,
+     "events": []
+    },
+    {
+     "year": 2018,
+     "years_married": 17,
+     "age_him": 50,
+     "age_her": 49,
+     "events": []
+    },
+    {
+     "year": 2019,
+     "years_married": 18,
+     "age_him": 51,
+     "age_her": 50,
+     "events": []
+    },
+    {
+     "year": 2020,
+     "years_married": 19,
+     "age_him": 52,
+     "age_her": 51,
+     "events": []
+    },
+    {
+     "year": 2021,
+     "years_married": 20,
+     "age_him": 53,
+     "age_her": 52,
+     "events": []
+    },
+    {
+     "year": 2022,
+     "years_married": 21,
+     "age_him": 54,
+     "age_her": 53,
+     "events": []
+    },
+    {
+     "year": 2023,
+     "years_married": 22,
+     "age_him": 55,
+     "age_her": 54,
+     "events": []
+    },
+    {
+     "year": 2024,
+     "years_married": 23,
+     "age_him": 56,
+     "age_her": 55,
+     "events": []
+    },
+    {
+     "year": 2025,
+     "years_married": 24,
+     "age_him": 57,
+     "age_her": 56,
+     "events": []
+    },
+    {
+     "year": 2026,
+     "years_married": 25,
+     "age_him": 58,
+     "age_her": 57,
+     "events": []
+    },
+    {
+     "year": 2027,
+     "years_married": 26,
+     "age_him": 59,
+     "age_her": 58,
+     "events": []
+    },
+    {
+     "year": 2028,
+     "years_married": 27,
+     "age_him": 60,
+     "age_her": 59,
+     "events": [
+      "him_dies"
+     ]
+    },
+    {
+     "year": 2029,
+     "years_married": 28,
+     "age_him": 61,
+     "age_her": 60,
+     "events": []
+    },
+    {
+     "year": 2030,
+     "years_married": 29,
+     "age_him": 62,
+     "age_her": 61,
+     "events": []
+    },
+    {
+     "year": 2031,
+     "years_married": 30,
+     "age_him": 63,
+     "age_her": 62,
+     "events": []
+    },
+    {
+     "year": 2032,
+     "years_married": 31,
+     "age_him": 64,
+     "age_her": 63,
+     "events": []
+    },
+    {
+     "year": 2033,
+     "years_married": 32,
+     "age_him": 65,
+     "age_her": 64,
+     "events": []
+    },
+    {
+     "year": 2034,
+     "years_married": 33,
+     "age_him": 66,
+     "age_her": 65,
+     "events": []
+    },
+    {
+     "year": 2035,
+     "years_married": 34,
+     "age_him": 67,
+     "age_her": 66,
+     "events": []
+    },
+    {
+     "year": 2036,
+     "years_married": 35,
+     "age_him": 68,
+     "age_her": 67,
+     "events": []
+    },
+    {
+     "year": 2037,
+     "years_married": 36,
+     "age_him": 69,
+     "age_her": 68,
+     "events": []
+    },
+    {
+     "year": 2038,
+     "years_married": 37,
+     "age_him": 70,
+     "age_her": 69,
+     "events": []
+    },
+    {
+     "year": 2039,
+     "years_married": 38,
+     "age_him": 71,
+     "age_her": 70,
+     "events": []
+    },
+    {
+     "year": 2040,
+     "years_married": 39,
+     "age_him": 72,
+     "age_her": 71,
+     "events": []
+    },
+    {
+     "year": 2041,
+     "years_married": 40,
+     "age_him": 73,
+     "age_her": 72,
+     "events": []
+    },
+    {
+     "year": 2042,
+     "years_married": 41,
+     "age_him": 74,
+     "age_her": 73,
+     "events": []
+    },
+    {
+     "year": 2043,
+     "years_married": 42,
+     "age_him": 75,
+     "age_her": 74,
+     "events": []
+    },
+    {
+     "year": 2044,
+     "years_married": 43,
+     "age_him": 76,
+     "age_her": 75,
+     "events": []
+    },
+    {
+     "year": 2045,
+     "years_married": 44,
+     "age_him": 77,
+     "age_her": 76,
+     "events": []
+    },
+    {
+     "year": 2046,
+     "years_married": 45,
+     "age_him": 78,
+     "age_her": 77,
+     "events": []
+    },
+    {
+     "year": 2047,
+     "years_married": 46,
+     "age_him": 79,
+     "age_her": 78,
+     "events": []
+    },
+    {
+     "year": 2048,
+     "years_married": 47,
+     "age_him": 80,
+     "age_her": 79,
+     "events": []
+    },
+    {
+     "year": 2049,
+     "years_married": 48,
+     "age_him": 81,
+     "age_her": 80,
+     "events": []
+    },
+    {
+     "year": 2050,
+     "years_married": 49,
+     "age_him": 82,
+     "age_her": 81,
+     "events": []
+    },
+    {
+     "year": 2051,
+     "years_married": 50,
+     "age_him": 83,
+     "age_her": 82,
+     "events": []
+    },
+    {
+     "year": 2052,
+     "years_married": 51,
+     "age_him": 84,
+     "age_her": 83,
+     "events": []
+    },
+    {
+     "year": 2053,
+     "years_married": 52,
+     "age_him": 85,
+     "age_her": 84,
+     "events": []
+    },
+    {
+     "year": 2054,
+     "years_married": 53,
+     "age_him": 86,
+     "age_her": 85,
+     "events": []
+    },
+    {
+     "year": 2055,
+     "years_married": 54,
+     "age_him": 87,
+     "age_her": 86,
+     "events": []
+    },
+    {
+     "year": 2056,
+     "years_married": 55,
+     "age_him": 88,
+     "age_her": 87,
+     "events": []
+    },
+    {
+     "year": 2057,
+     "years_married": 56,
+     "age_him": 89,
+     "age_her": 88,
+     "events": []
+    },
+    {
+     "year": 2058,
+     "years_married": 57,
+     "age_him": 90,
+     "age_her": 89,
+     "events": []
+    },
+    {
+     "year": 2059,
+     "years_married": 58,
+     "age_him": 91,
+     "age_her": 90,
+     "events": []
+    },
+    {
+     "year": 2060,
+     "years_married": 59,
+     "age_him": 92,
+     "age_her": 91,
+     "events": []
+    },
+    {
+     "year": 2061,
+     "years_married": 60,
+     "age_him": 93,
+     "age_her": 92,
+     "events": []
+    },
+    {
+     "year": 2062,
+     "years_married": 61,
+     "age_him": 94,
+     "age_her": 93,
+     "events": []
+    },
+    {
+     "year": 2063,
+     "years_married": 62,
+     "age_him": 95,
+     "age_her": 94,
+     "events": []
+    },
+    {
+     "year": 2064,
+     "years_married": 63,
+     "age_him": 96,
+     "age_her": 95,
+     "events": []
+    },
+    {
+     "year": 2065,
+     "years_married": 64,
+     "age_him": 97,
+     "age_her": 96,
+     "events": []
+    },
+    {
+     "year": 2066,
+     "years_married": 65,
+     "age_him": 98,
+     "age_her": 97,
+     "events": []
+    },
+    {
+     "year": 2067,
+     "years_married": 66,
+     "age_him": 99,
+     "age_her": 98,
+     "events": []
+    },
+    {
+     "year": 2068,
+     "years_married": 67,
+     "age_him": 100,
+     "age_her": 99,
+     "events": []
+    },
+    {
+     "year": 2069,
+     "years_married": 68,
+     "age_him": 101,
+     "age_her": 100,
+     "events": [
+      "her_dies"
+     ]
+    }
+   ]
+  },
+  "selection": "Lowest stored seed ending in 'divorce'. Illustration, not typical."
+ },
+ {
+  "path": "monica_chandler",
+  "category": "end:widow",
+  "life": {
+   "version": "rr-v0.1",
+   "path": "monica_chandler",
+   "seed": 1849,
+   "end": "widow",
+   "years_married": 47,
+   "anniversary_end_year": 2048,
+   "age_him_at_death": 80,
+   "age_her_at_death": 99,
+   "hr": 0.4567,
+   "history": [
+    {
+     "year": 2001,
+     "years_married": 0,
+     "age_him": 33,
+     "age_her": 32,
+     "events": []
+    },
+    {
+     "year": 2002,
+     "years_married": 1,
+     "age_him": 34,
+     "age_her": 33,
+     "events": []
+    },
+    {
+     "year": 2003,
+     "years_married": 2,
+     "age_him": 35,
+     "age_her": 34,
+     "events": []
+    },
+    {
+     "year": 2004,
+     "years_married": 3,
+     "age_him": 36,
+     "age_her": 35,
+     "events": []
+    },
+    {
+     "year": 2005,
+     "years_married": 4,
+     "age_him": 37,
+     "age_her": 36,
+     "events": []
+    },
+    {
+     "year": 2006,
+     "years_married": 5,
+     "age_him": 38,
+     "age_her": 37,
+     "events": []
+    },
+    {
+     "year": 2007,
+     "years_married": 6,
+     "age_him": 39,
+     "age_her": 38,
+     "events": []
+    },
+    {
+     "year": 2008,
+     "years_married": 7,
+     "age_him": 40,
+     "age_her": 39,
+     "events": []
+    },
+    {
+     "year": 2009,
+     "years_married": 8,
+     "age_him": 41,
+     "age_her": 40,
+     "events": []
+    },
+    {
+     "year": 2010,
+     "years_married": 9,
+     "age_him": 42,
+     "age_her": 41,
+     "events": []
+    },
+    {
+     "year": 2011,
+     "years_married": 10,
+     "age_him": 43,
+     "age_her": 42,
+     "events": []
+    },
+    {
+     "year": 2012,
+     "years_married": 11,
+     "age_him": 44,
+     "age_her": 43,
+     "events": []
+    },
+    {
+     "year": 2013,
+     "years_married": 12,
+     "age_him": 45,
+     "age_her": 44,
+     "events": []
+    },
+    {
+     "year": 2014,
+     "years_married": 13,
+     "age_him": 46,
+     "age_her": 45,
+     "events": []
+    },
+    {
+     "year": 2015,
+     "years_married": 14,
+     "age_him": 47,
+     "age_her": 46,
+     "events": []
+    },
+    {
+     "year": 2016,
+     "years_married": 15,
+     "age_him": 48,
+     "age_her": 47,
+     "events": []
+    },
+    {
+     "year": 2017,
+     "years_married": 16,
+     "age_him": 49,
+     "age_her": 48,
+     "events": []
+    },
+    {
+     "year": 2018,
+     "years_married": 17,
+     "age_him": 50,
+     "age_her": 49,
+     "events": []
+    },
+    {
+     "year": 2019,
+     "years_married": 18,
+     "age_him": 51,
+     "age_her": 50,
+     "events": []
+    },
+    {
+     "year": 2020,
+     "years_married": 19,
+     "age_him": 52,
+     "age_her": 51,
+     "events": []
+    },
+    {
+     "year": 2021,
+     "years_married": 20,
+     "age_him": 53,
+     "age_her": 52,
+     "events": []
+    },
+    {
+     "year": 2022,
+     "years_married": 21,
+     "age_him": 54,
+     "age_her": 53,
+     "events": []
+    },
+    {
+     "year": 2023,
+     "years_married": 22,
+     "age_him": 55,
+     "age_her": 54,
+     "events": []
+    },
+    {
+     "year": 2024,
+     "years_married": 23,
+     "age_him": 56,
+     "age_her": 55,
+     "events": []
+    },
+    {
+     "year": 2025,
+     "years_married": 24,
+     "age_him": 57,
+     "age_her": 56,
+     "events": []
+    },
+    {
+     "year": 2026,
+     "years_married": 25,
+     "age_him": 58,
+     "age_her": 57,
+     "events": []
+    },
+    {
+     "year": 2027,
+     "years_married": 26,
+     "age_him": 59,
+     "age_her": 58,
+     "events": []
+    },
+    {
+     "year": 2028,
+     "years_married": 27,
+     "age_him": 60,
+     "age_her": 59,
+     "events": []
+    },
+    {
+     "year": 2029,
+     "years_married": 28,
+     "age_him": 61,
+     "age_her": 60,
+     "events": []
+    },
+    {
+     "year": 2030,
+     "years_married": 29,
+     "age_him": 62,
+     "age_her": 61,
+     "events": []
+    },
+    {
+     "year": 2031,
+     "years_married": 30,
+     "age_him": 63,
+     "age_her": 62,
+     "events": []
+    },
+    {
+     "year": 2032,
+     "years_married": 31,
+     "age_him": 64,
+     "age_her": 63,
+     "events": []
+    },
+    {
+     "year": 2033,
+     "years_married": 32,
+     "age_him": 65,
+     "age_her": 64,
+     "events": []
+    },
+    {
+     "year": 2034,
+     "years_married": 33,
+     "age_him": 66,
+     "age_her": 65,
+     "events": []
+    },
+    {
+     "year": 2035,
+     "years_married": 34,
+     "age_him": 67,
+     "age_her": 66,
+     "events": []
+    },
+    {
+     "year": 2036,
+     "years_married": 35,
+     "age_him": 68,
+     "age_her": 67,
+     "events": []
+    },
+    {
+     "year": 2037,
+     "years_married": 36,
+     "age_him": 69,
+     "age_her": 68,
+     "events": []
+    },
+    {
+     "year": 2038,
+     "years_married": 37,
+     "age_him": 70,
+     "age_her": 69,
+     "events": []
+    },
+    {
+     "year": 2039,
+     "years_married": 38,
+     "age_him": 71,
+     "age_her": 70,
+     "events": []
+    },
+    {
+     "year": 2040,
+     "years_married": 39,
+     "age_him": 72,
+     "age_her": 71,
+     "events": []
+    },
+    {
+     "year": 2041,
+     "years_married": 40,
+     "age_him": 73,
+     "age_her": 72,
+     "events": []
+    },
+    {
+     "year": 2042,
+     "years_married": 41,
+     "age_him": 74,
+     "age_her": 73,
+     "events": []
+    },
+    {
+     "year": 2043,
+     "years_married": 42,
+     "age_him": 75,
+     "age_her": 74,
+     "events": []
+    },
+    {
+     "year": 2044,
+     "years_married": 43,
+     "age_him": 76,
+     "age_her": 75,
+     "events": []
+    },
+    {
+     "year": 2045,
+     "years_married": 44,
+     "age_him": 77,
+     "age_her": 76,
+     "events": []
+    },
+    {
+     "year": 2046,
+     "years_married": 45,
+     "age_him": 78,
+     "age_her": 77,
+     "events": []
+    },
+    {
+     "year": 2047,
+     "years_married": 46,
+     "age_him": 79,
+     "age_her": 78,
+     "events": []
+    },
+    {
+     "year": 2048,
+     "years_married": 47,
+     "age_him": 80,
+     "age_her": 79,
+     "events": [
+      "him_dies"
+     ]
+    },
+    {
+     "year": 2049,
+     "years_married": 48,
+     "age_him": 81,
+     "age_her": 80,
+     "events": []
+    },
+    {
+     "year": 2050,
+     "years_married": 49,
+     "age_him": 82,
+     "age_her": 81,
+     "events": []
+    },
+    {
+     "year": 2051,
+     "years_married": 50,
+     "age_him": 83,
+     "age_her": 82,
+     "events": []
+    },
+    {
+     "year": 2052,
+     "years_married": 51,
+     "age_him": 84,
+     "age_her": 83,
+     "events": []
+    },
+    {
+     "year": 2053,
+     "years_married": 52,
+     "age_him": 85,
+     "age_her": 84,
+     "events": []
+    },
+    {
+     "year": 2054,
+     "years_married": 53,
+     "age_him": 86,
+     "age_her": 85,
+     "events": []
+    },
+    {
+     "year": 2055,
+     "years_married": 54,
+     "age_him": 87,
+     "age_her": 86,
+     "events": []
+    },
+    {
+     "year": 2056,
+     "years_married": 55,
+     "age_him": 88,
+     "age_her": 87,
+     "events": []
+    },
+    {
+     "year": 2057,
+     "years_married": 56,
+     "age_him": 89,
+     "age_her": 88,
+     "events": []
+    },
+    {
+     "year": 2058,
+     "years_married": 57,
+     "age_him": 90,
+     "age_her": 89,
+     "events": []
+    },
+    {
+     "year": 2059,
+     "years_married": 58,
+     "age_him": 91,
+     "age_her": 90,
+     "events": []
+    },
+    {
+     "year": 2060,
+     "years_married": 59,
+     "age_him": 92,
+     "age_her": 91,
+     "events": []
+    },
+    {
+     "year": 2061,
+     "years_married": 60,
+     "age_him": 93,
+     "age_her": 92,
+     "events": []
+    },
+    {
+     "year": 2062,
+     "years_married": 61,
+     "age_him": 94,
+     "age_her": 93,
+     "events": []
+    },
+    {
+     "year": 2063,
+     "years_married": 62,
+     "age_him": 95,
+     "age_her": 94,
+     "events": []
+    },
+    {
+     "year": 2064,
+     "years_married": 63,
+     "age_him": 96,
+     "age_her": 95,
+     "events": []
+    },
+    {
+     "year": 2065,
+     "years_married": 64,
+     "age_him": 97,
+     "age_her": 96,
+     "events": []
+    },
+    {
+     "year": 2066,
+     "years_married": 65,
+     "age_him": 98,
+     "age_her": 97,
+     "events": []
+    },
+    {
+     "year": 2067,
+     "years_married": 66,
+     "age_him": 99,
+     "age_her": 98,
+     "events": []
+    },
+    {
+     "year": 2068,
+     "years_married": 67,
+     "age_him": 100,
+     "age_her": 99,
+     "events": [
+      "her_dies"
+     ]
+    }
+   ]
+  },
+  "selection": "Lowest stored seed ending in 'widow'. Illustration, not typical."
+ },
+ {
+  "path": "monica_chandler",
+  "category": "end:widower",
+  "life": {
+   "version": "rr-v0.1",
+   "path": "monica_chandler",
+   "seed": 1852,
+   "end": "widower",
+   "years_married": 49,
+   "anniversary_end_year": 2050,
+   "age_him_at_death": 92,
+   "age_her_at_death": 81,
+   "hr": 0.4567,
+   "history": [
+    {
+     "year": 2001,
+     "years_married": 0,
+     "age_him": 33,
+     "age_her": 32,
+     "events": []
+    },
+    {
+     "year": 2002,
+     "years_married": 1,
+     "age_him": 34,
+     "age_her": 33,
+     "events": []
+    },
+    {
+     "year": 2003,
+     "years_married": 2,
+     "age_him": 35,
+     "age_her": 34,
+     "events": []
+    },
+    {
+     "year": 2004,
+     "years_married": 3,
+     "age_him": 36,
+     "age_her": 35,
+     "events": []
+    },
+    {
+     "year": 2005,
+     "years_married": 4,
+     "age_him": 37,
+     "age_her": 36,
+     "events": []
+    },
+    {
+     "year": 2006,
+     "years_married": 5,
+     "age_him": 38,
+     "age_her": 37,
+     "events": []
+    },
+    {
+     "year": 2007,
+     "years_married": 6,
+     "age_him": 39,
+     "age_her": 38,
+     "events": []
+    },
+    {
+     "year": 2008,
+     "years_married": 7,
+     "age_him": 40,
+     "age_her": 39,
+     "events": []
+    },
+    {
+     "year": 2009,
+     "years_married": 8,
+     "age_him": 41,
+     "age_her": 40,
+     "events": []
+    },
+    {
+     "year": 2010,
+     "years_married": 9,
+     "age_him": 42,
+     "age_her": 41,
+     "events": []
+    },
+    {
+     "year": 2011,
+     "years_married": 10,
+     "age_him": 43,
+     "age_her": 42,
+     "events": []
+    },
+    {
+     "year": 2012,
+     "years_married": 11,
+     "age_him": 44,
+     "age_her": 43,
+     "events": []
+    },
+    {
+     "year": 2013,
+     "years_married": 12,
+     "age_him": 45,
+     "age_her": 44,
+     "events": []
+    },
+    {
+     "year": 2014,
+     "years_married": 13,
+     "age_him": 46,
+     "age_her": 45,
+     "events": []
+    },
+    {
+     "year": 2015,
+     "years_married": 14,
+     "age_him": 47,
+     "age_her": 46,
+     "events": []
+    },
+    {
+     "year": 2016,
+     "years_married": 15,
+     "age_him": 48,
+     "age_her": 47,
+     "events": []
+    },
+    {
+     "year": 2017,
+     "years_married": 16,
+     "age_him": 49,
+     "age_her": 48,
+     "events": []
+    },
+    {
+     "year": 2018,
+     "years_married": 17,
+     "age_him": 50,
+     "age_her": 49,
+     "events": []
+    },
+    {
+     "year": 2019,
+     "years_married": 18,
+     "age_him": 51,
+     "age_her": 50,
+     "events": []
+    },
+    {
+     "year": 2020,
+     "years_married": 19,
+     "age_him": 52,
+     "age_her": 51,
+     "events": []
+    },
+    {
+     "year": 2021,
+     "years_married": 20,
+     "age_him": 53,
+     "age_her": 52,
+     "events": []
+    },
+    {
+     "year": 2022,
+     "years_married": 21,
+     "age_him": 54,
+     "age_her": 53,
+     "events": []
+    },
+    {
+     "year": 2023,
+     "years_married": 22,
+     "age_him": 55,
+     "age_her": 54,
+     "events": []
+    },
+    {
+     "year": 2024,
+     "years_married": 23,
+     "age_him": 56,
+     "age_her": 55,
+     "events": []
+    },
+    {
+     "year": 2025,
+     "years_married": 24,
+     "age_him": 57,
+     "age_her": 56,
+     "events": []
+    },
+    {
+     "year": 2026,
+     "years_married": 25,
+     "age_him": 58,
+     "age_her": 57,
+     "events": []
+    },
+    {
+     "year": 2027,
+     "years_married": 26,
+     "age_him": 59,
+     "age_her": 58,
+     "events": []
+    },
+    {
+     "year": 2028,
+     "years_married": 27,
+     "age_him": 60,
+     "age_her": 59,
+     "events": []
+    },
+    {
+     "year": 2029,
+     "years_married": 28,
+     "age_him": 61,
+     "age_her": 60,
+     "events": []
+    },
+    {
+     "year": 2030,
+     "years_married": 29,
+     "age_him": 62,
+     "age_her": 61,
+     "events": []
+    },
+    {
+     "year": 2031,
+     "years_married": 30,
+     "age_him": 63,
+     "age_her": 62,
+     "events": []
+    },
+    {
+     "year": 2032,
+     "years_married": 31,
+     "age_him": 64,
+     "age_her": 63,
+     "events": []
+    },
+    {
+     "year": 2033,
+     "years_married": 32,
+     "age_him": 65,
+     "age_her": 64,
+     "events": []
+    },
+    {
+     "year": 2034,
+     "years_married": 33,
+     "age_him": 66,
+     "age_her": 65,
+     "events": []
+    },
+    {
+     "year": 2035,
+     "years_married": 34,
+     "age_him": 67,
+     "age_her": 66,
+     "events": []
+    },
+    {
+     "year": 2036,
+     "years_married": 35,
+     "age_him": 68,
+     "age_her": 67,
+     "events": []
+    },
+    {
+     "year": 2037,
+     "years_married": 36,
+     "age_him": 69,
+     "age_her": 68,
+     "events": []
+    },
+    {
+     "year": 2038,
+     "years_married": 37,
+     "age_him": 70,
+     "age_her": 69,
+     "events": []
+    },
+    {
+     "year": 2039,
+     "years_married": 38,
+     "age_him": 71,
+     "age_her": 70,
+     "events": []
+    },
+    {
+     "year": 2040,
+     "years_married": 39,
+     "age_him": 72,
+     "age_her": 71,
+     "events": []
+    },
+    {
+     "year": 2041,
+     "years_married": 40,
+     "age_him": 73,
+     "age_her": 72,
+     "events": []
+    },
+    {
+     "year": 2042,
+     "years_married": 41,
+     "age_him": 74,
+     "age_her": 73,
+     "events": []
+    },
+    {
+     "year": 2043,
+     "years_married": 42,
+     "age_him": 75,
+     "age_her": 74,
+     "events": []
+    },
+    {
+     "year": 2044,
+     "years_married": 43,
+     "age_him": 76,
+     "age_her": 75,
+     "events": []
+    },
+    {
+     "year": 2045,
+     "years_married": 44,
+     "age_him": 77,
+     "age_her": 76,
+     "events": []
+    },
+    {
+     "year": 2046,
+     "years_married": 45,
+     "age_him": 78,
+     "age_her": 77,
+     "events": []
+    },
+    {
+     "year": 2047,
+     "years_married": 46,
+     "age_him": 79,
+     "age_her": 78,
+     "events": []
+    },
+    {
+     "year": 2048,
+     "years_married": 47,
+     "age_him": 80,
+     "age_her": 79,
+     "events": []
+    },
+    {
+     "year": 2049,
+     "years_married": 48,
+     "age_him": 81,
+     "age_her": 80,
+     "events": []
+    },
+    {
+     "year": 2050,
+     "years_married": 49,
+     "age_him": 82,
+     "age_her": 81,
+     "events": [
+      "her_dies"
+     ]
+    },
+    {
+     "year": 2051,
+     "years_married": 50,
+     "age_him": 83,
+     "age_her": 82,
+     "events": []
+    },
+    {
+     "year": 2052,
+     "years_married": 51,
+     "age_him": 84,
+     "age_her": 83,
+     "events": []
+    },
+    {
+     "year": 2053,
+     "years_married": 52,
+     "age_him": 85,
+     "age_her": 84,
+     "events": []
+    },
+    {
+     "year": 2054,
+     "years_married": 53,
+     "age_him": 86,
+     "age_her": 85,
+     "events": []
+    },
+    {
+     "year": 2055,
+     "years_married": 54,
+     "age_him": 87,
+     "age_her": 86,
+     "events": []
+    },
+    {
+     "year": 2056,
+     "years_married": 55,
+     "age_him": 88,
+     "age_her": 87,
+     "events": []
+    },
+    {
+     "year": 2057,
+     "years_married": 56,
+     "age_him": 89,
+     "age_her": 88,
+     "events": []
+    },
+    {
+     "year": 2058,
+     "years_married": 57,
+     "age_him": 90,
+     "age_her": 89,
+     "events": []
+    },
+    {
+     "year": 2059,
+     "years_married": 58,
+     "age_him": 91,
+     "age_her": 90,
+     "events": []
+    },
+    {
+     "year": 2060,
+     "years_married": 59,
+     "age_him": 92,
+     "age_her": 91,
+     "events": [
+      "him_dies"
+     ]
+    }
+   ]
+  },
+  "selection": "Lowest stored seed ending in 'widower'. Illustration, not typical."
+ },
+ {
+  "path": "phoebe_mike",
+  "category": "median_years_married",
+  "life": {
+   "version": "rr-v0.1",
+   "path": "phoebe_mike",
+   "seed": 101860,
+   "end": "widower",
+   "years_married": 25,
+   "anniversary_end_year": 2029,
+   "age_him_at_death": 68,
+   "age_her_at_death": 61,
+   "hr": 0.6511,
+   "history": [
+    {
+     "year": 2004,
+     "years_married": 0,
+     "age_him": 35,
+     "age_her": 36,
+     "events": []
+    },
+    {
+     "year": 2005,
+     "years_married": 1,
+     "age_him": 36,
+     "age_her": 37,
+     "events": []
+    },
+    {
+     "year": 2006,
+     "years_married": 2,
+     "age_him": 37,
+     "age_her": 38,
+     "events": []
+    },
+    {
+     "year": 2007,
+     "years_married": 3,
+     "age_him": 38,
+     "age_her": 39,
+     "events": []
+    },
+    {
+     "year": 2008,
+     "years_married": 4,
+     "age_him": 39,
+     "age_her": 40,
+     "events": []
+    },
+    {
+     "year": 2009,
+     "years_married": 5,
+     "age_him": 40,
+     "age_her": 41,
+     "events": []
+    },
+    {
+     "year": 2010,
+     "years_married": 6,
+     "age_him": 41,
+     "age_her": 42,
+     "events": []
+    },
+    {
+     "year": 2011,
+     "years_married": 7,
+     "age_him": 42,
+     "age_her": 43,
+     "events": []
+    },
+    {
+     "year": 2012,
+     "years_married": 8,
+     "age_him": 43,
+     "age_her": 44,
+     "events": []
+    },
+    {
+     "year": 2013,
+     "years_married": 9,
+     "age_him": 44,
+     "age_her": 45,
+     "events": []
+    },
+    {
+     "year": 2014,
+     "years_married": 10,
+     "age_him": 45,
+     "age_her": 46,
+     "events": []
+    },
+    {
+     "year": 2015,
+     "years_married": 11,
+     "age_him": 46,
+     "age_her": 47,
+     "events": []
+    },
+    {
+     "year": 2016,
+     "years_married": 12,
+     "age_him": 47,
+     "age_her": 48,
+     "events": []
+    },
+    {
+     "year": 2017,
+     "years_married": 13,
+     "age_him": 48,
+     "age_her": 49,
+     "events": []
+    },
+    {
+     "year": 2018,
+     "years_married": 14,
+     "age_him": 49,
+     "age_her": 50,
+     "events": []
+    },
+    {
+     "year": 2019,
+     "years_married": 15,
+     "age_him": 50,
+     "age_her": 51,
+     "events": []
+    },
+    {
+     "year": 2020,
+     "years_married": 16,
+     "age_him": 51,
+     "age_her": 52,
+     "events": []
+    },
+    {
+     "year": 2021,
+     "years_married": 17,
+     "age_him": 52,
+     "age_her": 53,
+     "events": []
+    },
+    {
+     "year": 2022,
+     "years_married": 18,
+     "age_him": 53,
+     "age_her": 54,
+     "events": []
+    },
+    {
+     "year": 2023,
+     "years_married": 19,
+     "age_him": 54,
+     "age_her": 55,
+     "events": []
+    },
+    {
+     "year": 2024,
+     "years_married": 20,
+     "age_him": 55,
+     "age_her": 56,
+     "events": []
+    },
+    {
+     "year": 2025,
+     "years_married": 21,
+     "age_him": 56,
+     "age_her": 57,
+     "events": []
+    },
+    {
+     "year": 2026,
+     "years_married": 22,
+     "age_him": 57,
+     "age_her": 58,
+     "events": []
+    },
+    {
+     "year": 2027,
+     "years_married": 23,
+     "age_him": 58,
+     "age_her": 59,
+     "events": []
+    },
+    {
+     "year": 2028,
+     "years_married": 24,
+     "age_him": 59,
+     "age_her": 60,
+     "events": []
+    },
+    {
+     "year": 2029,
+     "years_married": 25,
+     "age_him": 60,
+     "age_her": 61,
+     "events": [
+      "her_dies"
+     ]
+    },
+    {
+     "year": 2030,
+     "years_married": 26,
+     "age_him": 61,
+     "age_her": 62,
+     "events": []
+    },
+    {
+     "year": 2031,
+     "years_married": 27,
+     "age_him": 62,
+     "age_her": 63,
+     "events": []
+    },
+    {
+     "year": 2032,
+     "years_married": 28,
+     "age_him": 63,
+     "age_her": 64,
+     "events": []
+    },
+    {
+     "year": 2033,
+     "years_married": 29,
+     "age_him": 64,
+     "age_her": 65,
+     "events": []
+    },
+    {
+     "year": 2034,
+     "years_married": 30,
+     "age_him": 65,
+     "age_her": 66,
+     "events": []
+    },
+    {
+     "year": 2035,
+     "years_married": 31,
+     "age_him": 66,
+     "age_her": 67,
+     "events": []
+    },
+    {
+     "year": 2036,
+     "years_married": 32,
+     "age_him": 67,
+     "age_her": 68,
+     "events": []
+    },
+    {
+     "year": 2037,
+     "years_married": 33,
+     "age_him": 68,
+     "age_her": 69,
+     "events": [
+      "him_dies"
+     ]
+    }
+   ]
+  },
+  "selection": "Lowest seed found whose years married equal the couple median. Typical only by this metric."
+ },
+ {
+  "path": "phoebe_mike",
+  "category": "end:both_die",
+  "life": {
+   "version": "rr-v0.1",
+   "path": "phoebe_mike",
+   "seed": 1850,
+   "end": "both_die",
+   "years_married": 60,
+   "anniversary_end_year": 2064,
+   "age_him_at_death": 95,
+   "age_her_at_death": 96,
+   "hr": 0.6511,
+   "history": [
+    {
+     "year": 2004,
+     "years_married": 0,
+     "age_him": 35,
+     "age_her": 36,
+     "events": []
+    },
+    {
+     "year": 2005,
+     "years_married": 1,
+     "age_him": 36,
+     "age_her": 37,
+     "events": []
+    },
+    {
+     "year": 2006,
+     "years_married": 2,
+     "age_him": 37,
+     "age_her": 38,
+     "events": []
+    },
+    {
+     "year": 2007,
+     "years_married": 3,
+     "age_him": 38,
+     "age_her": 39,
+     "events": []
+    },
+    {
+     "year": 2008,
+     "years_married": 4,
+     "age_him": 39,
+     "age_her": 40,
+     "events": []
+    },
+    {
+     "year": 2009,
+     "years_married": 5,
+     "age_him": 40,
+     "age_her": 41,
+     "events": []
+    },
+    {
+     "year": 2010,
+     "years_married": 6,
+     "age_him": 41,
+     "age_her": 42,
+     "events": []
+    },
+    {
+     "year": 2011,
+     "years_married": 7,
+     "age_him": 42,
+     "age_her": 43,
+     "events": []
+    },
+    {
+     "year": 2012,
+     "years_married": 8,
+     "age_him": 43,
+     "age_her": 44,
+     "events": []
+    },
+    {
+     "year": 2013,
+     "years_married": 9,
+     "age_him": 44,
+     "age_her": 45,
+     "events": []
+    },
+    {
+     "year": 2014,
+     "years_married": 10,
+     "age_him": 45,
+     "age_her": 46,
+     "events": []
+    },
+    {
+     "year": 2015,
+     "years_married": 11,
+     "age_him": 46,
+     "age_her": 47,
+     "events": []
+    },
+    {
+     "year": 2016,
+     "years_married": 12,
+     "age_him": 47,
+     "age_her": 48,
+     "events": []
+    },
+    {
+     "year": 2017,
+     "years_married": 13,
+     "age_him": 48,
+     "age_her": 49,
+     "events": []
+    },
+    {
+     "year": 2018,
+     "years_married": 14,
+     "age_him": 49,
+     "age_her": 50,
+     "events": []
+    },
+    {
+     "year": 2019,
+     "years_married": 15,
+     "age_him": 50,
+     "age_her": 51,
+     "events": []
+    },
+    {
+     "year": 2020,
+     "years_married": 16,
+     "age_him": 51,
+     "age_her": 52,
+     "events": []
+    },
+    {
+     "year": 2021,
+     "years_married": 17,
+     "age_him": 52,
+     "age_her": 53,
+     "events": []
+    },
+    {
+     "year": 2022,
+     "years_married": 18,
+     "age_him": 53,
+     "age_her": 54,
+     "events": []
+    },
+    {
+     "year": 2023,
+     "years_married": 19,
+     "age_him": 54,
+     "age_her": 55,
+     "events": []
+    },
+    {
+     "year": 2024,
+     "years_married": 20,
+     "age_him": 55,
+     "age_her": 56,
+     "events": []
+    },
+    {
+     "year": 2025,
+     "years_married": 21,
+     "age_him": 56,
+     "age_her": 57,
+     "events": []
+    },
+    {
+     "year": 2026,
+     "years_married": 22,
+     "age_him": 57,
+     "age_her": 58,
+     "events": []
+    },
+    {
+     "year": 2027,
+     "years_married": 23,
+     "age_him": 58,
+     "age_her": 59,
+     "events": []
+    },
+    {
+     "year": 2028,
+     "years_married": 24,
+     "age_him": 59,
+     "age_her": 60,
+     "events": []
+    },
+    {
+     "year": 2029,
+     "years_married": 25,
+     "age_him": 60,
+     "age_her": 61,
+     "events": []
+    },
+    {
+     "year": 2030,
+     "years_married": 26,
+     "age_him": 61,
+     "age_her": 62,
+     "events": []
+    },
+    {
+     "year": 2031,
+     "years_married": 27,
+     "age_him": 62,
+     "age_her": 63,
+     "events": []
+    },
+    {
+     "year": 2032,
+     "years_married": 28,
+     "age_him": 63,
+     "age_her": 64,
+     "events": []
+    },
+    {
+     "year": 2033,
+     "years_married": 29,
+     "age_him": 64,
+     "age_her": 65,
+     "events": []
+    },
+    {
+     "year": 2034,
+     "years_married": 30,
+     "age_him": 65,
+     "age_her": 66,
+     "events": []
+    },
+    {
+     "year": 2035,
+     "years_married": 31,
+     "age_him": 66,
+     "age_her": 67,
+     "events": []
+    },
+    {
+     "year": 2036,
+     "years_married": 32,
+     "age_him": 67,
+     "age_her": 68,
+     "events": []
+    },
+    {
+     "year": 2037,
+     "years_married": 33,
+     "age_him": 68,
+     "age_her": 69,
+     "events": []
+    },
+    {
+     "year": 2038,
+     "years_married": 34,
+     "age_him": 69,
+     "age_her": 70,
+     "events": []
+    },
+    {
+     "year": 2039,
+     "years_married": 35,
+     "age_him": 70,
+     "age_her": 71,
+     "events": []
+    },
+    {
+     "year": 2040,
+     "years_married": 36,
+     "age_him": 71,
+     "age_her": 72,
+     "events": []
+    },
+    {
+     "year": 2041,
+     "years_married": 37,
+     "age_him": 72,
+     "age_her": 73,
+     "events": []
+    },
+    {
+     "year": 2042,
+     "years_married": 38,
+     "age_him": 73,
+     "age_her": 74,
+     "events": []
+    },
+    {
+     "year": 2043,
+     "years_married": 39,
+     "age_him": 74,
+     "age_her": 75,
+     "events": []
+    },
+    {
+     "year": 2044,
+     "years_married": 40,
+     "age_him": 75,
+     "age_her": 76,
+     "events": []
+    },
+    {
+     "year": 2045,
+     "years_married": 41,
+     "age_him": 76,
+     "age_her": 77,
+     "events": []
+    },
+    {
+     "year": 2046,
+     "years_married": 42,
+     "age_him": 77,
+     "age_her": 78,
+     "events": []
+    },
+    {
+     "year": 2047,
+     "years_married": 43,
+     "age_him": 78,
+     "age_her": 79,
+     "events": []
+    },
+    {
+     "year": 2048,
+     "years_married": 44,
+     "age_him": 79,
+     "age_her": 80,
+     "events": []
+    },
+    {
+     "year": 2049,
+     "years_married": 45,
+     "age_him": 80,
+     "age_her": 81,
+     "events": []
+    },
+    {
+     "year": 2050,
+     "years_married": 46,
+     "age_him": 81,
+     "age_her": 82,
+     "events": []
+    },
+    {
+     "year": 2051,
+     "years_married": 47,
+     "age_him": 82,
+     "age_her": 83,
+     "events": []
+    },
+    {
+     "year": 2052,
+     "years_married": 48,
+     "age_him": 83,
+     "age_her": 84,
+     "events": []
+    },
+    {
+     "year": 2053,
+     "years_married": 49,
+     "age_him": 84,
+     "age_her": 85,
+     "events": []
+    },
+    {
+     "year": 2054,
+     "years_married": 50,
+     "age_him": 85,
+     "age_her": 86,
+     "events": []
+    },
+    {
+     "year": 2055,
+     "years_married": 51,
+     "age_him": 86,
+     "age_her": 87,
+     "events": []
+    },
+    {
+     "year": 2056,
+     "years_married": 52,
+     "age_him": 87,
+     "age_her": 88,
+     "events": []
+    },
+    {
+     "year": 2057,
+     "years_married": 53,
+     "age_him": 88,
+     "age_her": 89,
+     "events": []
+    },
+    {
+     "year": 2058,
+     "years_married": 54,
+     "age_him": 89,
+     "age_her": 90,
+     "events": []
+    },
+    {
+     "year": 2059,
+     "years_married": 55,
+     "age_him": 90,
+     "age_her": 91,
+     "events": []
+    },
+    {
+     "year": 2060,
+     "years_married": 56,
+     "age_him": 91,
+     "age_her": 92,
+     "events": []
+    },
+    {
+     "year": 2061,
+     "years_married": 57,
+     "age_him": 92,
+     "age_her": 93,
+     "events": []
+    },
+    {
+     "year": 2062,
+     "years_married": 58,
+     "age_him": 93,
+     "age_her": 94,
+     "events": []
+    },
+    {
+     "year": 2063,
+     "years_married": 59,
+     "age_him": 94,
+     "age_her": 95,
+     "events": []
+    },
+    {
+     "year": 2064,
+     "years_married": 60,
+     "age_him": 95,
+     "age_her": 96,
+     "events": [
+      "him_dies",
+      "her_dies"
+     ]
+    }
+   ]
+  },
+  "selection": "Lowest stored seed ending in 'both_die'. Illustration, not typical."
+ },
+ {
+  "path": "phoebe_mike",
+  "category": "end:divorce",
+  "life": {
+   "version": "rr-v0.1",
+   "path": "phoebe_mike",
+   "seed": 1849,
+   "end": "divorce",
+   "years_married": 2,
+   "anniversary_end_year": 2006,
+   "age_him_at_death": 95,
+   "age_her_at_death": 79,
+   "hr": 0.6511,
+   "history": [
+    {
+     "year": 2004,
+     "years_married": 0,
+     "age_him": 35,
+     "age_her": 36,
+     "events": []
+    },
+    {
+     "year": 2005,
+     "years_married": 1,
+     "age_him": 36,
+     "age_her": 37,
+     "events": []
+    },
+    {
+     "year": 2006,
+     "years_married": 2,
+     "age_him": 37,
+     "age_her": 38,
+     "events": [
+      "divorce"
+     ]
+    },
+    {
+     "year": 2007,
+     "years_married": 3,
+     "age_him": 38,
+     "age_her": 39,
+     "events": []
+    },
+    {
+     "year": 2008,
+     "years_married": 4,
+     "age_him": 39,
+     "age_her": 40,
+     "events": []
+    },
+    {
+     "year": 2009,
+     "years_married": 5,
+     "age_him": 40,
+     "age_her": 41,
+     "events": []
+    },
+    {
+     "year": 2010,
+     "years_married": 6,
+     "age_him": 41,
+     "age_her": 42,
+     "events": []
+    },
+    {
+     "year": 2011,
+     "years_married": 7,
+     "age_him": 42,
+     "age_her": 43,
+     "events": []
+    },
+    {
+     "year": 2012,
+     "years_married": 8,
+     "age_him": 43,
+     "age_her": 44,
+     "events": []
+    },
+    {
+     "year": 2013,
+     "years_married": 9,
+     "age_him": 44,
+     "age_her": 45,
+     "events": []
+    },
+    {
+     "year": 2014,
+     "years_married": 10,
+     "age_him": 45,
+     "age_her": 46,
+     "events": []
+    },
+    {
+     "year": 2015,
+     "years_married": 11,
+     "age_him": 46,
+     "age_her": 47,
+     "events": []
+    },
+    {
+     "year": 2016,
+     "years_married": 12,
+     "age_him": 47,
+     "age_her": 48,
+     "events": []
+    },
+    {
+     "year": 2017,
+     "years_married": 13,
+     "age_him": 48,
+     "age_her": 49,
+     "events": []
+    },
+    {
+     "year": 2018,
+     "years_married": 14,
+     "age_him": 49,
+     "age_her": 50,
+     "events": []
+    },
+    {
+     "year": 2019,
+     "years_married": 15,
+     "age_him": 50,
+     "age_her": 51,
+     "events": []
+    },
+    {
+     "year": 2020,
+     "years_married": 16,
+     "age_him": 51,
+     "age_her": 52,
+     "events": []
+    },
+    {
+     "year": 2021,
+     "years_married": 17,
+     "age_him": 52,
+     "age_her": 53,
+     "events": []
+    },
+    {
+     "year": 2022,
+     "years_married": 18,
+     "age_him": 53,
+     "age_her": 54,
+     "events": []
+    },
+    {
+     "year": 2023,
+     "years_married": 19,
+     "age_him": 54,
+     "age_her": 55,
+     "events": []
+    },
+    {
+     "year": 2024,
+     "years_married": 20,
+     "age_him": 55,
+     "age_her": 56,
+     "events": []
+    },
+    {
+     "year": 2025,
+     "years_married": 21,
+     "age_him": 56,
+     "age_her": 57,
+     "events": []
+    },
+    {
+     "year": 2026,
+     "years_married": 22,
+     "age_him": 57,
+     "age_her": 58,
+     "events": []
+    },
+    {
+     "year": 2027,
+     "years_married": 23,
+     "age_him": 58,
+     "age_her": 59,
+     "events": []
+    },
+    {
+     "year": 2028,
+     "years_married": 24,
+     "age_him": 59,
+     "age_her": 60,
+     "events": []
+    },
+    {
+     "year": 2029,
+     "years_married": 25,
+     "age_him": 60,
+     "age_her": 61,
+     "events": []
+    },
+    {
+     "year": 2030,
+     "years_married": 26,
+     "age_him": 61,
+     "age_her": 62,
+     "events": []
+    },
+    {
+     "year": 2031,
+     "years_married": 27,
+     "age_him": 62,
+     "age_her": 63,
+     "events": []
+    },
+    {
+     "year": 2032,
+     "years_married": 28,
+     "age_him": 63,
+     "age_her": 64,
+     "events": []
+    },
+    {
+     "year": 2033,
+     "years_married": 29,
+     "age_him": 64,
+     "age_her": 65,
+     "events": []
+    },
+    {
+     "year": 2034,
+     "years_married": 30,
+     "age_him": 65,
+     "age_her": 66,
+     "events": []
+    },
+    {
+     "year": 2035,
+     "years_married": 31,
+     "age_him": 66,
+     "age_her": 67,
+     "events": []
+    },
+    {
+     "year": 2036,
+     "years_married": 32,
+     "age_him": 67,
+     "age_her": 68,
+     "events": []
+    },
+    {
+     "year": 2037,
+     "years_married": 33,
+     "age_him": 68,
+     "age_her": 69,
+     "events": []
+    },
+    {
+     "year": 2038,
+     "years_married": 34,
+     "age_him": 69,
+     "age_her": 70,
+     "events": []
+    },
+    {
+     "year": 2039,
+     "years_married": 35,
+     "age_him": 70,
+     "age_her": 71,
+     "events": []
+    },
+    {
+     "year": 2040,
+     "years_married": 36,
+     "age_him": 71,
+     "age_her": 72,
+     "events": []
+    },
+    {
+     "year": 2041,
+     "years_married": 37,
+     "age_him": 72,
+     "age_her": 73,
+     "events": []
+    },
+    {
+     "year": 2042,
+     "years_married": 38,
+     "age_him": 73,
+     "age_her": 74,
+     "events": []
+    },
+    {
+     "year": 2043,
+     "years_married": 39,
+     "age_him": 74,
+     "age_her": 75,
+     "events": []
+    },
+    {
+     "year": 2044,
+     "years_married": 40,
+     "age_him": 75,
+     "age_her": 76,
+     "events": []
+    },
+    {
+     "year": 2045,
+     "years_married": 41,
+     "age_him": 76,
+     "age_her": 77,
+     "events": []
+    },
+    {
+     "year": 2046,
+     "years_married": 42,
+     "age_him": 77,
+     "age_her": 78,
+     "events": []
+    },
+    {
+     "year": 2047,
+     "years_married": 43,
+     "age_him": 78,
+     "age_her": 79,
+     "events": [
+      "her_dies"
+     ]
+    },
+    {
+     "year": 2048,
+     "years_married": 44,
+     "age_him": 79,
+     "age_her": 80,
+     "events": []
+    },
+    {
+     "year": 2049,
+     "years_married": 45,
+     "age_him": 80,
+     "age_her": 81,
+     "events": []
+    },
+    {
+     "year": 2050,
+     "years_married": 46,
+     "age_him": 81,
+     "age_her": 82,
+     "events": []
+    },
+    {
+     "year": 2051,
+     "years_married": 47,
+     "age_him": 82,
+     "age_her": 83,
+     "events": []
+    },
+    {
+     "year": 2052,
+     "years_married": 48,
+     "age_him": 83,
+     "age_her": 84,
+     "events": []
+    },
+    {
+     "year": 2053,
+     "years_married": 49,
+     "age_him": 84,
+     "age_her": 85,
+     "events": []
+    },
+    {
+     "year": 2054,
+     "years_married": 50,
+     "age_him": 85,
+     "age_her": 86,
+     "events": []
+    },
+    {
+     "year": 2055,
+     "years_married": 51,
+     "age_him": 86,
+     "age_her": 87,
+     "events": []
+    },
+    {
+     "year": 2056,
+     "years_married": 52,
+     "age_him": 87,
+     "age_her": 88,
+     "events": []
+    },
+    {
+     "year": 2057,
+     "years_married": 53,
+     "age_him": 88,
+     "age_her": 89,
+     "events": []
+    },
+    {
+     "year": 2058,
+     "years_married": 54,
+     "age_him": 89,
+     "age_her": 90,
+     "events": []
+    },
+    {
+     "year": 2059,
+     "years_married": 55,
+     "age_him": 90,
+     "age_her": 91,
+     "events": []
+    },
+    {
+     "year": 2060,
+     "years_married": 56,
+     "age_him": 91,
+     "age_her": 92,
+     "events": []
+    },
+    {
+     "year": 2061,
+     "years_married": 57,
+     "age_him": 92,
+     "age_her": 93,
+     "events": []
+    },
+    {
+     "year": 2062,
+     "years_married": 58,
+     "age_him": 93,
+     "age_her": 94,
+     "events": []
+    },
+    {
+     "year": 2063,
+     "years_married": 59,
+     "age_him": 94,
+     "age_her": 95,
+     "events": []
+    },
+    {
+     "year": 2064,
+     "years_married": 60,
+     "age_him": 95,
+     "age_her": 96,
+     "events": [
+      "him_dies"
+     ]
+    }
+   ]
+  },
+  "selection": "Lowest stored seed ending in 'divorce'. Illustration, not typical."
+ },
+ {
+  "path": "phoebe_mike",
+  "category": "end:widow",
+  "life": {
+   "version": "rr-v0.1",
+   "path": "phoebe_mike",
+   "seed": 1851,
+   "end": "widow",
+   "years_married": 53,
+   "anniversary_end_year": 2057,
+   "age_him_at_death": 88,
+   "age_her_at_death": 100,
+   "hr": 0.6511,
+   "history": [
+    {
+     "year": 2004,
+     "years_married": 0,
+     "age_him": 35,
+     "age_her": 36,
+     "events": []
+    },
+    {
+     "year": 2005,
+     "years_married": 1,
+     "age_him": 36,
+     "age_her": 37,
+     "events": []
+    },
+    {
+     "year": 2006,
+     "years_married": 2,
+     "age_him": 37,
+     "age_her": 38,
+     "events": []
+    },
+    {
+     "year": 2007,
+     "years_married": 3,
+     "age_him": 38,
+     "age_her": 39,
+     "events": []
+    },
+    {
+     "year": 2008,
+     "years_married": 4,
+     "age_him": 39,
+     "age_her": 40,
+     "events": []
+    },
+    {
+     "year": 2009,
+     "years_married": 5,
+     "age_him": 40,
+     "age_her": 41,
+     "events": []
+    },
+    {
+     "year": 2010,
+     "years_married": 6,
+     "age_him": 41,
+     "age_her": 42,
+     "events": []
+    },
+    {
+     "year": 2011,
+     "years_married": 7,
+     "age_him": 42,
+     "age_her": 43,
+     "events": []
+    },
+    {
+     "year": 2012,
+     "years_married": 8,
+     "age_him": 43,
+     "age_her": 44,
+     "events": []
+    },
+    {
+     "year": 2013,
+     "years_married": 9,
+     "age_him": 44,
+     "age_her": 45,
+     "events": []
+    },
+    {
+     "year": 2014,
+     "years_married": 10,
+     "age_him": 45,
+     "age_her": 46,
+     "events": []
+    },
+    {
+     "year": 2015,
+     "years_married": 11,
+     "age_him": 46,
+     "age_her": 47,
+     "events": []
+    },
+    {
+     "year": 2016,
+     "years_married": 12,
+     "age_him": 47,
+     "age_her": 48,
+     "events": []
+    },
+    {
+     "year": 2017,
+     "years_married": 13,
+     "age_him": 48,
+     "age_her": 49,
+     "events": []
+    },
+    {
+     "year": 2018,
+     "years_married": 14,
+     "age_him": 49,
+     "age_her": 50,
+     "events": []
+    },
+    {
+     "year": 2019,
+     "years_married": 15,
+     "age_him": 50,
+     "age_her": 51,
+     "events": []
+    },
+    {
+     "year": 2020,
+     "years_married": 16,
+     "age_him": 51,
+     "age_her": 52,
+     "events": []
+    },
+    {
+     "year": 2021,
+     "years_married": 17,
+     "age_him": 52,
+     "age_her": 53,
+     "events": []
+    },
+    {
+     "year": 2022,
+     "years_married": 18,
+     "age_him": 53,
+     "age_her": 54,
+     "events": []
+    },
+    {
+     "year": 2023,
+     "years_married": 19,
+     "age_him": 54,
+     "age_her": 55,
+     "events": []
+    },
+    {
+     "year": 2024,
+     "years_married": 20,
+     "age_him": 55,
+     "age_her": 56,
+     "events": []
+    },
+    {
+     "year": 2025,
+     "years_married": 21,
+     "age_him": 56,
+     "age_her": 57,
+     "events": []
+    },
+    {
+     "year": 2026,
+     "years_married": 22,
+     "age_him": 57,
+     "age_her": 58,
+     "events": []
+    },
+    {
+     "year": 2027,
+     "years_married": 23,
+     "age_him": 58,
+     "age_her": 59,
+     "events": []
+    },
+    {
+     "year": 2028,
+     "years_married": 24,
+     "age_him": 59,
+     "age_her": 60,
+     "events": []
+    },
+    {
+     "year": 2029,
+     "years_married": 25,
+     "age_him": 60,
+     "age_her": 61,
+     "events": []
+    },
+    {
+     "year": 2030,
+     "years_married": 26,
+     "age_him": 61,
+     "age_her": 62,
+     "events": []
+    },
+    {
+     "year": 2031,
+     "years_married": 27,
+     "age_him": 62,
+     "age_her": 63,
+     "events": []
+    },
+    {
+     "year": 2032,
+     "years_married": 28,
+     "age_him": 63,
+     "age_her": 64,
+     "events": []
+    },
+    {
+     "year": 2033,
+     "years_married": 29,
+     "age_him": 64,
+     "age_her": 65,
+     "events": []
+    },
+    {
+     "year": 2034,
+     "years_married": 30,
+     "age_him": 65,
+     "age_her": 66,
+     "events": []
+    },
+    {
+     "year": 2035,
+     "years_married": 31,
+     "age_him": 66,
+     "age_her": 67,
+     "events": []
+    },
+    {
+     "year": 2036,
+     "years_married": 32,
+     "age_him": 67,
+     "age_her": 68,
+     "events": []
+    },
+    {
+     "year": 2037,
+     "years_married": 33,
+     "age_him": 68,
+     "age_her": 69,
+     "events": []
+    },
+    {
+     "year": 2038,
+     "years_married": 34,
+     "age_him": 69,
+     "age_her": 70,
+     "events": []
+    },
+    {
+     "year": 2039,
+     "years_married": 35,
+     "age_him": 70,
+     "age_her": 71,
+     "events": []
+    },
+    {
+     "year": 2040,
+     "years_married": 36,
+     "age_him": 71,
+     "age_her": 72,
+     "events": []
+    },
+    {
+     "year": 2041,
+     "years_married": 37,
+     "age_him": 72,
+     "age_her": 73,
+     "events": []
+    },
+    {
+     "year": 2042,
+     "years_married": 38,
+     "age_him": 73,
+     "age_her": 74,
+     "events": []
+    },
+    {
+     "year": 2043,
+     "years_married": 39,
+     "age_him": 74,
+     "age_her": 75,
+     "events": []
+    },
+    {
+     "year": 2044,
+     "years_married": 40,
+     "age_him": 75,
+     "age_her": 76,
+     "events": []
+    },
+    {
+     "year": 2045,
+     "years_married": 41,
+     "age_him": 76,
+     "age_her": 77,
+     "events": []
+    },
+    {
+     "year": 2046,
+     "years_married": 42,
+     "age_him": 77,
+     "age_her": 78,
+     "events": []
+    },
+    {
+     "year": 2047,
+     "years_married": 43,
+     "age_him": 78,
+     "age_her": 79,
+     "events": []
+    },
+    {
+     "year": 2048,
+     "years_married": 44,
+     "age_him": 79,
+     "age_her": 80,
+     "events": []
+    },
+    {
+     "year": 2049,
+     "years_married": 45,
+     "age_him": 80,
+     "age_her": 81,
+     "events": []
+    },
+    {
+     "year": 2050,
+     "years_married": 46,
+     "age_him": 81,
+     "age_her": 82,
+     "events": []
+    },
+    {
+     "year": 2051,
+     "years_married": 47,
+     "age_him": 82,
+     "age_her": 83,
+     "events": []
+    },
+    {
+     "year": 2052,
+     "years_married": 48,
+     "age_him": 83,
+     "age_her": 84,
+     "events": []
+    },
+    {
+     "year": 2053,
+     "years_married": 49,
+     "age_him": 84,
+     "age_her": 85,
+     "events": []
+    },
+    {
+     "year": 2054,
+     "years_married": 50,
+     "age_him": 85,
+     "age_her": 86,
+     "events": []
+    },
+    {
+     "year": 2055,
+     "years_married": 51,
+     "age_him": 86,
+     "age_her": 87,
+     "events": []
+    },
+    {
+     "year": 2056,
+     "years_married": 52,
+     "age_him": 87,
+     "age_her": 88,
+     "events": []
+    },
+    {
+     "year": 2057,
+     "years_married": 53,
+     "age_him": 88,
+     "age_her": 89,
+     "events": [
+      "him_dies"
+     ]
+    },
+    {
+     "year": 2058,
+     "years_married": 54,
+     "age_him": 89,
+     "age_her": 90,
+     "events": []
+    },
+    {
+     "year": 2059,
+     "years_married": 55,
+     "age_him": 90,
+     "age_her": 91,
+     "events": []
+    },
+    {
+     "year": 2060,
+     "years_married": 56,
+     "age_him": 91,
+     "age_her": 92,
+     "events": []
+    },
+    {
+     "year": 2061,
+     "years_married": 57,
+     "age_him": 92,
+     "age_her": 93,
+     "events": []
+    },
+    {
+     "year": 2062,
+     "years_married": 58,
+     "age_him": 93,
+     "age_her": 94,
+     "events": []
+    },
+    {
+     "year": 2063,
+     "years_married": 59,
+     "age_him": 94,
+     "age_her": 95,
+     "events": []
+    },
+    {
+     "year": 2064,
+     "years_married": 60,
+     "age_him": 95,
+     "age_her": 96,
+     "events": []
+    },
+    {
+     "year": 2065,
+     "years_married": 61,
+     "age_him": 96,
+     "age_her": 97,
+     "events": []
+    },
+    {
+     "year": 2066,
+     "years_married": 62,
+     "age_him": 97,
+     "age_her": 98,
+     "events": []
+    },
+    {
+     "year": 2067,
+     "years_married": 63,
+     "age_him": 98,
+     "age_her": 99,
+     "events": []
+    },
+    {
+     "year": 2068,
+     "years_married": 64,
+     "age_him": 99,
+     "age_her": 100,
+     "events": [
+      "her_dies"
+     ]
+    }
+   ]
+  },
+  "selection": "Lowest stored seed ending in 'widow'. Illustration, not typical."
+ },
+ {
+  "path": "phoebe_mike",
+  "category": "end:widower",
+  "life": {
+   "version": "rr-v0.1",
+   "path": "phoebe_mike",
+   "seed": 1852,
+   "end": "widower",
+   "years_married": 52,
+   "anniversary_end_year": 2056,
+   "age_him_at_death": 89,
+   "age_her_at_death": 88,
+   "hr": 0.6511,
+   "history": [
+    {
+     "year": 2004,
+     "years_married": 0,
+     "age_him": 35,
+     "age_her": 36,
+     "events": []
+    },
+    {
+     "year": 2005,
+     "years_married": 1,
+     "age_him": 36,
+     "age_her": 37,
+     "events": []
+    },
+    {
+     "year": 2006,
+     "years_married": 2,
+     "age_him": 37,
+     "age_her": 38,
+     "events": []
+    },
+    {
+     "year": 2007,
+     "years_married": 3,
+     "age_him": 38,
+     "age_her": 39,
+     "events": []
+    },
+    {
+     "year": 2008,
+     "years_married": 4,
+     "age_him": 39,
+     "age_her": 40,
+     "events": []
+    },
+    {
+     "year": 2009,
+     "years_married": 5,
+     "age_him": 40,
+     "age_her": 41,
+     "events": []
+    },
+    {
+     "year": 2010,
+     "years_married": 6,
+     "age_him": 41,
+     "age_her": 42,
+     "events": []
+    },
+    {
+     "year": 2011,
+     "years_married": 7,
+     "age_him": 42,
+     "age_her": 43,
+     "events": []
+    },
+    {
+     "year": 2012,
+     "years_married": 8,
+     "age_him": 43,
+     "age_her": 44,
+     "events": []
+    },
+    {
+     "year": 2013,
+     "years_married": 9,
+     "age_him": 44,
+     "age_her": 45,
+     "events": []
+    },
+    {
+     "year": 2014,
+     "years_married": 10,
+     "age_him": 45,
+     "age_her": 46,
+     "events": []
+    },
+    {
+     "year": 2015,
+     "years_married": 11,
+     "age_him": 46,
+     "age_her": 47,
+     "events": []
+    },
+    {
+     "year": 2016,
+     "years_married": 12,
+     "age_him": 47,
+     "age_her": 48,
+     "events": []
+    },
+    {
+     "year": 2017,
+     "years_married": 13,
+     "age_him": 48,
+     "age_her": 49,
+     "events": []
+    },
+    {
+     "year": 2018,
+     "years_married": 14,
+     "age_him": 49,
+     "age_her": 50,
+     "events": []
+    },
+    {
+     "year": 2019,
+     "years_married": 15,
+     "age_him": 50,
+     "age_her": 51,
+     "events": []
+    },
+    {
+     "year": 2020,
+     "years_married": 16,
+     "age_him": 51,
+     "age_her": 52,
+     "events": []
+    },
+    {
+     "year": 2021,
+     "years_married": 17,
+     "age_him": 52,
+     "age_her": 53,
+     "events": []
+    },
+    {
+     "year": 2022,
+     "years_married": 18,
+     "age_him": 53,
+     "age_her": 54,
+     "events": []
+    },
+    {
+     "year": 2023,
+     "years_married": 19,
+     "age_him": 54,
+     "age_her": 55,
+     "events": []
+    },
+    {
+     "year": 2024,
+     "years_married": 20,
+     "age_him": 55,
+     "age_her": 56,
+     "events": []
+    },
+    {
+     "year": 2025,
+     "years_married": 21,
+     "age_him": 56,
+     "age_her": 57,
+     "events": []
+    },
+    {
+     "year": 2026,
+     "years_married": 22,
+     "age_him": 57,
+     "age_her": 58,
+     "events": []
+    },
+    {
+     "year": 2027,
+     "years_married": 23,
+     "age_him": 58,
+     "age_her": 59,
+     "events": []
+    },
+    {
+     "year": 2028,
+     "years_married": 24,
+     "age_him": 59,
+     "age_her": 60,
+     "events": []
+    },
+    {
+     "year": 2029,
+     "years_married": 25,
+     "age_him": 60,
+     "age_her": 61,
+     "events": []
+    },
+    {
+     "year": 2030,
+     "years_married": 26,
+     "age_him": 61,
+     "age_her": 62,
+     "events": []
+    },
+    {
+     "year": 2031,
+     "years_married": 27,
+     "age_him": 62,
+     "age_her": 63,
+     "events": []
+    },
+    {
+     "year": 2032,
+     "years_married": 28,
+     "age_him": 63,
+     "age_her": 64,
+     "events": []
+    },
+    {
+     "year": 2033,
+     "years_married": 29,
+     "age_him": 64,
+     "age_her": 65,
+     "events": []
+    },
+    {
+     "year": 2034,
+     "years_married": 30,
+     "age_him": 65,
+     "age_her": 66,
+     "events": []
+    },
+    {
+     "year": 2035,
+     "years_married": 31,
+     "age_him": 66,
+     "age_her": 67,
+     "events": []
+    },
+    {
+     "year": 2036,
+     "years_married": 32,
+     "age_him": 67,
+     "age_her": 68,
+     "events": []
+    },
+    {
+     "year": 2037,
+     "years_married": 33,
+     "age_him": 68,
+     "age_her": 69,
+     "events": []
+    },
+    {
+     "year": 2038,
+     "years_married": 34,
+     "age_him": 69,
+     "age_her": 70,
+     "events": []
+    },
+    {
+     "year": 2039,
+     "years_married": 35,
+     "age_him": 70,
+     "age_her": 71,
+     "events": []
+    },
+    {
+     "year": 2040,
+     "years_married": 36,
+     "age_him": 71,
+     "age_her": 72,
+     "events": []
+    },
+    {
+     "year": 2041,
+     "years_married": 37,
+     "age_him": 72,
+     "age_her": 73,
+     "events": []
+    },
+    {
+     "year": 2042,
+     "years_married": 38,
+     "age_him": 73,
+     "age_her": 74,
+     "events": []
+    },
+    {
+     "year": 2043,
+     "years_married": 39,
+     "age_him": 74,
+     "age_her": 75,
+     "events": []
+    },
+    {
+     "year": 2044,
+     "years_married": 40,
+     "age_him": 75,
+     "age_her": 76,
+     "events": []
+    },
+    {
+     "year": 2045,
+     "years_married": 41,
+     "age_him": 76,
+     "age_her": 77,
+     "events": []
+    },
+    {
+     "year": 2046,
+     "years_married": 42,
+     "age_him": 77,
+     "age_her": 78,
+     "events": []
+    },
+    {
+     "year": 2047,
+     "years_married": 43,
+     "age_him": 78,
+     "age_her": 79,
+     "events": []
+    },
+    {
+     "year": 2048,
+     "years_married": 44,
+     "age_him": 79,
+     "age_her": 80,
+     "events": []
+    },
+    {
+     "year": 2049,
+     "years_married": 45,
+     "age_him": 80,
+     "age_her": 81,
+     "events": []
+    },
+    {
+     "year": 2050,
+     "years_married": 46,
+     "age_him": 81,
+     "age_her": 82,
+     "events": []
+    },
+    {
+     "year": 2051,
+     "years_married": 47,
+     "age_him": 82,
+     "age_her": 83,
+     "events": []
+    },
+    {
+     "year": 2052,
+     "years_married": 48,
+     "age_him": 83,
+     "age_her": 84,
+     "events": []
+    },
+    {
+     "year": 2053,
+     "years_married": 49,
+     "age_him": 84,
+     "age_her": 85,
+     "events": []
+    },
+    {
+     "year": 2054,
+     "years_married": 50,
+     "age_him": 85,
+     "age_her": 86,
+     "events": []
+    },
+    {
+     "year": 2055,
+     "years_married": 51,
+     "age_him": 86,
+     "age_her": 87,
+     "events": []
+    },
+    {
+     "year": 2056,
+     "years_married": 52,
+     "age_him": 87,
+     "age_her": 88,
+     "events": [
+      "her_dies"
+     ]
+    },
+    {
+     "year": 2057,
+     "years_married": 53,
+     "age_him": 88,
+     "age_her": 89,
+     "events": []
+    },
+    {
+     "year": 2058,
+     "years_married": 54,
+     "age_him": 89,
+     "age_her": 90,
+     "events": [
+      "him_dies"
+     ]
+    }
+   ]
+  },
+  "selection": "Lowest stored seed ending in 'widower'. Illustration, not typical."
+ },
+ {
+  "path": "average",
+  "category": "median_years_married",
+  "life": {
+   "version": "rr-v0.1",
+   "path": "average",
+   "seed": 176854,
+   "end": "divorce",
+   "years_married": 18,
+   "anniversary_end_year": 2023,
+   "age_him_at_death": 99,
+   "age_her_at_death": 79,
+   "hr": 1.0,
+   "history": [
+    {
+     "year": 2005,
+     "years_married": 0,
+     "age_him": 30,
+     "age_her": 28,
+     "events": []
+    },
+    {
+     "year": 2006,
+     "years_married": 1,
+     "age_him": 31,
+     "age_her": 29,
+     "events": []
+    },
+    {
+     "year": 2007,
+     "years_married": 2,
+     "age_him": 32,
+     "age_her": 30,
+     "events": []
+    },
+    {
+     "year": 2008,
+     "years_married": 3,
+     "age_him": 33,
+     "age_her": 31,
+     "events": []
+    },
+    {
+     "year": 2009,
+     "years_married": 4,
+     "age_him": 34,
+     "age_her": 32,
+     "events": []
+    },
+    {
+     "year": 2010,
+     "years_married": 5,
+     "age_him": 35,
+     "age_her": 33,
+     "events": []
+    },
+    {
+     "year": 2011,
+     "years_married": 6,
+     "age_him": 36,
+     "age_her": 34,
+     "events": []
+    },
+    {
+     "year": 2012,
+     "years_married": 7,
+     "age_him": 37,
+     "age_her": 35,
+     "events": []
+    },
+    {
+     "year": 2013,
+     "years_married": 8,
+     "age_him": 38,
+     "age_her": 36,
+     "events": []
+    },
+    {
+     "year": 2014,
+     "years_married": 9,
+     "age_him": 39,
+     "age_her": 37,
+     "events": []
+    },
+    {
+     "year": 2015,
+     "years_married": 10,
+     "age_him": 40,
+     "age_her": 38,
+     "events": []
+    },
+    {
+     "year": 2016,
+     "years_married": 11,
+     "age_him": 41,
+     "age_her": 39,
+     "events": []
+    },
+    {
+     "year": 2017,
+     "years_married": 12,
+     "age_him": 42,
+     "age_her": 40,
+     "events": []
+    },
+    {
+     "year": 2018,
+     "years_married": 13,
+     "age_him": 43,
+     "age_her": 41,
+     "events": []
+    },
+    {
+     "year": 2019,
+     "years_married": 14,
+     "age_him": 44,
+     "age_her": 42,
+     "events": []
+    },
+    {
+     "year": 2020,
+     "years_married": 15,
+     "age_him": 45,
+     "age_her": 43,
+     "events": []
+    },
+    {
+     "year": 2021,
+     "years_married": 16,
+     "age_him": 46,
+     "age_her": 44,
+     "events": []
+    },
+    {
+     "year": 2022,
+     "years_married": 17,
+     "age_him": 47,
+     "age_her": 45,
+     "events": []
+    },
+    {
+     "year": 2023,
+     "years_married": 18,
+     "age_him": 48,
+     "age_her": 46,
+     "events": [
+      "divorce"
+     ]
+    },
+    {
+     "year": 2024,
+     "years_married": 19,
+     "age_him": 49,
+     "age_her": 47,
+     "events": []
+    },
+    {
+     "year": 2025,
+     "years_married": 20,
+     "age_him": 50,
+     "age_her": 48,
+     "events": []
+    },
+    {
+     "year": 2026,
+     "years_married": 21,
+     "age_him": 51,
+     "age_her": 49,
+     "events": []
+    },
+    {
+     "year": 2027,
+     "years_married": 22,
+     "age_him": 52,
+     "age_her": 50,
+     "events": []
+    },
+    {
+     "year": 2028,
+     "years_married": 23,
+     "age_him": 53,
+     "age_her": 51,
+     "events": []
+    },
+    {
+     "year": 2029,
+     "years_married": 24,
+     "age_him": 54,
+     "age_her": 52,
+     "events": []
+    },
+    {
+     "year": 2030,
+     "years_married": 25,
+     "age_him": 55,
+     "age_her": 53,
+     "events": []
+    },
+    {
+     "year": 2031,
+     "years_married": 26,
+     "age_him": 56,
+     "age_her": 54,
+     "events": []
+    },
+    {
+     "year": 2032,
+     "years_married": 27,
+     "age_him": 57,
+     "age_her": 55,
+     "events": []
+    },
+    {
+     "year": 2033,
+     "years_married": 28,
+     "age_him": 58,
+     "age_her": 56,
+     "events": []
+    },
+    {
+     "year": 2034,
+     "years_married": 29,
+     "age_him": 59,
+     "age_her": 57,
+     "events": []
+    },
+    {
+     "year": 2035,
+     "years_married": 30,
+     "age_him": 60,
+     "age_her": 58,
+     "events": []
+    },
+    {
+     "year": 2036,
+     "years_married": 31,
+     "age_him": 61,
+     "age_her": 59,
+     "events": []
+    },
+    {
+     "year": 2037,
+     "years_married": 32,
+     "age_him": 62,
+     "age_her": 60,
+     "events": []
+    },
+    {
+     "year": 2038,
+     "years_married": 33,
+     "age_him": 63,
+     "age_her": 61,
+     "events": []
+    },
+    {
+     "year": 2039,
+     "years_married": 34,
+     "age_him": 64,
+     "age_her": 62,
+     "events": []
+    },
+    {
+     "year": 2040,
+     "years_married": 35,
+     "age_him": 65,
+     "age_her": 63,
+     "events": []
+    },
+    {
+     "year": 2041,
+     "years_married": 36,
+     "age_him": 66,
+     "age_her": 64,
+     "events": []
+    },
+    {
+     "year": 2042,
+     "years_married": 37,
+     "age_him": 67,
+     "age_her": 65,
+     "events": []
+    },
+    {
+     "year": 2043,
+     "years_married": 38,
+     "age_him": 68,
+     "age_her": 66,
+     "events": []
+    },
+    {
+     "year": 2044,
+     "years_married": 39,
+     "age_him": 69,
+     "age_her": 67,
+     "events": []
+    },
+    {
+     "year": 2045,
+     "years_married": 40,
+     "age_him": 70,
+     "age_her": 68,
+     "events": []
+    },
+    {
+     "year": 2046,
+     "years_married": 41,
+     "age_him": 71,
+     "age_her": 69,
+     "events": []
+    },
+    {
+     "year": 2047,
+     "years_married": 42,
+     "age_him": 72,
+     "age_her": 70,
+     "events": []
+    },
+    {
+     "year": 2048,
+     "years_married": 43,
+     "age_him": 73,
+     "age_her": 71,
+     "events": []
+    },
+    {
+     "year": 2049,
+     "years_married": 44,
+     "age_him": 74,
+     "age_her": 72,
+     "events": []
+    },
+    {
+     "year": 2050,
+     "years_married": 45,
+     "age_him": 75,
+     "age_her": 73,
+     "events": []
+    },
+    {
+     "year": 2051,
+     "years_married": 46,
+     "age_him": 76,
+     "age_her": 74,
+     "events": []
+    },
+    {
+     "year": 2052,
+     "years_married": 47,
+     "age_him": 77,
+     "age_her": 75,
+     "events": []
+    },
+    {
+     "year": 2053,
+     "years_married": 48,
+     "age_him": 78,
+     "age_her": 76,
+     "events": []
+    },
+    {
+     "year": 2054,
+     "years_married": 49,
+     "age_him": 79,
+     "age_her": 77,
+     "events": []
+    },
+    {
+     "year": 2055,
+     "years_married": 50,
+     "age_him": 80,
+     "age_her": 78,
+     "events": []
+    },
+    {
+     "year": 2056,
+     "years_married": 51,
+     "age_him": 81,
+     "age_her": 79,
+     "events": [
+      "her_dies"
+     ]
+    },
+    {
+     "year": 2057,
+     "years_married": 52,
+     "age_him": 82,
+     "age_her": 80,
+     "events": []
+    },
+    {
+     "year": 2058,
+     "years_married": 53,
+     "age_him": 83,
+     "age_her": 81,
+     "events": []
+    },
+    {
+     "year": 2059,
+     "years_married": 54,
+     "age_him": 84,
+     "age_her": 82,
+     "events": []
+    },
+    {
+     "year": 2060,
+     "years_married": 55,
+     "age_him": 85,
+     "age_her": 83,
+     "events": []
+    },
+    {
+     "year": 2061,
+     "years_married": 56,
+     "age_him": 86,
+     "age_her": 84,
+     "events": []
+    },
+    {
+     "year": 2062,
+     "years_married": 57,
+     "age_him": 87,
+     "age_her": 85,
+     "events": []
+    },
+    {
+     "year": 2063,
+     "years_married": 58,
+     "age_him": 88,
+     "age_her": 86,
+     "events": []
+    },
+    {
+     "year": 2064,
+     "years_married": 59,
+     "age_him": 89,
+     "age_her": 87,
+     "events": []
+    },
+    {
+     "year": 2065,
+     "years_married": 60,
+     "age_him": 90,
+     "age_her": 88,
+     "events": []
+    },
+    {
+     "year": 2066,
+     "years_married": 61,
+     "age_him": 91,
+     "age_her": 89,
+     "events": []
+    },
+    {
+     "year": 2067,
+     "years_married": 62,
+     "age_him": 92,
+     "age_her": 90,
+     "events": []
+    },
+    {
+     "year": 2068,
+     "years_married": 63,
+     "age_him": 93,
+     "age_her": 91,
+     "events": []
+    },
+    {
+     "year": 2069,
+     "years_married": 64,
+     "age_him": 94,
+     "age_her": 92,
+     "events": []
+    },
+    {
+     "year": 2070,
+     "years_married": 65,
+     "age_him": 95,
+     "age_her": 93,
+     "events": []
+    },
+    {
+     "year": 2071,
+     "years_married": 66,
+     "age_him": 96,
+     "age_her": 94,
+     "events": []
+    },
+    {
+     "year": 2072,
+     "years_married": 67,
+     "age_him": 97,
+     "age_her": 95,
+     "events": []
+    },
+    {
+     "year": 2073,
+     "years_married": 68,
+     "age_him": 98,
+     "age_her": 96,
+     "events": []
+    },
+    {
+     "year": 2074,
+     "years_married": 69,
+     "age_him": 99,
+     "age_her": 97,
+     "events": [
+      "him_dies"
+     ]
+    }
+   ]
+  },
+  "selection": "Lowest seed found whose years married equal the couple median. Typical only by this metric."
+ },
+ {
+  "path": "average",
+  "category": "end:both_die",
+  "life": {
+   "version": "rr-v0.1",
+   "path": "average",
+   "seed": 1984,
+   "end": "both_die",
+   "years_married": 50,
+   "anniversary_end_year": 2055,
+   "age_him_at_death": 80,
+   "age_her_at_death": 78,
+   "hr": 1.0,
+   "history": [
+    {
+     "year": 2005,
+     "years_married": 0,
+     "age_him": 30,
+     "age_her": 28,
+     "events": []
+    },
+    {
+     "year": 2006,
+     "years_married": 1,
+     "age_him": 31,
+     "age_her": 29,
+     "events": []
+    },
+    {
+     "year": 2007,
+     "years_married": 2,
+     "age_him": 32,
+     "age_her": 30,
+     "events": []
+    },
+    {
+     "year": 2008,
+     "years_married": 3,
+     "age_him": 33,
+     "age_her": 31,
+     "events": []
+    },
+    {
+     "year": 2009,
+     "years_married": 4,
+     "age_him": 34,
+     "age_her": 32,
+     "events": []
+    },
+    {
+     "year": 2010,
+     "years_married": 5,
+     "age_him": 35,
+     "age_her": 33,
+     "events": []
+    },
+    {
+     "year": 2011,
+     "years_married": 6,
+     "age_him": 36,
+     "age_her": 34,
+     "events": []
+    },
+    {
+     "year": 2012,
+     "years_married": 7,
+     "age_him": 37,
+     "age_her": 35,
+     "events": []
+    },
+    {
+     "year": 2013,
+     "years_married": 8,
+     "age_him": 38,
+     "age_her": 36,
+     "events": []
+    },
+    {
+     "year": 2014,
+     "years_married": 9,
+     "age_him": 39,
+     "age_her": 37,
+     "events": []
+    },
+    {
+     "year": 2015,
+     "years_married": 10,
+     "age_him": 40,
+     "age_her": 38,
+     "events": []
+    },
+    {
+     "year": 2016,
+     "years_married": 11,
+     "age_him": 41,
+     "age_her": 39,
+     "events": []
+    },
+    {
+     "year": 2017,
+     "years_married": 12,
+     "age_him": 42,
+     "age_her": 40,
+     "events": []
+    },
+    {
+     "year": 2018,
+     "years_married": 13,
+     "age_him": 43,
+     "age_her": 41,
+     "events": []
+    },
+    {
+     "year": 2019,
+     "years_married": 14,
+     "age_him": 44,
+     "age_her": 42,
+     "events": []
+    },
+    {
+     "year": 2020,
+     "years_married": 15,
+     "age_him": 45,
+     "age_her": 43,
+     "events": []
+    },
+    {
+     "year": 2021,
+     "years_married": 16,
+     "age_him": 46,
+     "age_her": 44,
+     "events": []
+    },
+    {
+     "year": 2022,
+     "years_married": 17,
+     "age_him": 47,
+     "age_her": 45,
+     "events": []
+    },
+    {
+     "year": 2023,
+     "years_married": 18,
+     "age_him": 48,
+     "age_her": 46,
+     "events": []
+    },
+    {
+     "year": 2024,
+     "years_married": 19,
+     "age_him": 49,
+     "age_her": 47,
+     "events": []
+    },
+    {
+     "year": 2025,
+     "years_married": 20,
+     "age_him": 50,
+     "age_her": 48,
+     "events": []
+    },
+    {
+     "year": 2026,
+     "years_married": 21,
+     "age_him": 51,
+     "age_her": 49,
+     "events": []
+    },
+    {
+     "year": 2027,
+     "years_married": 22,
+     "age_him": 52,
+     "age_her": 50,
+     "events": []
+    },
+    {
+     "year": 2028,
+     "years_married": 23,
+     "age_him": 53,
+     "age_her": 51,
+     "events": []
+    },
+    {
+     "year": 2029,
+     "years_married": 24,
+     "age_him": 54,
+     "age_her": 52,
+     "events": []
+    },
+    {
+     "year": 2030,
+     "years_married": 25,
+     "age_him": 55,
+     "age_her": 53,
+     "events": []
+    },
+    {
+     "year": 2031,
+     "years_married": 26,
+     "age_him": 56,
+     "age_her": 54,
+     "events": []
+    },
+    {
+     "year": 2032,
+     "years_married": 27,
+     "age_him": 57,
+     "age_her": 55,
+     "events": []
+    },
+    {
+     "year": 2033,
+     "years_married": 28,
+     "age_him": 58,
+     "age_her": 56,
+     "events": []
+    },
+    {
+     "year": 2034,
+     "years_married": 29,
+     "age_him": 59,
+     "age_her": 57,
+     "events": []
+    },
+    {
+     "year": 2035,
+     "years_married": 30,
+     "age_him": 60,
+     "age_her": 58,
+     "events": []
+    },
+    {
+     "year": 2036,
+     "years_married": 31,
+     "age_him": 61,
+     "age_her": 59,
+     "events": []
+    },
+    {
+     "year": 2037,
+     "years_married": 32,
+     "age_him": 62,
+     "age_her": 60,
+     "events": []
+    },
+    {
+     "year": 2038,
+     "years_married": 33,
+     "age_him": 63,
+     "age_her": 61,
+     "events": []
+    },
+    {
+     "year": 2039,
+     "years_married": 34,
+     "age_him": 64,
+     "age_her": 62,
+     "events": []
+    },
+    {
+     "year": 2040,
+     "years_married": 35,
+     "age_him": 65,
+     "age_her": 63,
+     "events": []
+    },
+    {
+     "year": 2041,
+     "years_married": 36,
+     "age_him": 66,
+     "age_her": 64,
+     "events": []
+    },
+    {
+     "year": 2042,
+     "years_married": 37,
+     "age_him": 67,
+     "age_her": 65,
+     "events": []
+    },
+    {
+     "year": 2043,
+     "years_married": 38,
+     "age_him": 68,
+     "age_her": 66,
+     "events": []
+    },
+    {
+     "year": 2044,
+     "years_married": 39,
+     "age_him": 69,
+     "age_her": 67,
+     "events": []
+    },
+    {
+     "year": 2045,
+     "years_married": 40,
+     "age_him": 70,
+     "age_her": 68,
+     "events": []
+    },
+    {
+     "year": 2046,
+     "years_married": 41,
+     "age_him": 71,
+     "age_her": 69,
+     "events": []
+    },
+    {
+     "year": 2047,
+     "years_married": 42,
+     "age_him": 72,
+     "age_her": 70,
+     "events": []
+    },
+    {
+     "year": 2048,
+     "years_married": 43,
+     "age_him": 73,
+     "age_her": 71,
+     "events": []
+    },
+    {
+     "year": 2049,
+     "years_married": 44,
+     "age_him": 74,
+     "age_her": 72,
+     "events": []
+    },
+    {
+     "year": 2050,
+     "years_married": 45,
+     "age_him": 75,
+     "age_her": 73,
+     "events": []
+    },
+    {
+     "year": 2051,
+     "years_married": 46,
+     "age_him": 76,
+     "age_her": 74,
+     "events": []
+    },
+    {
+     "year": 2052,
+     "years_married": 47,
+     "age_him": 77,
+     "age_her": 75,
+     "events": []
+    },
+    {
+     "year": 2053,
+     "years_married": 48,
+     "age_him": 78,
+     "age_her": 76,
+     "events": []
+    },
+    {
+     "year": 2054,
+     "years_married": 49,
+     "age_him": 79,
+     "age_her": 77,
+     "events": []
+    },
+    {
+     "year": 2055,
+     "years_married": 50,
+     "age_him": 80,
+     "age_her": 78,
+     "events": [
+      "him_dies",
+      "her_dies"
+     ]
+    }
+   ]
+  },
+  "selection": "Lowest stored seed ending in 'both_die'. Illustration, not typical."
+ },
+ {
+  "path": "average",
+  "category": "end:divorce",
+  "life": {
+   "version": "rr-v0.1",
+   "path": "average",
+   "seed": 1849,
+   "end": "divorce",
+   "years_married": 5,
+   "anniversary_end_year": 2010,
+   "age_him_at_death": 90,
+   "age_her_at_death": 84,
+   "hr": 1.0,
+   "history": [
+    {
+     "year": 2005,
+     "years_married": 0,
+     "age_him": 30,
+     "age_her": 28,
+     "events": []
+    },
+    {
+     "year": 2006,
+     "years_married": 1,
+     "age_him": 31,
+     "age_her": 29,
+     "events": []
+    },
+    {
+     "year": 2007,
+     "years_married": 2,
+     "age_him": 32,
+     "age_her": 30,
+     "events": []
+    },
+    {
+     "year": 2008,
+     "years_married": 3,
+     "age_him": 33,
+     "age_her": 31,
+     "events": []
+    },
+    {
+     "year": 2009,
+     "years_married": 4,
+     "age_him": 34,
+     "age_her": 32,
+     "events": []
+    },
+    {
+     "year": 2010,
+     "years_married": 5,
+     "age_him": 35,
+     "age_her": 33,
+     "events": [
+      "divorce"
+     ]
+    },
+    {
+     "year": 2011,
+     "years_married": 6,
+     "age_him": 36,
+     "age_her": 34,
+     "events": []
+    },
+    {
+     "year": 2012,
+     "years_married": 7,
+     "age_him": 37,
+     "age_her": 35,
+     "events": []
+    },
+    {
+     "year": 2013,
+     "years_married": 8,
+     "age_him": 38,
+     "age_her": 36,
+     "events": []
+    },
+    {
+     "year": 2014,
+     "years_married": 9,
+     "age_him": 39,
+     "age_her": 37,
+     "events": []
+    },
+    {
+     "year": 2015,
+     "years_married": 10,
+     "age_him": 40,
+     "age_her": 38,
+     "events": []
+    },
+    {
+     "year": 2016,
+     "years_married": 11,
+     "age_him": 41,
+     "age_her": 39,
+     "events": []
+    },
+    {
+     "year": 2017,
+     "years_married": 12,
+     "age_him": 42,
+     "age_her": 40,
+     "events": []
+    },
+    {
+     "year": 2018,
+     "years_married": 13,
+     "age_him": 43,
+     "age_her": 41,
+     "events": []
+    },
+    {
+     "year": 2019,
+     "years_married": 14,
+     "age_him": 44,
+     "age_her": 42,
+     "events": []
+    },
+    {
+     "year": 2020,
+     "years_married": 15,
+     "age_him": 45,
+     "age_her": 43,
+     "events": []
+    },
+    {
+     "year": 2021,
+     "years_married": 16,
+     "age_him": 46,
+     "age_her": 44,
+     "events": []
+    },
+    {
+     "year": 2022,
+     "years_married": 17,
+     "age_him": 47,
+     "age_her": 45,
+     "events": []
+    },
+    {
+     "year": 2023,
+     "years_married": 18,
+     "age_him": 48,
+     "age_her": 46,
+     "events": []
+    },
+    {
+     "year": 2024,
+     "years_married": 19,
+     "age_him": 49,
+     "age_her": 47,
+     "events": []
+    },
+    {
+     "year": 2025,
+     "years_married": 20,
+     "age_him": 50,
+     "age_her": 48,
+     "events": []
+    },
+    {
+     "year": 2026,
+     "years_married": 21,
+     "age_him": 51,
+     "age_her": 49,
+     "events": []
+    },
+    {
+     "year": 2027,
+     "years_married": 22,
+     "age_him": 52,
+     "age_her": 50,
+     "events": []
+    },
+    {
+     "year": 2028,
+     "years_married": 23,
+     "age_him": 53,
+     "age_her": 51,
+     "events": []
+    },
+    {
+     "year": 2029,
+     "years_married": 24,
+     "age_him": 54,
+     "age_her": 52,
+     "events": []
+    },
+    {
+     "year": 2030,
+     "years_married": 25,
+     "age_him": 55,
+     "age_her": 53,
+     "events": []
+    },
+    {
+     "year": 2031,
+     "years_married": 26,
+     "age_him": 56,
+     "age_her": 54,
+     "events": []
+    },
+    {
+     "year": 2032,
+     "years_married": 27,
+     "age_him": 57,
+     "age_her": 55,
+     "events": []
+    },
+    {
+     "year": 2033,
+     "years_married": 28,
+     "age_him": 58,
+     "age_her": 56,
+     "events": []
+    },
+    {
+     "year": 2034,
+     "years_married": 29,
+     "age_him": 59,
+     "age_her": 57,
+     "events": []
+    },
+    {
+     "year": 2035,
+     "years_married": 30,
+     "age_him": 60,
+     "age_her": 58,
+     "events": []
+    },
+    {
+     "year": 2036,
+     "years_married": 31,
+     "age_him": 61,
+     "age_her": 59,
+     "events": []
+    },
+    {
+     "year": 2037,
+     "years_married": 32,
+     "age_him": 62,
+     "age_her": 60,
+     "events": []
+    },
+    {
+     "year": 2038,
+     "years_married": 33,
+     "age_him": 63,
+     "age_her": 61,
+     "events": []
+    },
+    {
+     "year": 2039,
+     "years_married": 34,
+     "age_him": 64,
+     "age_her": 62,
+     "events": []
+    },
+    {
+     "year": 2040,
+     "years_married": 35,
+     "age_him": 65,
+     "age_her": 63,
+     "events": []
+    },
+    {
+     "year": 2041,
+     "years_married": 36,
+     "age_him": 66,
+     "age_her": 64,
+     "events": []
+    },
+    {
+     "year": 2042,
+     "years_married": 37,
+     "age_him": 67,
+     "age_her": 65,
+     "events": []
+    },
+    {
+     "year": 2043,
+     "years_married": 38,
+     "age_him": 68,
+     "age_her": 66,
+     "events": []
+    },
+    {
+     "year": 2044,
+     "years_married": 39,
+     "age_him": 69,
+     "age_her": 67,
+     "events": []
+    },
+    {
+     "year": 2045,
+     "years_married": 40,
+     "age_him": 70,
+     "age_her": 68,
+     "events": []
+    },
+    {
+     "year": 2046,
+     "years_married": 41,
+     "age_him": 71,
+     "age_her": 69,
+     "events": []
+    },
+    {
+     "year": 2047,
+     "years_married": 42,
+     "age_him": 72,
+     "age_her": 70,
+     "events": []
+    },
+    {
+     "year": 2048,
+     "years_married": 43,
+     "age_him": 73,
+     "age_her": 71,
+     "events": []
+    },
+    {
+     "year": 2049,
+     "years_married": 44,
+     "age_him": 74,
+     "age_her": 72,
+     "events": []
+    },
+    {
+     "year": 2050,
+     "years_married": 45,
+     "age_him": 75,
+     "age_her": 73,
+     "events": []
+    },
+    {
+     "year": 2051,
+     "years_married": 46,
+     "age_him": 76,
+     "age_her": 74,
+     "events": []
+    },
+    {
+     "year": 2052,
+     "years_married": 47,
+     "age_him": 77,
+     "age_her": 75,
+     "events": []
+    },
+    {
+     "year": 2053,
+     "years_married": 48,
+     "age_him": 78,
+     "age_her": 76,
+     "events": []
+    },
+    {
+     "year": 2054,
+     "years_married": 49,
+     "age_him": 79,
+     "age_her": 77,
+     "events": []
+    },
+    {
+     "year": 2055,
+     "years_married": 50,
+     "age_him": 80,
+     "age_her": 78,
+     "events": []
+    },
+    {
+     "year": 2056,
+     "years_married": 51,
+     "age_him": 81,
+     "age_her": 79,
+     "events": []
+    },
+    {
+     "year": 2057,
+     "years_married": 52,
+     "age_him": 82,
+     "age_her": 80,
+     "events": []
+    },
+    {
+     "year": 2058,
+     "years_married": 53,
+     "age_him": 83,
+     "age_her": 81,
+     "events": []
+    },
+    {
+     "year": 2059,
+     "years_married": 54,
+     "age_him": 84,
+     "age_her": 82,
+     "events": []
+    },
+    {
+     "year": 2060,
+     "years_married": 55,
+     "age_him": 85,
+     "age_her": 83,
+     "events": []
+    },
+    {
+     "year": 2061,
+     "years_married": 56,
+     "age_him": 86,
+     "age_her": 84,
+     "events": [
+      "her_dies"
+     ]
+    },
+    {
+     "year": 2062,
+     "years_married": 57,
+     "age_him": 87,
+     "age_her": 85,
+     "events": []
+    },
+    {
+     "year": 2063,
+     "years_married": 58,
+     "age_him": 88,
+     "age_her": 86,
+     "events": []
+    },
+    {
+     "year": 2064,
+     "years_married": 59,
+     "age_him": 89,
+     "age_her": 87,
+     "events": []
+    },
+    {
+     "year": 2065,
+     "years_married": 60,
+     "age_him": 90,
+     "age_her": 88,
+     "events": [
+      "him_dies"
+     ]
+    }
+   ]
+  },
+  "selection": "Lowest stored seed ending in 'divorce'. Illustration, not typical."
+ },
+ {
+  "path": "average",
+  "category": "end:widow",
+  "life": {
+   "version": "rr-v0.1",
+   "path": "average",
+   "seed": 1855,
+   "end": "widow",
+   "years_married": 46,
+   "anniversary_end_year": 2051,
+   "age_him_at_death": 76,
+   "age_her_at_death": 88,
+   "hr": 1.0,
+   "history": [
+    {
+     "year": 2005,
+     "years_married": 0,
+     "age_him": 30,
+     "age_her": 28,
+     "events": []
+    },
+    {
+     "year": 2006,
+     "years_married": 1,
+     "age_him": 31,
+     "age_her": 29,
+     "events": []
+    },
+    {
+     "year": 2007,
+     "years_married": 2,
+     "age_him": 32,
+     "age_her": 30,
+     "events": []
+    },
+    {
+     "year": 2008,
+     "years_married": 3,
+     "age_him": 33,
+     "age_her": 31,
+     "events": []
+    },
+    {
+     "year": 2009,
+     "years_married": 4,
+     "age_him": 34,
+     "age_her": 32,
+     "events": []
+    },
+    {
+     "year": 2010,
+     "years_married": 5,
+     "age_him": 35,
+     "age_her": 33,
+     "events": []
+    },
+    {
+     "year": 2011,
+     "years_married": 6,
+     "age_him": 36,
+     "age_her": 34,
+     "events": []
+    },
+    {
+     "year": 2012,
+     "years_married": 7,
+     "age_him": 37,
+     "age_her": 35,
+     "events": []
+    },
+    {
+     "year": 2013,
+     "years_married": 8,
+     "age_him": 38,
+     "age_her": 36,
+     "events": []
+    },
+    {
+     "year": 2014,
+     "years_married": 9,
+     "age_him": 39,
+     "age_her": 37,
+     "events": []
+    },
+    {
+     "year": 2015,
+     "years_married": 10,
+     "age_him": 40,
+     "age_her": 38,
+     "events": []
+    },
+    {
+     "year": 2016,
+     "years_married": 11,
+     "age_him": 41,
+     "age_her": 39,
+     "events": []
+    },
+    {
+     "year": 2017,
+     "years_married": 12,
+     "age_him": 42,
+     "age_her": 40,
+     "events": []
+    },
+    {
+     "year": 2018,
+     "years_married": 13,
+     "age_him": 43,
+     "age_her": 41,
+     "events": []
+    },
+    {
+     "year": 2019,
+     "years_married": 14,
+     "age_him": 44,
+     "age_her": 42,
+     "events": []
+    },
+    {
+     "year": 2020,
+     "years_married": 15,
+     "age_him": 45,
+     "age_her": 43,
+     "events": []
+    },
+    {
+     "year": 2021,
+     "years_married": 16,
+     "age_him": 46,
+     "age_her": 44,
+     "events": []
+    },
+    {
+     "year": 2022,
+     "years_married": 17,
+     "age_him": 47,
+     "age_her": 45,
+     "events": []
+    },
+    {
+     "year": 2023,
+     "years_married": 18,
+     "age_him": 48,
+     "age_her": 46,
+     "events": []
+    },
+    {
+     "year": 2024,
+     "years_married": 19,
+     "age_him": 49,
+     "age_her": 47,
+     "events": []
+    },
+    {
+     "year": 2025,
+     "years_married": 20,
+     "age_him": 50,
+     "age_her": 48,
+     "events": []
+    },
+    {
+     "year": 2026,
+     "years_married": 21,
+     "age_him": 51,
+     "age_her": 49,
+     "events": []
+    },
+    {
+     "year": 2027,
+     "years_married": 22,
+     "age_him": 52,
+     "age_her": 50,
+     "events": []
+    },
+    {
+     "year": 2028,
+     "years_married": 23,
+     "age_him": 53,
+     "age_her": 51,
+     "events": []
+    },
+    {
+     "year": 2029,
+     "years_married": 24,
+     "age_him": 54,
+     "age_her": 52,
+     "events": []
+    },
+    {
+     "year": 2030,
+     "years_married": 25,
+     "age_him": 55,
+     "age_her": 53,
+     "events": []
+    },
+    {
+     "year": 2031,
+     "years_married": 26,
+     "age_him": 56,
+     "age_her": 54,
+     "events": []
+    },
+    {
+     "year": 2032,
+     "years_married": 27,
+     "age_him": 57,
+     "age_her": 55,
+     "events": []
+    },
+    {
+     "year": 2033,
+     "years_married": 28,
+     "age_him": 58,
+     "age_her": 56,
+     "events": []
+    },
+    {
+     "year": 2034,
+     "years_married": 29,
+     "age_him": 59,
+     "age_her": 57,
+     "events": []
+    },
+    {
+     "year": 2035,
+     "years_married": 30,
+     "age_him": 60,
+     "age_her": 58,
+     "events": []
+    },
+    {
+     "year": 2036,
+     "years_married": 31,
+     "age_him": 61,
+     "age_her": 59,
+     "events": []
+    },
+    {
+     "year": 2037,
+     "years_married": 32,
+     "age_him": 62,
+     "age_her": 60,
+     "events": []
+    },
+    {
+     "year": 2038,
+     "years_married": 33,
+     "age_him": 63,
+     "age_her": 61,
+     "events": []
+    },
+    {
+     "year": 2039,
+     "years_married": 34,
+     "age_him": 64,
+     "age_her": 62,
+     "events": []
+    },
+    {
+     "year": 2040,
+     "years_married": 35,
+     "age_him": 65,
+     "age_her": 63,
+     "events": []
+    },
+    {
+     "year": 2041,
+     "years_married": 36,
+     "age_him": 66,
+     "age_her": 64,
+     "events": []
+    },
+    {
+     "year": 2042,
+     "years_married": 37,
+     "age_him": 67,
+     "age_her": 65,
+     "events": []
+    },
+    {
+     "year": 2043,
+     "years_married": 38,
+     "age_him": 68,
+     "age_her": 66,
+     "events": []
+    },
+    {
+     "year": 2044,
+     "years_married": 39,
+     "age_him": 69,
+     "age_her": 67,
+     "events": []
+    },
+    {
+     "year": 2045,
+     "years_married": 40,
+     "age_him": 70,
+     "age_her": 68,
+     "events": []
+    },
+    {
+     "year": 2046,
+     "years_married": 41,
+     "age_him": 71,
+     "age_her": 69,
+     "events": []
+    },
+    {
+     "year": 2047,
+     "years_married": 42,
+     "age_him": 72,
+     "age_her": 70,
+     "events": []
+    },
+    {
+     "year": 2048,
+     "years_married": 43,
+     "age_him": 73,
+     "age_her": 71,
+     "events": []
+    },
+    {
+     "year": 2049,
+     "years_married": 44,
+     "age_him": 74,
+     "age_her": 72,
+     "events": []
+    },
+    {
+     "year": 2050,
+     "years_married": 45,
+     "age_him": 75,
+     "age_her": 73,
+     "events": []
+    },
+    {
+     "year": 2051,
+     "years_married": 46,
+     "age_him": 76,
+     "age_her": 74,
+     "events": [
+      "him_dies"
+     ]
+    },
+    {
+     "year": 2052,
+     "years_married": 47,
+     "age_him": 77,
+     "age_her": 75,
+     "events": []
+    },
+    {
+     "year": 2053,
+     "years_married": 48,
+     "age_him": 78,
+     "age_her": 76,
+     "events": []
+    },
+    {
+     "year": 2054,
+     "years_married": 49,
+     "age_him": 79,
+     "age_her": 77,
+     "events": []
+    },
+    {
+     "year": 2055,
+     "years_married": 50,
+     "age_him": 80,
+     "age_her": 78,
+     "events": []
+    },
+    {
+     "year": 2056,
+     "years_married": 51,
+     "age_him": 81,
+     "age_her": 79,
+     "events": []
+    },
+    {
+     "year": 2057,
+     "years_married": 52,
+     "age_him": 82,
+     "age_her": 80,
+     "events": []
+    },
+    {
+     "year": 2058,
+     "years_married": 53,
+     "age_him": 83,
+     "age_her": 81,
+     "events": []
+    },
+    {
+     "year": 2059,
+     "years_married": 54,
+     "age_him": 84,
+     "age_her": 82,
+     "events": []
+    },
+    {
+     "year": 2060,
+     "years_married": 55,
+     "age_him": 85,
+     "age_her": 83,
+     "events": []
+    },
+    {
+     "year": 2061,
+     "years_married": 56,
+     "age_him": 86,
+     "age_her": 84,
+     "events": []
+    },
+    {
+     "year": 2062,
+     "years_married": 57,
+     "age_him": 87,
+     "age_her": 85,
+     "events": []
+    },
+    {
+     "year": 2063,
+     "years_married": 58,
+     "age_him": 88,
+     "age_her": 86,
+     "events": []
+    },
+    {
+     "year": 2064,
+     "years_married": 59,
+     "age_him": 89,
+     "age_her": 87,
+     "events": []
+    },
+    {
+     "year": 2065,
+     "years_married": 60,
+     "age_him": 90,
+     "age_her": 88,
+     "events": [
+      "her_dies"
+     ]
+    }
+   ]
+  },
+  "selection": "Lowest stored seed ending in 'widow'. Illustration, not typical."
+ },
+ {
+  "path": "average",
+  "category": "end:widower",
+  "life": {
+   "version": "rr-v0.1",
+   "path": "average",
+   "seed": 1853,
+   "end": "widower",
+   "years_married": 5,
+   "anniversary_end_year": 2010,
+   "age_him_at_death": 81,
+   "age_her_at_death": 33,
+   "hr": 1.0,
+   "history": [
+    {
+     "year": 2005,
+     "years_married": 0,
+     "age_him": 30,
+     "age_her": 28,
+     "events": []
+    },
+    {
+     "year": 2006,
+     "years_married": 1,
+     "age_him": 31,
+     "age_her": 29,
+     "events": []
+    },
+    {
+     "year": 2007,
+     "years_married": 2,
+     "age_him": 32,
+     "age_her": 30,
+     "events": []
+    },
+    {
+     "year": 2008,
+     "years_married": 3,
+     "age_him": 33,
+     "age_her": 31,
+     "events": []
+    },
+    {
+     "year": 2009,
+     "years_married": 4,
+     "age_him": 34,
+     "age_her": 32,
+     "events": []
+    },
+    {
+     "year": 2010,
+     "years_married": 5,
+     "age_him": 35,
+     "age_her": 33,
+     "events": [
+      "her_dies"
+     ]
+    },
+    {
+     "year": 2011,
+     "years_married": 6,
+     "age_him": 36,
+     "age_her": 34,
+     "events": []
+    },
+    {
+     "year": 2012,
+     "years_married": 7,
+     "age_him": 37,
+     "age_her": 35,
+     "events": []
+    },
+    {
+     "year": 2013,
+     "years_married": 8,
+     "age_him": 38,
+     "age_her": 36,
+     "events": []
+    },
+    {
+     "year": 2014,
+     "years_married": 9,
+     "age_him": 39,
+     "age_her": 37,
+     "events": []
+    },
+    {
+     "year": 2015,
+     "years_married": 10,
+     "age_him": 40,
+     "age_her": 38,
+     "events": []
+    },
+    {
+     "year": 2016,
+     "years_married": 11,
+     "age_him": 41,
+     "age_her": 39,
+     "events": []
+    },
+    {
+     "year": 2017,
+     "years_married": 12,
+     "age_him": 42,
+     "age_her": 40,
+     "events": []
+    },
+    {
+     "year": 2018,
+     "years_married": 13,
+     "age_him": 43,
+     "age_her": 41,
+     "events": []
+    },
+    {
+     "year": 2019,
+     "years_married": 14,
+     "age_him": 44,
+     "age_her": 42,
+     "events": []
+    },
+    {
+     "year": 2020,
+     "years_married": 15,
+     "age_him": 45,
+     "age_her": 43,
+     "events": []
+    },
+    {
+     "year": 2021,
+     "years_married": 16,
+     "age_him": 46,
+     "age_her": 44,
+     "events": []
+    },
+    {
+     "year": 2022,
+     "years_married": 17,
+     "age_him": 47,
+     "age_her": 45,
+     "events": []
+    },
+    {
+     "year": 2023,
+     "years_married": 18,
+     "age_him": 48,
+     "age_her": 46,
+     "events": []
+    },
+    {
+     "year": 2024,
+     "years_married": 19,
+     "age_him": 49,
+     "age_her": 47,
+     "events": []
+    },
+    {
+     "year": 2025,
+     "years_married": 20,
+     "age_him": 50,
+     "age_her": 48,
+     "events": []
+    },
+    {
+     "year": 2026,
+     "years_married": 21,
+     "age_him": 51,
+     "age_her": 49,
+     "events": []
+    },
+    {
+     "year": 2027,
+     "years_married": 22,
+     "age_him": 52,
+     "age_her": 50,
+     "events": []
+    },
+    {
+     "year": 2028,
+     "years_married": 23,
+     "age_him": 53,
+     "age_her": 51,
+     "events": []
+    },
+    {
+     "year": 2029,
+     "years_married": 24,
+     "age_him": 54,
+     "age_her": 52,
+     "events": []
+    },
+    {
+     "year": 2030,
+     "years_married": 25,
+     "age_him": 55,
+     "age_her": 53,
+     "events": []
+    },
+    {
+     "year": 2031,
+     "years_married": 26,
+     "age_him": 56,
+     "age_her": 54,
+     "events": []
+    },
+    {
+     "year": 2032,
+     "years_married": 27,
+     "age_him": 57,
+     "age_her": 55,
+     "events": []
+    },
+    {
+     "year": 2033,
+     "years_married": 28,
+     "age_him": 58,
+     "age_her": 56,
+     "events": []
+    },
+    {
+     "year": 2034,
+     "years_married": 29,
+     "age_him": 59,
+     "age_her": 57,
+     "events": []
+    },
+    {
+     "year": 2035,
+     "years_married": 30,
+     "age_him": 60,
+     "age_her": 58,
+     "events": []
+    },
+    {
+     "year": 2036,
+     "years_married": 31,
+     "age_him": 61,
+     "age_her": 59,
+     "events": []
+    },
+    {
+     "year": 2037,
+     "years_married": 32,
+     "age_him": 62,
+     "age_her": 60,
+     "events": []
+    },
+    {
+     "year": 2038,
+     "years_married": 33,
+     "age_him": 63,
+     "age_her": 61,
+     "events": []
+    },
+    {
+     "year": 2039,
+     "years_married": 34,
+     "age_him": 64,
+     "age_her": 62,
+     "events": []
+    },
+    {
+     "year": 2040,
+     "years_married": 35,
+     "age_him": 65,
+     "age_her": 63,
+     "events": []
+    },
+    {
+     "year": 2041,
+     "years_married": 36,
+     "age_him": 66,
+     "age_her": 64,
+     "events": []
+    },
+    {
+     "year": 2042,
+     "years_married": 37,
+     "age_him": 67,
+     "age_her": 65,
+     "events": []
+    },
+    {
+     "year": 2043,
+     "years_married": 38,
+     "age_him": 68,
+     "age_her": 66,
+     "events": []
+    },
+    {
+     "year": 2044,
+     "years_married": 39,
+     "age_him": 69,
+     "age_her": 67,
+     "events": []
+    },
+    {
+     "year": 2045,
+     "years_married": 40,
+     "age_him": 70,
+     "age_her": 68,
+     "events": []
+    },
+    {
+     "year": 2046,
+     "years_married": 41,
+     "age_him": 71,
+     "age_her": 69,
+     "events": []
+    },
+    {
+     "year": 2047,
+     "years_married": 42,
+     "age_him": 72,
+     "age_her": 70,
+     "events": []
+    },
+    {
+     "year": 2048,
+     "years_married": 43,
+     "age_him": 73,
+     "age_her": 71,
+     "events": []
+    },
+    {
+     "year": 2049,
+     "years_married": 44,
+     "age_him": 74,
+     "age_her": 72,
+     "events": []
+    },
+    {
+     "year": 2050,
+     "years_married": 45,
+     "age_him": 75,
+     "age_her": 73,
+     "events": []
+    },
+    {
+     "year": 2051,
+     "years_married": 46,
+     "age_him": 76,
+     "age_her": 74,
+     "events": []
+    },
+    {
+     "year": 2052,
+     "years_married": 47,
+     "age_him": 77,
+     "age_her": 75,
+     "events": []
+    },
+    {
+     "year": 2053,
+     "years_married": 48,
+     "age_him": 78,
+     "age_her": 76,
+     "events": []
+    },
+    {
+     "year": 2054,
+     "years_married": 49,
+     "age_him": 79,
+     "age_her": 77,
+     "events": []
+    },
+    {
+     "year": 2055,
+     "years_married": 50,
+     "age_him": 80,
+     "age_her": 78,
+     "events": []
+    },
+    {
+     "year": 2056,
+     "years_married": 51,
+     "age_him": 81,
+     "age_her": 79,
+     "events": [
+      "him_dies"
+     ]
+    }
+   ]
+  },
+  "selection": "Lowest stored seed ending in 'widower'. Illustration, not typical."
+ }
+]

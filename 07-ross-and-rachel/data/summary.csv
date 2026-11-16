@@ -1,0 +1,5 @@
+couple,label,wedding_year,age_him,age_her,hazard_ratio,runs,p_divorce,p_until_death,median_years_married,mean_years_married,median_years_if_divorce
+ross_rachel,Ross & Rachel,2005,37,35,1.077,1000000,0.534588,0.465412,16,20.58,7
+monica_chandler,Monica & Chandler,2001,33,32,0.4567,1000000,0.283156,0.716844,33,30.39,8
+phoebe_mike,Phoebe & Mike,2004,35,36,0.6511,1000000,0.373456,0.626544,25,25.88,8
+average,Average American couple,2005,30,28,1.0,1000000,0.518337,0.481663,18,24.23,7
