@@ -1,0 +1,185 @@
+{
+  "paths": [
+    {
+      "path": "esa",
+      "label": "Day-one players shaped like 2013 US gamers (ESA: mean age 30, 32% under 18, 45% women)",
+      "settings": {
+        "p_female": 0.45,
+        "p_minor": 0.32,
+        "minor_age": [
+          10,
+          17
+        ],
+        "adult_age": [
+          18,
+          75
+        ],
+        "mean_age": 30.0,
+        "adult_shape": "truncated_exponential",
+        "covid": true
+      },
+      "runs": 1000000,
+      "mean_age_2013": 29.68,
+      "share_female": 0.449743,
+      "p_dead_by_gta6": 0.054403,
+      "ci95_gta6": [
+        0.05396015943461547,
+        0.054849264163102825
+      ],
+      "p_dead_by_gap7": 0.102406,
+      "ci95_gap7": [
+        0.10181329086452454,
+        0.10300176391796098
+      ],
+      "p_dead_by_gap13": 0.154261,
+      "ci95_gap13": [
+        0.1535543787310983,
+        0.15497027764058177
+      ],
+      "p_dead_by_gap26": 0.29646,
+      "ci95_gap26": [
+        0.29556565863629514,
+        0.29735590519622523
+      ],
+      "day_one_buyers_dead_by_gta6": 609858,
+      "share_of_deaths_in_2020_2021": 0.1709096924801941
+    },
+    {
+      "path": "young_men",
+      "label": "Assumption: only men aged 18-34 (the stereotypical GTA buyer)",
+      "settings": {
+        "p_female": 0.0,
+        "p_minor": 0.0,
+        "minor_age": [
+          10,
+          17
+        ],
+        "adult_age": [
+          18,
+          34
+        ],
+        "mean_age": 30.0,
+        "adult_shape": "uniform",
+        "covid": true
+      },
+      "runs": 1000000,
+      "mean_age_2013": 25.995,
+      "share_female": 0.0,
+      "p_dead_by_gta6": 0.030686,
+      "ci95_gta6": [
+        0.03034976625340531,
+        0.031025839566067366
+      ],
+      "p_dead_by_gap7": 0.054918,
+      "ci95_gap7": [
+        0.05447317994269016,
+        0.05536623969819533
+      ],
+      "p_dead_by_gap13": 0.084363,
+      "ci95_gap13": [
+        0.08381984979276969,
+        0.08490934361716088
+      ],
+      "p_dead_by_gap26": 0.203232,
+      "ci95_gap26": [
+        0.20244442945861293,
+        0.20402185066052533
+      ],
+      "day_one_buyers_dead_by_gta6": 343990,
+      "share_of_deaths_in_2020_2021": 0.1686110930065828
+    },
+    {
+      "path": "older",
+      "label": "Assumption: no minors, adults 18-75 with mean age 40",
+      "settings": {
+        "p_female": 0.45,
+        "p_minor": 0.0,
+        "minor_age": [
+          10,
+          17
+        ],
+        "adult_age": [
+          18,
+          75
+        ],
+        "mean_age": 40.0,
+        "adult_shape": "truncated_exponential",
+        "covid": true
+      },
+      "runs": 1000000,
+      "mean_age_2013": 39.489,
+      "share_female": 0.450204,
+      "p_dead_by_gta6": 0.088472,
+      "ci95_gta6": [
+        0.08791697872017944,
+        0.0890301831196036
+      ],
+      "p_dead_by_gap7": 0.164408,
+      "ci95_gap7": [
+        0.16368282448067886,
+        0.16513575392987026
+      ],
+      "p_dead_by_gap13": 0.244036,
+      "ci95_gap13": [
+        0.243195136557739,
+        0.24487883005731081
+      ],
+      "p_dead_by_gap26": 0.445003,
+      "ci95_gap26": [
+        0.4440291595175367,
+        0.4459772630337903
+      ],
+      "day_one_buyers_dead_by_gta6": 991771,
+      "share_of_deaths_in_2020_2021": 0.16936431865448956
+    },
+    {
+      "path": "no_covid",
+      "label": "ESA players, 2020-2021 at the 2019 death rate (what COVID added)",
+      "settings": {
+        "p_female": 0.45,
+        "p_minor": 0.32,
+        "minor_age": [
+          10,
+          17
+        ],
+        "adult_age": [
+          18,
+          75
+        ],
+        "mean_age": 30.0,
+        "adult_shape": "truncated_exponential",
+        "covid": false
+      },
+      "runs": 1000000,
+      "mean_age_2013": 29.65,
+      "share_female": 0.450893,
+      "p_dead_by_gta6": 0.053086,
+      "ci95_gta6": [
+        0.052648272572202934,
+        0.05352716114425089
+      ],
+      "p_dead_by_gap7": 0.101402,
+      "ci95_gap7": [
+        0.10081188423561989,
+        0.1019951782607688
+      ],
+      "p_dead_by_gap13": 0.153335,
+      "ci95_gap13": [
+        0.15263012402180218,
+        0.15404253946449373
+      ],
+      "p_dead_by_gap26": 0.295106,
+      "ci95_gap26": [
+        0.29421285131334635,
+        0.29600072292218677
+      ],
+      "day_one_buyers_dead_by_gta6": 595094,
+      "share_of_deaths_in_2020_2021": 0.15452284971555588
+    }
+  ],
+  "run": {
+    "seed": 1,
+    "players_per_path": 1000000,
+    "fingerprint": "d2b02ae03713d35e7dfdafe2164b2ba1e91a1d572523cb0c633c3d2c5508ef4c"
+  }
+}

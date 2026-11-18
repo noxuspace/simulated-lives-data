@@ -23,6 +23,7 @@ Where a model rests on its own coefficients, they are the author's assumptions. 
 | 06 | [Talent or luck? A famous experiment, a billion careers](06-talent-vs-luck/) · [video](https://youtu.be/_uotnvYlITY) | 1 billion careers |
 | 07 | [Ross & Rachel: would the marriage last?](07-ross-and-rachel/) · [video](https://youtu.be/snm_5N4KkU8) | 4 million marriages |
 | 08 | [The Traitors: who really wins the game](08-the-traitors/) · [video](https://youtu.be/-pljkwO23Qs) | 28 million seasons |
+| 09 | [GTA 6 took 13 years: how many day-one players didn't live to play it?](09-gta-wait/) · [video](https://youtu.be/14wEcvDPaJI) | 4 million lives |
 
 ## License
 
