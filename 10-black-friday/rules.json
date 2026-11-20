@@ -1,0 +1,228 @@
+{
+  "version": "black-friday-v0.1",
+  "definition": "One simulated shopper per seed with a gift list of 6 products (each a different specific model at a different store). Every product gets its own daily price history from 270 days before Black Friday 2026 (27 Nov) to 182 days after: a regular price with occasional permanent steps, random short sales, the yearly sale events (Prime Day, Labor Day, October deal days, the Black Friday season, after-Christmas, Presidents' Day, Memorial Day) and, for some products, a briefly inflated regular price before Black Friday so the 'was' price looks higher. Sales reuse a few price points per product, so the same sale price comes back. The shopper must have all gifts by 20 December.",
+  "calendar": {
+    "black_friday": "2026-11-27",
+    "day0": 0,
+    "start": -270,
+    "end": 182,
+    "gift_deadline": 23,
+    "oct1": -57,
+    "bf_season": [
+      -14,
+      4
+    ],
+    "events": {
+      "prime_day": {
+        "start": -136,
+        "days": 2,
+        "p": 0.6,
+        "points": [
+          0.2,
+          0.5,
+          0.3
+        ]
+      },
+      "labor_day": {
+        "start": -84,
+        "days": 4,
+        "p": 0.3,
+        "points": [
+          0.5,
+          0.5,
+          0.0
+        ]
+      },
+      "october_deals": {
+        "start": -52,
+        "days": 2,
+        "p": 0.6,
+        "points": [
+          0.2,
+          0.5,
+          0.3
+        ]
+      },
+      "bf_early": {
+        "start": -14,
+        "days": 14,
+        "p": 0.7,
+        "points": [
+          0.2,
+          0.6,
+          0.2
+        ]
+      },
+      "black_friday": {
+        "start": 0,
+        "days": 4,
+        "p": 0.92,
+        "points": [
+          0.05,
+          0.45,
+          0.5
+        ]
+      },
+      "after_christmas": {
+        "start": 29,
+        "days": 17,
+        "p": 0.7,
+        "points": [
+          0.1,
+          0.5,
+          0.4
+        ]
+      },
+      "presidents_day": {
+        "start": 80,
+        "days": 3,
+        "p": 0.3,
+        "points": [
+          0.5,
+          0.5,
+          0.0
+        ]
+      },
+      "memorial_day": {
+        "start": 179,
+        "days": 3,
+        "p": 0.3,
+        "points": [
+          0.5,
+          0.5,
+          0.0
+        ]
+      },
+      "prev_memorial_day": {
+        "start": -186,
+        "days": 3,
+        "p": 0.3,
+        "points": [
+          0.5,
+          0.5,
+          0.0
+        ]
+      }
+    }
+  },
+  "products": {
+    "tv": {
+      "label": "55-inch 4K TV",
+      "price": 500,
+      "adobe_category": "televisions",
+      "adobe_peak": 0.243,
+      "sales_per_year": 6,
+      "step_rate": 3,
+      "step": [
+        0.9,
+        1.03
+      ]
+    },
+    "headphones": {
+      "label": "Noise-cancelling headphones",
+      "price": 250,
+      "adobe_category": "electronics",
+      "adobe_peak": 0.309,
+      "sales_per_year": 10,
+      "step_rate": 2,
+      "step": [
+        0.92,
+        1.03
+      ]
+    },
+    "console": {
+      "label": "Game console",
+      "price": 500,
+      "adobe_category": "electronics (consoles: rarely discounted, Visualping 14% 'fake')",
+      "adobe_peak": 0.12,
+      "sales_per_year": 2,
+      "step_rate": 1,
+      "step": [
+        0.95,
+        1.05
+      ]
+    },
+    "air_fryer": {
+      "label": "Air fryer",
+      "price": 120,
+      "adobe_category": "appliances",
+      "adobe_peak": 0.202,
+      "sales_per_year": 8,
+      "step_rate": 2,
+      "step": [
+        0.95,
+        1.05
+      ]
+    },
+    "jacket": {
+      "label": "Winter jacket",
+      "price": 100,
+      "adobe_category": "apparel",
+      "adobe_peak": 0.251,
+      "sales_per_year": 10,
+      "step_rate": 1,
+      "step": [
+        0.97,
+        1.05
+      ]
+    },
+    "toy": {
+      "label": "Big building set",
+      "price": 80,
+      "adobe_category": "toys",
+      "adobe_peak": 0.296,
+      "sales_per_year": 8,
+      "step_rate": 1,
+      "step": [
+        0.97,
+        1.05
+      ]
+    }
+  },
+  "assumptions": {
+    "price_points": "Each product has 3 sale depths, drawn once: small (0.4-0.7), medium (0.75-1.0) and big (1.0-1.25) times 0.85 x the Adobe peak discount of its category (the rest of Adobe's '% off listed price' comes from inflated list prices). Random sales pick small 60%, medium 35%, big 5%; each event has its own mix (calendar.events.points).",
+    "random_sales": "Poisson, sales_per_year per product, 1-14 days long (mean ~6).",
+    "regular_price_steps": "Poisson step_rate per year; each step multiplies the regular price by a uniform factor in 'step' (electronics drift down).",
+    "inflated_was": "With probability inflate_p a product's regular price is raised by 10-35% for 15-30 days ending 15 days before Black Friday (the FTC 233.1 'fictitious former price' pattern). The advertised 'was' price on Black Friday = the highest regular price of the previous 90 days.",
+    "random_day": "Strategy 2 buys the whole list on one uniformly random day between 180 days before Black Friday and 20 December.",
+    "tracker": "Strategy 3 watches each product from 90 days before Black Friday and buys on the first day its price is below the median of the previous 180 days; whatever is left is bought on 20 December.",
+    "impulse": "Strategy 4 buys the list on Black Friday plus a Poisson(impulse_mean) number of extra 'deals' not on the list (random products at 0.2-1.0 x a random list price, same price model, bought at their Black Friday price).",
+    "prices": "US dollars, rounded to .99; illustrative product prices, not quotes from any store."
+  },
+  "defaults": {
+    "inflate_p": 0.45,
+    "sales_scale": 1.0,
+    "bf_scale": 1.0,
+    "impulse_mean": 2.0,
+    "random_mix": [
+      0.5,
+      0.4,
+      0.1
+    ]
+  },
+  "paths": {
+    "base": {
+      "label": "Calibrated year of prices",
+      "set": {}
+    },
+    "honest_was": {
+      "label": "Assumption: no inflated 'was' prices",
+      "set": {
+        "inflate_p": 0.0
+      }
+    },
+    "fewer_sales": {
+      "label": "Assumption: half as many sales outside Black Friday",
+      "set": {
+        "sales_scale": 0.5
+      }
+    },
+    "deeper_bf": {
+      "label": "Assumption: Black Friday discounts 30% deeper",
+      "set": {
+        "bf_scale": 1.3
+      }
+    }
+  },
+  "method": "One shopper per seed with 6 gift-list products, each with its own daily price history around Black Friday 2026 (regular price with steps, random sales, yearly sale events, sometimes an inflated 'was' price). The price model is the author's, calibrated to Which? (2024, 2025), Visualping (2025) and Adobe (2025) figures. Exact counts; 95% Wilson intervals measure sampling only."
+}
