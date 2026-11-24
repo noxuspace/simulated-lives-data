@@ -1,0 +1,733 @@
+[
+ {
+  "path": "panem",
+  "category": "died",
+  "life": {
+   "version": "hunger-games-v0.1",
+   "path": "panem",
+   "seed": 5396,
+   "district": "2",
+   "female": true,
+   "tesserae_per_year": 0,
+   "quell_age": null,
+   "reapings": [
+    {
+     "age": 16,
+     "slips": 5,
+     "quell": false,
+     "result": "died",
+     "tributes": 24
+    }
+   ],
+   "outcome": "died"
+  },
+  "selection": "Lowest stored seed with outcome died. Illustration, not typical."
+ },
+ {
+  "path": "panem",
+  "category": "never_reaped",
+  "life": {
+   "version": "hunger-games-v0.1",
+   "path": "panem",
+   "seed": 1849,
+   "district": "10",
+   "female": false,
+   "tesserae_per_year": 6,
+   "quell_age": null,
+   "reapings": [],
+   "outcome": "never_reaped"
+  },
+  "selection": "Lowest stored seed with outcome never_reaped. Illustration, not typical."
+ },
+ {
+  "path": "panem",
+  "category": "reaped_replaced",
+  "life": {
+   "version": "hunger-games-v0.1",
+   "path": "panem",
+   "seed": 7842,
+   "district": "4",
+   "female": true,
+   "tesserae_per_year": 0,
+   "quell_age": null,
+   "reapings": [
+    {
+     "age": 18,
+     "slips": 7,
+     "quell": false,
+     "result": "replaced_by_volunteer"
+    }
+   ],
+   "outcome": "reaped_replaced"
+  },
+  "selection": "Lowest stored seed with outcome reaped_replaced. Illustration, not typical."
+ },
+ {
+  "path": "panem",
+  "category": "won",
+  "life": {
+   "version": "hunger-games-v0.1",
+   "path": "panem",
+   "seed": 166687,
+   "district": "10",
+   "female": true,
+   "tesserae_per_year": 0,
+   "quell_age": null,
+   "reapings": [
+    {
+     "age": 16,
+     "slips": 5,
+     "quell": false,
+     "result": "won",
+     "tributes": 24
+    }
+   ],
+   "outcome": "won"
+  },
+  "selection": "Lowest stored seed with outcome won. Illustration, not typical."
+ },
+ {
+  "path": "d12",
+  "category": "died",
+  "life": {
+   "version": "hunger-games-v0.1",
+   "path": "d12",
+   "seed": 1942,
+   "district": "12",
+   "female": false,
+   "tesserae_per_year": 6,
+   "quell_age": null,
+   "reapings": [
+    {
+     "age": 15,
+     "slips": 28,
+     "quell": false,
+     "result": "died",
+     "tributes": 24
+    }
+   ],
+   "outcome": "died"
+  },
+  "selection": "Lowest stored seed with outcome died. Illustration, not typical."
+ },
+ {
+  "path": "d12",
+  "category": "never_reaped",
+  "life": {
+   "version": "hunger-games-v0.1",
+   "path": "d12",
+   "seed": 1849,
+   "district": "12",
+   "female": true,
+   "tesserae_per_year": 2,
+   "quell_age": null,
+   "reapings": [],
+   "outcome": "never_reaped"
+  },
+  "selection": "Lowest stored seed with outcome never_reaped. Illustration, not typical."
+ },
+ {
+  "path": "d12",
+  "category": "won",
+  "life": {
+   "version": "hunger-games-v0.1",
+   "path": "d12",
+   "seed": 1928,
+   "district": "12",
+   "female": false,
+   "tesserae_per_year": 4,
+   "quell_age": null,
+   "reapings": [
+    {
+     "age": 17,
+     "slips": 30,
+     "quell": false,
+     "result": "won",
+     "tributes": 24
+    }
+   ],
+   "outcome": "won"
+  },
+  "selection": "Lowest stored seed with outcome won. Illustration, not typical."
+ },
+ {
+  "path": "d12_seam",
+  "category": "died",
+  "life": {
+   "version": "hunger-games-v0.1",
+   "path": "d12_seam",
+   "seed": 1906,
+   "district": "12",
+   "female": true,
+   "tesserae_per_year": 6,
+   "quell_age": null,
+   "reapings": [
+    {
+     "age": 12,
+     "slips": 7,
+     "quell": false,
+     "result": "died",
+     "tributes": 24
+    }
+   ],
+   "outcome": "died"
+  },
+  "selection": "Lowest stored seed with outcome died. Illustration, not typical."
+ },
+ {
+  "path": "d12_seam",
+  "category": "never_reaped",
+  "life": {
+   "version": "hunger-games-v0.1",
+   "path": "d12_seam",
+   "seed": 1849,
+   "district": "12",
+   "female": false,
+   "tesserae_per_year": 5,
+   "quell_age": null,
+   "reapings": [],
+   "outcome": "never_reaped"
+  },
+  "selection": "Lowest stored seed with outcome never_reaped. Illustration, not typical."
+ },
+ {
+  "path": "d12_seam",
+  "category": "won",
+  "life": {
+   "version": "hunger-games-v0.1",
+   "path": "d12_seam",
+   "seed": 11041,
+   "district": "12",
+   "female": false,
+   "tesserae_per_year": 4,
+   "quell_age": null,
+   "reapings": [
+    {
+     "age": 14,
+     "slips": 15,
+     "quell": false,
+     "result": "won",
+     "tributes": 24
+    }
+   ],
+   "outcome": "won"
+  },
+  "selection": "Lowest stored seed with outcome won. Illustration, not typical."
+ },
+ {
+  "path": "d12_merchant",
+  "category": "died",
+  "life": {
+   "version": "hunger-games-v0.1",
+   "path": "d12_merchant",
+   "seed": 1993,
+   "district": "12",
+   "female": false,
+   "tesserae_per_year": 0,
+   "quell_age": null,
+   "reapings": [
+    {
+     "age": 13,
+     "slips": 2,
+     "quell": false,
+     "result": "died",
+     "tributes": 24
+    }
+   ],
+   "outcome": "died"
+  },
+  "selection": "Lowest stored seed with outcome died. Illustration, not typical."
+ },
+ {
+  "path": "d12_merchant",
+  "category": "never_reaped",
+  "life": {
+   "version": "hunger-games-v0.1",
+   "path": "d12_merchant",
+   "seed": 1849,
+   "district": "12",
+   "female": true,
+   "tesserae_per_year": 0,
+   "quell_age": null,
+   "reapings": [],
+   "outcome": "never_reaped"
+  },
+  "selection": "Lowest stored seed with outcome never_reaped. Illustration, not typical."
+ },
+ {
+  "path": "d12_merchant",
+  "category": "won",
+  "life": {
+   "version": "hunger-games-v0.1",
+   "path": "d12_merchant",
+   "seed": 11041,
+   "district": "12",
+   "female": true,
+   "tesserae_per_year": 0,
+   "quell_age": null,
+   "reapings": [
+    {
+     "age": 18,
+     "slips": 7,
+     "quell": false,
+     "result": "won",
+     "tributes": 24
+    }
+   ],
+   "outcome": "won"
+  },
+  "selection": "Lowest stored seed with outcome won. Illustration, not typical."
+ },
+ {
+  "path": "d1",
+  "category": "died",
+  "life": {
+   "version": "hunger-games-v0.1",
+   "path": "d1",
+   "seed": 34902,
+   "district": "1",
+   "female": true,
+   "tesserae_per_year": 0,
+   "quell_age": null,
+   "reapings": [
+    {
+     "age": 14,
+     "slips": 3,
+     "quell": false,
+     "result": "died",
+     "tributes": 24
+    }
+   ],
+   "outcome": "died"
+  },
+  "selection": "Lowest stored seed with outcome died. Illustration, not typical."
+ },
+ {
+  "path": "d1",
+  "category": "never_reaped",
+  "life": {
+   "version": "hunger-games-v0.1",
+   "path": "d1",
+   "seed": 1849,
+   "district": "1",
+   "female": true,
+   "tesserae_per_year": 0,
+   "quell_age": null,
+   "reapings": [],
+   "outcome": "never_reaped"
+  },
+  "selection": "Lowest stored seed with outcome never_reaped. Illustration, not typical."
+ },
+ {
+  "path": "d1",
+  "category": "reaped_replaced",
+  "life": {
+   "version": "hunger-games-v0.1",
+   "path": "d1",
+   "seed": 4328,
+   "district": "1",
+   "female": true,
+   "tesserae_per_year": 0,
+   "quell_age": null,
+   "reapings": [
+    {
+     "age": 14,
+     "slips": 3,
+     "quell": false,
+     "result": "replaced_by_volunteer"
+    }
+   ],
+   "outcome": "reaped_replaced"
+  },
+  "selection": "Lowest stored seed with outcome reaped_replaced. Illustration, not typical."
+ },
+ {
+  "path": "d11",
+  "category": "died",
+  "life": {
+   "version": "hunger-games-v0.1",
+   "path": "d11",
+   "seed": 2708,
+   "district": "11",
+   "female": false,
+   "tesserae_per_year": 5,
+   "quell_age": null,
+   "reapings": [
+    {
+     "age": 17,
+     "slips": 36,
+     "quell": false,
+     "result": "died",
+     "tributes": 24
+    }
+   ],
+   "outcome": "died"
+  },
+  "selection": "Lowest stored seed with outcome died. Illustration, not typical."
+ },
+ {
+  "path": "d11",
+  "category": "never_reaped",
+  "life": {
+   "version": "hunger-games-v0.1",
+   "path": "d11",
+   "seed": 1849,
+   "district": "11",
+   "female": false,
+   "tesserae_per_year": 4,
+   "quell_age": null,
+   "reapings": [],
+   "outcome": "never_reaped"
+  },
+  "selection": "Lowest stored seed with outcome never_reaped. Illustration, not typical."
+ },
+ {
+  "path": "d11",
+  "category": "won",
+  "life": {
+   "version": "hunger-games-v0.1",
+   "path": "d11",
+   "seed": 76784,
+   "district": "11",
+   "female": false,
+   "tesserae_per_year": 5,
+   "quell_age": null,
+   "reapings": [
+    {
+     "age": 16,
+     "slips": 30,
+     "quell": false,
+     "result": "won",
+     "tributes": 24
+    }
+   ],
+   "outcome": "won"
+  },
+  "selection": "Lowest stored seed with outcome won. Illustration, not typical."
+ },
+ {
+  "path": "quell",
+  "category": "died",
+  "life": {
+   "version": "hunger-games-v0.1",
+   "path": "quell",
+   "seed": 2765,
+   "district": "7",
+   "female": true,
+   "tesserae_per_year": 3,
+   "quell_age": 15,
+   "reapings": [
+    {
+     "age": 15,
+     "slips": 16,
+     "quell": true,
+     "result": "died",
+     "tributes": 48
+    }
+   ],
+   "outcome": "died"
+  },
+  "selection": "Lowest stored seed with outcome died. Illustration, not typical."
+ },
+ {
+  "path": "quell",
+  "category": "never_reaped",
+  "life": {
+   "version": "hunger-games-v0.1",
+   "path": "quell",
+   "seed": 1849,
+   "district": "4",
+   "female": true,
+   "tesserae_per_year": 0,
+   "quell_age": 12,
+   "reapings": [],
+   "outcome": "never_reaped"
+  },
+  "selection": "Lowest stored seed with outcome never_reaped. Illustration, not typical."
+ },
+ {
+  "path": "quell",
+  "category": "reaped_replaced",
+  "life": {
+   "version": "hunger-games-v0.1",
+   "path": "quell",
+   "seed": 7350,
+   "district": "1",
+   "female": false,
+   "tesserae_per_year": 0,
+   "quell_age": 14,
+   "reapings": [
+    {
+     "age": 18,
+     "slips": 7,
+     "quell": false,
+     "result": "replaced_by_volunteer"
+    }
+   ],
+   "outcome": "reaped_replaced"
+  },
+  "selection": "Lowest stored seed with outcome reaped_replaced. Illustration, not typical."
+ },
+ {
+  "path": "quell",
+  "category": "won",
+  "life": {
+   "version": "hunger-games-v0.1",
+   "path": "quell",
+   "seed": 77001,
+   "district": "9",
+   "female": true,
+   "tesserae_per_year": 6,
+   "quell_age": 12,
+   "reapings": [
+    {
+     "age": 15,
+     "slips": 28,
+     "quell": false,
+     "result": "won",
+     "tributes": 24
+    }
+   ],
+   "outcome": "won"
+  },
+  "selection": "Lowest stored seed with outcome won. Illustration, not typical."
+ },
+ {
+  "path": "d12_quell",
+  "category": "died",
+  "life": {
+   "version": "hunger-games-v0.1",
+   "path": "d12_quell",
+   "seed": 1855,
+   "district": "12",
+   "female": false,
+   "tesserae_per_year": 5,
+   "quell_age": 13,
+   "reapings": [
+    {
+     "age": 16,
+     "slips": 30,
+     "quell": false,
+     "result": "died",
+     "tributes": 24
+    }
+   ],
+   "outcome": "died"
+  },
+  "selection": "Lowest stored seed with outcome died. Illustration, not typical."
+ },
+ {
+  "path": "d12_quell",
+  "category": "never_reaped",
+  "life": {
+   "version": "hunger-games-v0.1",
+   "path": "d12_quell",
+   "seed": 1849,
+   "district": "12",
+   "female": true,
+   "tesserae_per_year": 2,
+   "quell_age": 12,
+   "reapings": [],
+   "outcome": "never_reaped"
+  },
+  "selection": "Lowest stored seed with outcome never_reaped. Illustration, not typical."
+ },
+ {
+  "path": "d12_quell",
+  "category": "won",
+  "life": {
+   "version": "hunger-games-v0.1",
+   "path": "d12_quell",
+   "seed": 3056,
+   "district": "12",
+   "female": true,
+   "tesserae_per_year": 5,
+   "quell_age": 15,
+   "reapings": [
+    {
+     "age": 15,
+     "slips": 24,
+     "quell": true,
+     "result": "won",
+     "tributes": 48
+    }
+   ],
+   "outcome": "won"
+  },
+  "selection": "Lowest stored seed with outcome won. Illustration, not typical."
+ },
+ {
+  "path": "equal",
+  "category": "died",
+  "life": {
+   "version": "hunger-games-v0.1",
+   "path": "equal",
+   "seed": 1852,
+   "district": "2",
+   "female": false,
+   "tesserae_per_year": 0,
+   "quell_age": null,
+   "reapings": [
+    {
+     "age": 16,
+     "slips": 5,
+     "quell": false,
+     "result": "died",
+     "tributes": 24
+    }
+   ],
+   "outcome": "died"
+  },
+  "selection": "Lowest stored seed with outcome died. Illustration, not typical."
+ },
+ {
+  "path": "equal",
+  "category": "never_reaped",
+  "life": {
+   "version": "hunger-games-v0.1",
+   "path": "equal",
+   "seed": 1849,
+   "district": "8",
+   "female": false,
+   "tesserae_per_year": 0,
+   "quell_age": null,
+   "reapings": [],
+   "outcome": "never_reaped"
+  },
+  "selection": "Lowest stored seed with outcome never_reaped. Illustration, not typical."
+ },
+ {
+  "path": "equal",
+  "category": "reaped_replaced",
+  "life": {
+   "version": "hunger-games-v0.1",
+   "path": "equal",
+   "seed": 2198,
+   "district": "4",
+   "female": true,
+   "tesserae_per_year": 0,
+   "quell_age": null,
+   "reapings": [
+    {
+     "age": 13,
+     "slips": 2,
+     "quell": false,
+     "result": "replaced_by_volunteer"
+    }
+   ],
+   "outcome": "reaped_replaced"
+  },
+  "selection": "Lowest stored seed with outcome reaped_replaced. Illustration, not typical."
+ },
+ {
+  "path": "equal",
+  "category": "won",
+  "life": {
+   "version": "hunger-games-v0.1",
+   "path": "equal",
+   "seed": 2016,
+   "district": "8",
+   "female": false,
+   "tesserae_per_year": 3,
+   "quell_age": null,
+   "reapings": [
+    {
+     "age": 16,
+     "slips": 20,
+     "quell": false,
+     "result": "won",
+     "tributes": 24
+    }
+   ],
+   "outcome": "won"
+  },
+  "selection": "Lowest stored seed with outcome won. Illustration, not typical."
+ },
+ {
+  "path": "luck_only",
+  "category": "died",
+  "life": {
+   "version": "hunger-games-v0.1",
+   "path": "luck_only",
+   "seed": 2895,
+   "district": "12",
+   "female": false,
+   "tesserae_per_year": 6,
+   "quell_age": null,
+   "reapings": [
+    {
+     "age": 18,
+     "slips": 49,
+     "quell": false,
+     "result": "died",
+     "tributes": 24
+    }
+   ],
+   "outcome": "died"
+  },
+  "selection": "Lowest stored seed with outcome died. Illustration, not typical."
+ },
+ {
+  "path": "luck_only",
+  "category": "never_reaped",
+  "life": {
+   "version": "hunger-games-v0.1",
+   "path": "luck_only",
+   "seed": 1849,
+   "district": "4",
+   "female": false,
+   "tesserae_per_year": 2,
+   "quell_age": null,
+   "reapings": [],
+   "outcome": "never_reaped"
+  },
+  "selection": "Lowest stored seed with outcome never_reaped. Illustration, not typical."
+ },
+ {
+  "path": "luck_only",
+  "category": "reaped_replaced",
+  "life": {
+   "version": "hunger-games-v0.1",
+   "path": "luck_only",
+   "seed": 23955,
+   "district": "2",
+   "female": false,
+   "tesserae_per_year": 0,
+   "quell_age": null,
+   "reapings": [
+    {
+     "age": 18,
+     "slips": 7,
+     "quell": false,
+     "result": "replaced_by_volunteer"
+    }
+   ],
+   "outcome": "reaped_replaced"
+  },
+  "selection": "Lowest stored seed with outcome reaped_replaced. Illustration, not typical."
+ },
+ {
+  "path": "luck_only",
+  "category": "won",
+  "life": {
+   "version": "hunger-games-v0.1",
+   "path": "luck_only",
+   "seed": 262031,
+   "district": "8",
+   "female": true,
+   "tesserae_per_year": 0,
+   "quell_age": null,
+   "reapings": [
+    {
+     "age": 15,
+     "slips": 4,
+     "quell": false,
+     "result": "won",
+     "tributes": 24
+    }
+   ],
+   "outcome": "won"
+  },
+  "selection": "Lowest stored seed with outcome won. Illustration, not typical."
+ }
+]

@@ -25,6 +25,7 @@ Where a model rests on its own coefficients, they are the author's assumptions. 
 | 08 | [The Traitors: who really wins the game](08-the-traitors/) · [video](https://youtu.be/-pljkwO23Qs) | 28 million seasons |
 | 09 | [GTA 6 took 13 years: how many day-one players didn't live to play it?](09-gta-wait/) · [video](https://youtu.be/14wEcvDPaJI) | 4 million lives |
 | 10 | [Are Black Friday deals fake? A million shoppers, six million price tags](10-black-friday/) · [video](https://youtu.be/Te2obD20XSc) | 4 million shoppers |
+| 11 | [The Hunger Games: what are your odds of being reaped?](11-hunger-games/) · [video](https://youtu.be/TeN55Uy6xKg) | 10 million children, 3 million Games |
 
 ## License
 

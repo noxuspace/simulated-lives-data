@@ -1,0 +1,11 @@
+who,district,tesserae_per_year,slips_last_year,bowl_slips,p_last_year,one_in_last_year,p_lifetime,one_in_lifetime
+"Prim: District 12, age 12, no tesserae (first reaping)",12,0,1,8870,0.00011273448773448773,8870,0.00011273448773452266,8870
+"Katniss: District 12, tesserae for 3, ages 12-16",12,3,20,8870,0.002254689754689755,444,0.006746805556314683,148
+"Gale: District 12, tesserae for 5, ages 12-18",12,5,42,8870,0.004734848484848485,211,0.01879267561500375,53
+"Seam child, tesserae for 6, ages 12-18",12,6,49,8870,0.005523989898989899,181,0.02189639656076381,46
+"District 12 merchant child, no tesserae, ages 12-18",12,0,7,8870,0.0007891414141414141,1267,0.003152476144820948,317
+"Haymitch: District 12, tesserae for 3, age 16 in the Quell, ages 12-16",12,3,20,8870,0.00451097285763421,222,0.008992930270263932,111
+"District 11 child, tesserae for 4, ages 12-18",11,4,35,384199,9.109857594706081e-05,10977,0.0003643397721474484,2745
+"District 1 child, no tesserae, ages 12-18",1,0,7,98794,7.085444795882507e-05,14113,0.0002833848029781816,3529
+"District 1 child, no tesserae, if District 1 were as small as District 12 (8,000)",1,0,7,2177,0.003215020576131688,311,0.012792347264733439,78
+Capitol child,Capitol,0,0,0,0.0,,0.0,

@@ -1,0 +1,751 @@
+{
+ "paths": [
+  {
+   "path": "panem",
+   "label": "A random child of Panem (Districts 1-12)",
+   "settings": {
+    "district": null,
+    "class": null,
+    "quell_age": null,
+    "equal_districts": false,
+    "per_age_share": 0.018,
+    "family_min": 2,
+    "family_max": 6,
+    "volunteer_rate": 0.9,
+    "career_strength": 3.0
+   },
+   "children": 1000000,
+   "p_reaped": 0.000337,
+   "ci95_reaped": [
+    0.000302893640429084,
+    0.00037494535558462886
+   ],
+   "n_reaped": 337,
+   "p_arena": 0.000265,
+   "ci95_arena": [
+    0.00023495986458283176,
+    0.00029887968461915585
+   ],
+   "n_arena": 265,
+   "p_never_reaped": 0.999663,
+   "ci95_never_reaped": [
+    0.9996250546444153,
+    0.9996971063595709
+   ],
+   "n_never_reaped": 999663,
+   "p_reaped_replaced": 7.2e-05,
+   "ci95_reaped_replaced": [
+    5.717947052590772e-05,
+    9.066156152798351e-05
+   ],
+   "n_reaped_replaced": 72,
+   "p_died": 0.000255,
+   "ci95_died": [
+    0.00022556634240047518,
+    0.00028827328363321736
+   ],
+   "n_died": 255,
+   "p_won": 1e-05,
+   "ci95_won": [
+    5.431935747294848e-06,
+    1.8409572663166442e-05
+   ],
+   "n_won": 10,
+   "age_first_reaped": {
+    "12": 7,
+    "13": 28,
+    "14": 50,
+    "15": 42,
+    "16": 67,
+    "17": 65,
+    "18": 78
+   },
+   "age_in_arena": {
+    "12": 6,
+    "13": 23,
+    "14": 40,
+    "15": 36,
+    "16": 56,
+    "17": 48,
+    "18": 56
+   },
+   "arena_by_year_type": {
+    "normal|died": 255,
+    "normal|won": 10
+   }
+  },
+  {
+   "path": "d12",
+   "label": "A random child of District 12",
+   "settings": {
+    "district": "12",
+    "class": null,
+    "quell_age": null,
+    "equal_districts": false,
+    "per_age_share": 0.018,
+    "family_min": 2,
+    "family_max": 6,
+    "volunteer_rate": 0.9,
+    "career_strength": 3.0
+   },
+   "children": 1000000,
+   "p_reaped": 0.01405,
+   "ci95_reaped": [
+    0.013821173473987536,
+    0.014282560162709321
+   ],
+   "n_reaped": 14050,
+   "p_arena": 0.01405,
+   "ci95_arena": [
+    0.013821173473987536,
+    0.014282560162709321
+   ],
+   "n_arena": 14050,
+   "p_never_reaped": 0.98595,
+   "ci95_never_reaped": [
+    0.9857174398372907,
+    0.9861788265260124
+   ],
+   "n_never_reaped": 985950,
+   "p_reaped_replaced": 0.0,
+   "ci95_reaped_replaced": [
+    0,
+    3.841585242166133e-06
+   ],
+   "n_reaped_replaced": 0,
+   "p_died": 0.013665,
+   "ci95_died": [
+    0.01343931301812,
+    0.013894423576597495
+   ],
+   "n_died": 13665,
+   "p_won": 0.000385,
+   "ci95_won": [
+    0.0003484209413854627,
+    0.0004254176858360668
+   ],
+   "n_won": 385,
+   "age_first_reaped": {
+    "12": 513,
+    "13": 990,
+    "14": 1509,
+    "15": 1981,
+    "16": 2550,
+    "17": 3042,
+    "18": 3465
+   },
+   "age_in_arena": {
+    "12": 513,
+    "13": 990,
+    "14": 1509,
+    "15": 1981,
+    "16": 2550,
+    "17": 3042,
+    "18": 3465
+   },
+   "arena_by_year_type": {
+    "normal|won": 385,
+    "normal|died": 13665
+   }
+  },
+  {
+   "path": "d12_seam",
+   "label": "District 12, Seam family taking tesserae",
+   "settings": {
+    "district": "12",
+    "class": "poor",
+    "quell_age": null,
+    "equal_districts": false,
+    "per_age_share": 0.018,
+    "family_min": 2,
+    "family_max": 6,
+    "volunteer_rate": 0.9,
+    "career_strength": 3.0
+   },
+   "children": 1000000,
+   "p_reaped": 0.015676,
+   "ci95_reaped": [
+    0.015434385455248133,
+    0.015921335688613515
+   ],
+   "n_reaped": 15676,
+   "p_arena": 0.015676,
+   "ci95_arena": [
+    0.015434385455248133,
+    0.015921335688613515
+   ],
+   "n_arena": 15676,
+   "p_never_reaped": 0.984324,
+   "ci95_never_reaped": [
+    0.9840786643113865,
+    0.9845656145447518
+   ],
+   "n_never_reaped": 984324,
+   "p_reaped_replaced": 0.0,
+   "ci95_reaped_replaced": [
+    0,
+    3.841585242166133e-06
+   ],
+   "n_reaped_replaced": 0,
+   "p_died": 0.015209,
+   "ci95_died": [
+    0.014970984215358378,
+    0.015450740516543887
+   ],
+   "n_died": 15209,
+   "p_won": 0.000467,
+   "ci95_won": [
+    0.000426529553496628,
+    0.0005113084437049218
+   ],
+   "n_won": 467,
+   "age_first_reaped": {
+    "12": 570,
+    "13": 1108,
+    "14": 1686,
+    "15": 2149,
+    "16": 2910,
+    "17": 3371,
+    "18": 3882
+   },
+   "age_in_arena": {
+    "12": 570,
+    "13": 1108,
+    "14": 1686,
+    "15": 2149,
+    "16": 2910,
+    "17": 3371,
+    "18": 3882
+   },
+   "arena_by_year_type": {
+    "normal|died": 15209,
+    "normal|won": 467
+   }
+  },
+  {
+   "path": "d12_merchant",
+   "label": "District 12, merchant family, no tesserae",
+   "settings": {
+    "district": "12",
+    "class": "rich",
+    "quell_age": null,
+    "equal_districts": false,
+    "per_age_share": 0.018,
+    "family_min": 2,
+    "family_max": 6,
+    "volunteer_rate": 0.9,
+    "career_strength": 3.0
+   },
+   "children": 1000000,
+   "p_reaped": 0.00325,
+   "ci95_reaped": [
+    0.003140336729859352,
+    0.00336347988507874
+   ],
+   "n_reaped": 3250,
+   "p_arena": 0.00325,
+   "ci95_arena": [
+    0.003140336729859352,
+    0.00336347988507874
+   ],
+   "n_arena": 3250,
+   "p_never_reaped": 0.99675,
+   "ci95_never_reaped": [
+    0.9966365201149213,
+    0.9968596632701406
+   ],
+   "n_never_reaped": 996750,
+   "p_reaped_replaced": 0.0,
+   "ci95_reaped_replaced": [
+    0,
+    3.841585242166133e-06
+   ],
+   "n_reaped_replaced": 0,
+   "p_died": 0.003136,
+   "ci95_died": [
+    0.0030283045731635642,
+    0.0032475129176559626
+   ],
+   "n_died": 3136,
+   "p_won": 0.000114,
+   "ci95_won": [
+    9.490658408907144e-05,
+    0.0001369341252716595
+   ],
+   "n_won": 114,
+   "age_first_reaped": {
+    "12": 95,
+    "13": 236,
+    "14": 371,
+    "15": 458,
+    "16": 577,
+    "17": 718,
+    "18": 795
+   },
+   "age_in_arena": {
+    "12": 95,
+    "13": 236,
+    "14": 371,
+    "15": 458,
+    "16": 577,
+    "17": 718,
+    "18": 795
+   },
+   "arena_by_year_type": {
+    "normal|died": 3136,
+    "normal|won": 114
+   }
+  },
+  {
+   "path": "d1",
+   "label": "A random child of District 1 (Career)",
+   "settings": {
+    "district": "1",
+    "class": null,
+    "quell_age": null,
+    "equal_districts": false,
+    "per_age_share": 0.018,
+    "family_min": 2,
+    "family_max": 6,
+    "volunteer_rate": 0.9,
+    "career_strength": 3.0
+   },
+   "children": 1000000,
+   "p_reaped": 0.0003,
+   "ci95_reaped": [
+    0.00026792236307415795,
+    0.0003359169172168627
+   ],
+   "n_reaped": 300,
+   "p_arena": 2.3e-05,
+   "ci95_arena": [
+    1.5326772159204668e-05,
+    3.4514636370040324e-05
+   ],
+   "n_arena": 23,
+   "p_never_reaped": 0.9997,
+   "ci95_never_reaped": [
+    0.9996640830827831,
+    0.9997320776369257
+   ],
+   "n_never_reaped": 999700,
+   "p_reaped_replaced": 0.000277,
+   "ci95_reaped_replaced": [
+    0.00024624696142283835,
+    0.0003115924955811036
+   ],
+   "n_reaped_replaced": 277,
+   "p_died": 2.3e-05,
+   "ci95_died": [
+    1.5326772159204668e-05,
+    3.4514636370040324e-05
+   ],
+   "n_died": 23,
+   "p_won": 0.0,
+   "ci95_won": [
+    0,
+    3.841585242166133e-06
+   ],
+   "n_won": 0,
+   "age_first_reaped": {
+    "12": 12,
+    "13": 19,
+    "14": 37,
+    "15": 52,
+    "16": 51,
+    "17": 59,
+    "18": 70
+   },
+   "age_in_arena": {
+    "13": 1,
+    "14": 6,
+    "15": 3,
+    "16": 3,
+    "17": 6,
+    "18": 4
+   },
+   "arena_by_year_type": {
+    "normal|died": 23
+   }
+  },
+  {
+   "path": "d11",
+   "label": "A random child of District 11",
+   "settings": {
+    "district": "11",
+    "class": null,
+    "quell_age": null,
+    "equal_districts": false,
+    "per_age_share": 0.018,
+    "family_min": 2,
+    "family_max": 6,
+    "volunteer_rate": 0.9,
+    "career_strength": 3.0
+   },
+   "children": 1000000,
+   "p_reaped": 0.00031,
+   "ci95_reaped": [
+    0.00027736229975843576,
+    0.0003464769037008801
+   ],
+   "n_reaped": 310,
+   "p_arena": 0.00031,
+   "ci95_arena": [
+    0.00027736229975843576,
+    0.0003464769037008801
+   ],
+   "n_arena": 310,
+   "p_never_reaped": 0.99969,
+   "ci95_never_reaped": [
+    0.9996535230962991,
+    0.9997226377002415
+   ],
+   "n_never_reaped": 999690,
+   "p_reaped_replaced": 0.0,
+   "ci95_reaped_replaced": [
+    0,
+    3.841585242166133e-06
+   ],
+   "n_reaped_replaced": 0,
+   "p_died": 0.000301,
+   "ci95_died": [
+    0.00026886594179118797,
+    0.0003369733308166623
+   ],
+   "n_died": 301,
+   "p_won": 9e-06,
+   "ci95_won": [
+    4.735027088756154e-06,
+    1.7106489004875616e-05
+   ],
+   "n_won": 9,
+   "age_first_reaped": {
+    "12": 10,
+    "13": 20,
+    "14": 40,
+    "15": 27,
+    "16": 58,
+    "17": 74,
+    "18": 81
+   },
+   "age_in_arena": {
+    "12": 10,
+    "13": 20,
+    "14": 40,
+    "15": 27,
+    "16": 58,
+    "17": 74,
+    "18": 81
+   },
+   "arena_by_year_type": {
+    "normal|died": 301,
+    "normal|won": 9
+   }
+  },
+  {
+   "path": "quell",
+   "label": "A random child of Panem whose reaping years include the Second Quarter Quell",
+   "settings": {
+    "district": null,
+    "class": null,
+    "quell_age": "random",
+    "equal_districts": false,
+    "per_age_share": 0.018,
+    "family_min": 2,
+    "family_max": 6,
+    "volunteer_rate": 0.9,
+    "career_strength": 3.0
+   },
+   "children": 1000000,
+   "p_reaped": 0.000394,
+   "ci95_reaped": [
+    0.00035697480747625245,
+    0.0004348637505967427
+   ],
+   "n_reaped": 394,
+   "p_arena": 0.000294,
+   "ci95_arena": [
+    0.0002622628790836844,
+    0.0003295764473063592
+   ],
+   "n_arena": 294,
+   "p_never_reaped": 0.999606,
+   "ci95_never_reaped": [
+    0.9995651362494031,
+    0.9996430251925237
+   ],
+   "n_never_reaped": 999606,
+   "p_reaped_replaced": 0.0001,
+   "ci95_reaped_replaced": [
+    8.222756516791855e-05,
+    0.00012161325175719914
+   ],
+   "n_reaped_replaced": 100,
+   "p_died": 0.000284,
+   "ci95_died": [
+    0.0002528382020053442,
+    0.0003190012012164043
+   ],
+   "n_died": 284,
+   "p_won": 1e-05,
+   "ci95_won": [
+    5.431935747294848e-06,
+    1.8409572663166442e-05
+   ],
+   "n_won": 10,
+   "age_first_reaped": {
+    "12": 11,
+    "13": 29,
+    "14": 35,
+    "15": 57,
+    "16": 77,
+    "17": 75,
+    "18": 110
+   },
+   "age_in_arena": {
+    "12": 8,
+    "13": 20,
+    "14": 25,
+    "15": 45,
+    "16": 57,
+    "17": 62,
+    "18": 77
+   },
+   "arena_by_year_type": {
+    "quell|died": 82,
+    "normal|died": 202,
+    "normal|won": 8,
+    "quell|won": 2
+   }
+  },
+  {
+   "path": "d12_quell",
+   "label": "A District 12 child whose reaping years include the Second Quarter Quell",
+   "settings": {
+    "district": "12",
+    "class": null,
+    "quell_age": "random",
+    "equal_districts": false,
+    "per_age_share": 0.018,
+    "family_min": 2,
+    "family_max": 6,
+    "volunteer_rate": 0.9,
+    "career_strength": 3.0
+   },
+   "children": 1000000,
+   "p_reaped": 0.015619,
+   "ci95_reaped": [
+    0.015377821667348834,
+    0.01586389991445353
+   ],
+   "n_reaped": 15619,
+   "p_arena": 0.015619,
+   "ci95_arena": [
+    0.015377821667348834,
+    0.01586389991445353
+   ],
+   "n_arena": 15619,
+   "p_never_reaped": 0.984381,
+   "ci95_never_reaped": [
+    0.9841361000855463,
+    0.9846221783326511
+   ],
+   "n_never_reaped": 984381,
+   "p_reaped_replaced": 0.0,
+   "ci95_reaped_replaced": [
+    0,
+    3.841585242166133e-06
+   ],
+   "n_reaped_replaced": 0,
+   "p_died": 0.015205,
+   "ci95_died": [
+    0.014967015287943464,
+    0.015446709474691483
+   ],
+   "n_died": 15205,
+   "p_won": 0.000414,
+   "ci95_won": [
+    0.0003760012714591304,
+    0.00045583713295045507
+   ],
+   "n_won": 414,
+   "age_first_reaped": {
+    "12": 602,
+    "13": 1093,
+    "14": 1670,
+    "15": 2285,
+    "16": 2766,
+    "17": 3365,
+    "18": 3838
+   },
+   "age_in_arena": {
+    "12": 602,
+    "13": 1093,
+    "14": 1670,
+    "15": 2285,
+    "16": 2766,
+    "17": 3365,
+    "18": 3838
+   },
+   "arena_by_year_type": {
+    "normal|died": 11322,
+    "quell|died": 3883,
+    "quell|won": 55,
+    "normal|won": 359
+   }
+  },
+  {
+   "path": "equal",
+   "label": "Assumption: every district the size of District 12 (8,000)",
+   "settings": {
+    "district": null,
+    "class": null,
+    "quell_age": null,
+    "equal_districts": true,
+    "per_age_share": 0.018,
+    "family_min": 2,
+    "family_max": 6,
+    "volunteer_rate": 0.9,
+    "career_strength": 3.0
+   },
+   "children": 1000000,
+   "p_reaped": 0.013773,
+   "ci95_reaped": [
+    0.013546427713100252,
+    0.01400330805183483
+   ],
+   "n_reaped": 13773,
+   "p_arena": 0.010694,
+   "ci95_arena": [
+    0.010494270891657984,
+    0.010897488529759022
+   ],
+   "n_arena": 10694,
+   "p_never_reaped": 0.986227,
+   "ci95_never_reaped": [
+    0.9859966919481651,
+    0.9864535722868997
+   ],
+   "n_never_reaped": 986227,
+   "p_reaped_replaced": 0.003079,
+   "ci95_reaped_replaced": [
+    0.002972302031122083,
+    0.003189515897638162
+   ],
+   "n_reaped_replaced": 3079,
+   "p_died": 0.010368,
+   "ci95_died": [
+    0.010171335902742972,
+    0.010568426023387608
+   ],
+   "n_died": 10368,
+   "p_won": 0.000326,
+   "ci95_won": [
+    0.00029248462590769923,
+    0.00036335445462088887
+   ],
+   "n_won": 326,
+   "age_first_reaped": {
+    "12": 479,
+    "13": 995,
+    "14": 1487,
+    "15": 1984,
+    "16": 2496,
+    "17": 2906,
+    "18": 3426
+   },
+   "age_in_arena": {
+    "12": 357,
+    "13": 760,
+    "14": 1158,
+    "15": 1515,
+    "16": 1944,
+    "17": 2294,
+    "18": 2666
+   },
+   "arena_by_year_type": {
+    "normal|died": 10368,
+    "normal|won": 326
+   }
+  },
+  {
+   "path": "luck_only",
+   "label": "Assumption: no Career advantage in the arena",
+   "settings": {
+    "district": null,
+    "class": null,
+    "quell_age": null,
+    "equal_districts": false,
+    "per_age_share": 0.018,
+    "family_min": 2,
+    "family_max": 6,
+    "volunteer_rate": 0.9,
+    "career_strength": 1.0
+   },
+   "children": 1000000,
+   "p_reaped": 0.000321,
+   "ci95_reaped": [
+    0.0002877565429560312,
+    0.0003580825759884093
+   ],
+   "n_reaped": 321,
+   "p_arena": 0.000264,
+   "ci95_arena": [
+    0.00023401999301892127,
+    0.00029781956386623696
+   ],
+   "n_arena": 264,
+   "p_never_reaped": 0.999679,
+   "ci95_never_reaped": [
+    0.9996419174240115,
+    0.9997122434570439
+   ],
+   "n_never_reaped": 999679,
+   "p_reaped_replaced": 5.7e-05,
+   "ci95_reaped_replaced": [
+    4.3999230526163585e-05,
+    7.384191677528493e-05
+   ],
+   "n_reaped_replaced": 57,
+   "p_died": 0.000257,
+   "ci95_died": [
+    0.0002274441111095249,
+    0.00029039549955782673
+   ],
+   "n_died": 257,
+   "p_won": 7e-06,
+   "ci95_won": [
+    3.390824550644936e-06,
+    1.4450706909327806e-05
+   ],
+   "n_won": 7,
+   "age_first_reaped": {
+    "12": 15,
+    "13": 19,
+    "14": 29,
+    "15": 43,
+    "16": 45,
+    "17": 73,
+    "18": 97
+   },
+   "age_in_arena": {
+    "12": 14,
+    "13": 18,
+    "14": 25,
+    "15": 32,
+    "16": 33,
+    "17": 62,
+    "18": 80
+   },
+   "arena_by_year_type": {
+    "normal|died": 257,
+    "normal|won": 7
+   }
+  }
+ ],
+ "run": {
+  "seed": 1849,
+  "children_per_path": 1000000,
+  "fingerprint": "536be3a400a58759417175307ddd8320175ddedbcc9eec0ae2d209415be2963f"
+ }
+}

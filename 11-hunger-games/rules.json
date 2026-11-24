@@ -1,0 +1,167 @@
+{
+  "version": "hunger-games-v0.1",
+  "definition": "One simulated child of Panem per seed, followed through every reaping from age 12 to 18. Each year the child's slips go into their district's bowl (boys and girls separately); one name per bowl is drawn (two in the Second Quarter Quell). A reaped child from a Career district is usually replaced by a volunteer. A child who enters the arena wins with probability proportional to their strength among all tributes; otherwise dies. Victors are never reaped again.",
+  "rules": {
+    "source": "Hunger Games Wiki: Reaping, Tessera (citing The Hunger Games ch. 1-2, Sunrise on the Reaping ch. 1-2, Catching Fire ch. 12-14); Wikipedia: Sunrise on the Reaping. Read 18.11.2026.",
+    "ages": [
+      12,
+      18
+    ],
+    "base_slips": "age - 11 (1 slip at 12, cumulative +1 each year, 7 at 18)",
+    "tessera": "one tessera = a year's supply of grain and oil for one person; one extra slip per tessera, for each family member, cumulative over the years taken",
+    "canon_checks": {
+      "Katniss, 16, tesserae for 3 since 12": 20,
+      "Gale, 18, tesserae for 5 since 12": 42,
+      "Haymitch, 16, tesserae for 3 (50th Games)": 20,
+      "Prim, 12, no tesserae": 1
+    },
+    "tributes": "one boy and one girl per district, 12 districts, 24 tributes; Second Quarter Quell (50th Games): two boys and two girls per district, 48 tributes",
+    "capitol": "Capitol children are never reaped",
+    "careers": "Districts 1, 2 and 4: children train and usually volunteer (Hunger Games Wiki, Reaping / Volunteering)"
+  },
+  "districts": {
+    "1": {
+      "population": 363000,
+      "poor_share": 0.02,
+      "career": true
+    },
+    "2": {
+      "population": 363000,
+      "poor_share": 0.05,
+      "career": true
+    },
+    "3": {
+      "population": 363000,
+      "poor_share": 0.4,
+      "career": false
+    },
+    "4": {
+      "population": 363000,
+      "poor_share": 0.1,
+      "career": true
+    },
+    "5": {
+      "population": 363000,
+      "poor_share": 0.4,
+      "career": false
+    },
+    "6": {
+      "population": 363000,
+      "poor_share": 0.4,
+      "career": false
+    },
+    "7": {
+      "population": 363000,
+      "poor_share": 0.4,
+      "career": false
+    },
+    "8": {
+      "population": 363000,
+      "poor_share": 0.6,
+      "career": false
+    },
+    "9": {
+      "population": 363000,
+      "poor_share": 0.6,
+      "career": false
+    },
+    "10": {
+      "population": 363000,
+      "poor_share": 0.6,
+      "career": false
+    },
+    "11": {
+      "population": 363000,
+      "poor_share": 0.8,
+      "career": false
+    },
+    "12": {
+      "population": 8000,
+      "poor_share": 0.85,
+      "career": false
+    }
+  },
+  "assumptions": {
+    "population": "District 12: about 8,000 (canon, Mockingjay ch. 1 via Hunger Games Wiki). Other districts: not given in the books. The Hunger Games Wiki states a Panem population of 4,556,778 'according to the Capitol' (no source); assumed about 4 million people in Districts 1-11, split equally (363,000 each).",
+    "per_age_share": "1.8% of a district's population in each one-year age group 12-18 (a young, poor population), half boys, half girls.",
+    "poor_share": "Share of children whose family takes tesserae. District 12: most live in the Seam (assumed 85%); poorer districts 10-11 high, Career districts 1, 2, 4 low (the wiki notes tesserae are far rarer there). All numbers are the author's guesses.",
+    "family_tesserae": "A tesserae-taking child takes one tessera per family member every year since 12; family members fed: 2 to 6, equally likely (canon examples: Katniss 3, Gale 5).",
+    "volunteer_rate": "In Career districts a reaped child is replaced by a volunteer 90% of the time.",
+    "career_strength": "In the arena a Career volunteer has 3 times the winning chance of any other tribute; every tribute who is not the winner dies (one victor per Games)."
+  },
+  "defaults": {
+    "district": null,
+    "class": null,
+    "quell_age": null,
+    "equal_districts": false,
+    "per_age_share": 0.018,
+    "family_min": 2,
+    "family_max": 6,
+    "volunteer_rate": 0.9,
+    "career_strength": 3.0
+  },
+  "paths": {
+    "panem": {
+      "label": "A random child of Panem (Districts 1-12)",
+      "set": {}
+    },
+    "d12": {
+      "label": "A random child of District 12",
+      "set": {
+        "district": "12"
+      }
+    },
+    "d12_seam": {
+      "label": "District 12, Seam family taking tesserae",
+      "set": {
+        "district": "12",
+        "class": "poor"
+      }
+    },
+    "d12_merchant": {
+      "label": "District 12, merchant family, no tesserae",
+      "set": {
+        "district": "12",
+        "class": "rich"
+      }
+    },
+    "d1": {
+      "label": "A random child of District 1 (Career)",
+      "set": {
+        "district": "1"
+      }
+    },
+    "d11": {
+      "label": "A random child of District 11",
+      "set": {
+        "district": "11"
+      }
+    },
+    "quell": {
+      "label": "A random child of Panem whose reaping years include the Second Quarter Quell",
+      "set": {
+        "quell_age": "random"
+      }
+    },
+    "d12_quell": {
+      "label": "A District 12 child whose reaping years include the Second Quarter Quell",
+      "set": {
+        "district": "12",
+        "quell_age": "random"
+      }
+    },
+    "equal": {
+      "label": "Assumption: every district the size of District 12 (8,000)",
+      "set": {
+        "equal_districts": true
+      }
+    },
+    "luck_only": {
+      "label": "Assumption: no Career advantage in the arena",
+      "set": {
+        "career_strength": 1.0
+      }
+    }
+  },
+  "method": "One child of Panem per seed through the reapings at ages 12-18 under the books' rules (slips by age, cumulative tesserae, one boy and one girl per district, two each in the Second Quarter Quell); district sizes, tesserae families, volunteers and arena strength are the author's assumptions. Exact counts; 95% Wilson intervals measure sampling only."
+}
