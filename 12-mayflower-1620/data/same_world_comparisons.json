@@ -1,0 +1,59 @@
+{
+ "sample_worlds": 1000000,
+ "first_world": 1620,
+ "counts": {
+  "n": {
+   "worlds": 1000000,
+   "mayflower_died_first_winter": 755571,
+   "mayflower_alive_after_first_thanksgiving_year": 236434,
+   "same_end_age_all_three": 87590
+  },
+  "anchor": {
+   "colony21_n": 1219746,
+   "colony21_age_sum": 75961335,
+   "colony21_childbirth": 243776,
+   "london_alive_1665": 542998,
+   "london_plague_1665": 141175
+  },
+  "children_grown": {
+   "mayflower": 1508336,
+   "later_ship": 5077500,
+   "london": 2344644
+  },
+  "births": {
+   "mayflower": 1774537,
+   "later_ship": 6056143,
+   "london": 4261974
+  },
+  "died_childbirth": {
+   "mayflower": 58951,
+   "later_ship": 201736,
+   "london": 141752
+  },
+  "most_children_same_world": {
+   "tie": 171849,
+   "later_ship": 602457,
+   "london": 121856,
+   "mayflower": 103838
+  },
+  "longest_life_same_world": {
+   "tie": 473526,
+   "later_ship": 297137,
+   "london": 219061,
+   "mayflower": 10276
+  },
+  "winter_victim_other_lifespan": {
+   "later_ship": 46291118,
+   "london": 42742239
+  },
+  "winter_victim_other_children": {
+   "later_ship": 3837123,
+   "london": 1772398
+  },
+  "plague": {
+   "Plague, 1665": 141175,
+   "Plague, 1625": 125350,
+   "Plague, 1636": 26445
+  }
+ }
+}

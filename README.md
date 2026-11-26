@@ -26,6 +26,7 @@ Where a model rests on its own coefficients, they are the author's assumptions. 
 | 09 | [GTA 6 took 13 years: how many day-one players didn't live to play it?](09-gta-wait/) · [video](https://youtu.be/14wEcvDPaJI) | 4 million lives |
 | 10 | [Are Black Friday deals fake? A million shoppers, six million price tags](10-black-friday/) · [video](https://youtu.be/Te2obD20XSc) | 4 million shoppers |
 | 11 | [The Hunger Games: what are your odds of being reaped?](11-hunger-games/) · [video](https://youtu.be/TeN55Uy6xKg) | 10 million children, 3 million Games |
+| 12 | [Mayflower 1620: which ship would you take?](12-mayflower-1620/) · [video](https://youtu.be/VYnH15V-j_g) | 3 million lives |
 
 ## License
 
