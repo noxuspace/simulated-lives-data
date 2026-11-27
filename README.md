@@ -1,13 +1,13 @@
 # Simulated lives: data behind the videos
 
-Each video on the channel takes one question and answers it with a simple model run millions or billions of times. Some follow one person through many lives (same start, a few different choices, then rules and chance decide the rest). Others replay a real event over and over, or rebuild a published study at a much larger scale. This repository holds the rules and the results behind every number shown on screen.
+Each video on the channel asks one "what if" question and answers it with a simple model run millions or billions of times. Some follow one person through many lives, some replay a real event over and over, and some rebuild a published study at a much larger scale. This repository holds the rules and the results behind every number shown on screen.
 
 The simulation engine is private. What is public for each episode:
 
 - the rules and settings the model used;
 - the input data, with sources;
 - aggregated results for all simulated runs;
-- full year-by-year logs of any individual lives shown in the video.
+- full step-by-step logs of any individual lives shown in the video.
 
 Where a model rests on its own coefficients, they are the author's assumptions. Where it rebuilds a published study, the paper is credited in the episode folder. The models are built for explanation and entertainment, not as historical reconstructions or predictions about real people or events.
 
@@ -15,18 +15,7 @@ Where a model rests on its own coefficients, they are the author's assumptions. 
 
 | # | Episode | Simulated |
 |---|---|---|
-| 01 | [California 1849: dig for gold or sell shovels?](01-california-1849-gold-rush/) · [video](https://youtu.be/jmjQsllSuKc) | 3 million lives |
-| 02 | [Emigration 1900: should your ancestors have stayed home?](02-emigration-1900/) · [video](https://youtu.be/F-Ct2SO_PrE) | 3 million lives |
-| 03 | [Does your vote matter? 5 elections, a billion reruns each](03-your-vote/) · [video](https://youtu.be/hc-3E94MYLc) | 5 billion elections |
-| 04 | [One zombie on Earth: where do humans survive?](04-zombie-earth/) · [video](https://youtu.be/dRH87Ct1BeA) | 10,000 worlds |
-| 05 | [Every era of history: how long would you last?](05-every-era/) · [video](https://youtu.be/H1TFtMePUtg) | 11 million lives |
-| 06 | [Talent or luck? A famous experiment, a billion careers](06-talent-vs-luck/) · [video](https://youtu.be/_uotnvYlITY) | 1 billion careers |
-| 07 | [Ross & Rachel: would the marriage last?](07-ross-and-rachel/) · [video](https://youtu.be/snm_5N4KkU8) | 4 million marriages |
-| 08 | [The Traitors: who really wins the game](08-the-traitors/) · [video](https://youtu.be/-pljkwO23Qs) | 28 million seasons |
-| 09 | [GTA 6 took 13 years: how many day-one players didn't live to play it?](09-gta-wait/) · [video](https://youtu.be/14wEcvDPaJI) | 4 million lives |
-| 10 | [Are Black Friday deals fake? A million shoppers, six million price tags](10-black-friday/) · [video](https://youtu.be/Te2obD20XSc) | 4 million shoppers |
-| 11 | [The Hunger Games: what are your odds of being reaped?](11-hunger-games/) · [video](https://youtu.be/TeN55Uy6xKg) | 10 million children, 3 million Games |
-| 12 | [Mayflower 1620: which ship would you take?](12-mayflower-1620/) · [video](https://youtu.be/VYnH15V-j_g) | 3 million lives |
+| 01 | [What if talent doesn't matter? A famous experiment, a billion lives](01-talent-vs-luck/) · [video](https://youtu.be/rNn_3b6-4EA) | 1 billion lives |
 
 ## License
 

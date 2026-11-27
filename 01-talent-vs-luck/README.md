@@ -1,6 +1,6 @@
-# 06 · Talent or luck? A famous experiment, a billion careers
+# 01 · What if talent doesn't matter? A famous experiment, a billion lives
 
-Video: [**Talent or Luck? I Simulated 1 Billion Careers**](https://youtu.be/_uotnvYlITY)
+Video: [**What If Talent Doesn't Matter? I Simulated 1 Billion Lives**](https://youtu.be/rNn_3b6-4EA)
 
 This folder holds the rules and the results behind every number in the video. The simulation engine is private; the rules, all aggregated results and one full world for replay are here.
 
@@ -30,6 +30,7 @@ A. Pluchino, A. E. Biondo, A. Rapisarda, *Talent vs Luck: the role of randomness
 - The best performer is hit by 10.5 lucky events on average; a typical person by 1.6.
 - The top 1% holds 37.5% of all capital on average.
 - Record world: seed 580915, capital 83,886,080 (10 × 2^23), talent 0.7851.
+- Ada and Sam in the video are names for two people in world 1600: Ada is its most talented person (talent 0.981), Sam is its most successful (talent 0.599, 12 lucky doublings, 40,960 at the end).
 - World 1600, shown in the video step by step, is in [`data/world_1600.json`](data/world_1600.json): positions, talents, lucky/unlucky events and capital for every step.
 
 ## Honest limits

@@ -1,7 +1,0 @@
-age,year,place,married,births,children_grown,income,expenses,aid,savings_after,health_after,skills_after,support_after,choice,events,death
-18,1620,london,False,0,0,23.9,29.6,0,34.3,53.1,29.2,44.8,Spend part of work time learning,Less income now for better skills later; Serious illness with lasting effects; Paid for extra care,
-19,1621,london,False,0,0,26.8,25.4,0,35.8,51.9,30.4,44.5,Carry on,,
-20,1622,london,False,0,0,22.6,31.2,0,27.1,36.6,31.5,44.3,Carry on,Serious illness with lasting effects; Paid for extra care,
-21,1623,london,False,0,0,0,25.2,7,8.9,48.9,31.5,51.1,Accept help from an experienced neighbor; Stop working to recover,A neighbor speeds up learning for three years; Recovery takes the year; no income; Family covers part of the costs during recovery,
-22,1624,london,False,0,0,21.2,23.4,0,6.7,47.6,33.5,50.5,Carry on,,
-23,1625,london,False,0,0,23.9,20.4,0,10.1,46.4,35.4,50.0,Carry on,"Plague in London, 1625","Plague, 1625"
